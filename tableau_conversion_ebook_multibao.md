@@ -3,7 +3,7 @@ Note : certains éléments de conversion sont propres à la version de Yeswiki u
 
 
 Nom|YesWiki|Double Balise|Markdown|Double Balise|Remarque
-----|----|----|----|----
+----|----|----|----|----|----
 Titre 1|======|oui|#|non|
 Titre 2|=====|oui|##|non|
 Titre 3|====|oui|###|non|
