@@ -13,16 +13,14 @@ Titre 6|=|oui|######|non|
 Gras|**|oui|**|oui|
 Italique|//|oui|*|oui|
 Souligné|__|oui|NC|NC|
-Insertion image| | | | |
+Ins. image avec attach| | | | |
+Ins. image avec lien| | | | |
 Lien| | | | |
 Encadré| | | | |
 Appel de note de bas de page| | | | |
 Note de bas de page| | | | |
-Liste à puce niveau 1 | | | | |
-Liste à puce niveau 2 | | | | |
-Liste à puce niveau 3 | | | | |
+Liste à puce niveau 1 | - |non|* |non|
+Liste à puce niveau 2 |  - |non| * |non|
 Liste numérotée | | | | |
 Fond gris | | | | |
 Tableau| | | | |
-HTML à virer| | | | |
-
