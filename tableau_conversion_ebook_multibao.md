@@ -13,7 +13,7 @@ Titre 6|=|oui|######|non|
 Gras|**|oui|**|oui|
 Italique|//|oui|*|oui|
 Souligné|__|oui|NC|NC|
-Ins. image avec attach| | | | |
+Ins. image avec attach|{{attach file="image.png" desc="Description" size="original" class="center original"}}|non |![description](adresse de l'image) |non |
 Ins. image avec lien| | | | |
 Lien| | | | |
 Encadré| | | | |
