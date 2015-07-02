@@ -145,7 +145,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * N'oublier aucune des règles !
 
 ### Abaisser le seuil de passage à l'acte ###
-** Le passage à l'acte chez l'être humain correspond à un basculement brutal **
+**Le passage à l'acte chez l'être humain correspond à un basculement brutal**
 * Logiciel libre :
  * *Donner l'autorisation d'utilisation et de modification a priori grâce à une licence plutôt que d'imposer une demande d'autorisation avant toute action est un autre exemple d'éléments qui facilitent le passage à l'acte.* (Jean-Michel Cornu)
 * *Tela Botanica *:
@@ -170,7 +170,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * projet Flore de France Métropolitaine : 2001. 
  
 ### L'évaluation par l'estime ### 
-* Tela : Projet compilation d'articles botaniques (25674 articles).
+Tela : Projet compilation d'articles botaniques (25674 articles).
 
  De Boissieu Henri - Un acer hybride nouveau pour la flore française. - 1912 - dendrologie, plante hybride, acer x bormulleri, localité, p. 77-78 - Société Botanique de France, Bulletin de la Société Botanique de France, Bull. Soc. Bot. Fr. (1904), Tome 59 - Fascicule 1 - Saisie : Jean TIMBAL -Art. n°13807.
 
