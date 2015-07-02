@@ -41,6 +41,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * Peur que les messages soient mal interprétés.
  * Habitude d'un fonctionnement centralisé. 
  * Contexte institutionnel.
+
 ### Au niveau des outils ###
 * Peur des outils, de la difficulté, interface pas assez ergonomique : l'ordinateur pose problème.
 * Matériel, connexion vétuste.
@@ -53,6 +54,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Des outils trop compliqués.
 * On ne voit pas comment participer.
 * Évolution trop rapide des outils (visuels, fonctionnalités).
+
 ###Au niveau de l'animateur###
 * Trop de sollicitation (Urgent ! à valider, question mal dirigée).
 * Omniprésence ou absence de l'animateur.
@@ -62,6 +64,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Pas assez à l'écoute des besoins du groupe.
 * L'animateur fait au lieu de faire faire.
 * Confusion dans les rôles : animation, *leadership*, facilitateur.
+
 ###Au niveau du projet###
 * Dérive éthique, risque de rupture.
 * Représentation institutionnelle (perte de pouvoir réelle ou ressentie liée au partage de l'information).
@@ -75,11 +78,13 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Manque de visibilité : du temps nécessaire, de l'intérêt du projet, de la finalité du projet.
 * Pas de *leader*.
 * Pas de traces de l'histoire du projet.
+
 ###Le temps###
 * Manque de temps :
  * pour l'appropriation des outils
  * pour participer au projet.
 * Différences de rythme : salariés / bénévoles.
+
 ## 2. Ce qui facilite ##
 ### Au niveau des personnes###
 * Rencontres physiques, convivialité.
@@ -99,12 +104,14 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Questionner les personnes sur leurs objectifs.
 * Accueil des nouveaux, parrainage.
 * Des supports techniques : savoir où se trouve le référent technique, avoir des modes d'emploi, des rubriques d'aides.
+
 ### Au niveau des outils ###
 * Des règles de conduite.
 * Nétiquette.
 * Mise en place progressive.
 * Simplifier !!! Masquer des fonctionnalités.
 * Mode d'emploi, rubrique d'aide, formations...
+
 ###Au niveau de l'animation###
 ![visibilite](https://framapic.org/du5ZdlX4nsEE/QEZF4arI)
 * Rendre visible l'activité du groupe : synthèse, reformulation, historique, rendre visible ce qui se passe dans les sous-groupes, actus régulières : résumés (TST)
@@ -115,6 +122,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * Savoir-être plus que savoir-faire.
  * En éveil permanent.
 * Synthétiser, reformuler, jardiner.
+
 ###Au niveau du projet###
 * Proposer un historique, un carnet des événements.
 * Minimiser les besoins de départ : mettre en ligne des productions inachevées.
@@ -124,6 +132,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Définition des finalités et du pilotage (Matrice Sagace).
 * Objectifs clairs, charte.
 * Productions : Licences libres pour en faire des biens communs.
+
 ###Les 9 lois de la coopération###
 * Réduire les risques à participer.
 * Abaisser le seuil de passage à l'acte.
@@ -134,6 +143,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Minimiser les risques d'échec par la maîtrise des tâches critiques. 
 * Le temps des opportunités.
 * N'oublier aucune des règles !
+
 ### Abaisser le seuil de passage à l'acte ###
 ** Le passage à l'acte chez l'être humain correspond à un basculement brutal **
 * Logiciel libre :
@@ -143,29 +153,31 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * Utilisation *Forum* et *Wiki*.
  * Incitation à la participation par des exercices simples :
  * Faire une faute volontaire sur un nom de personne pour la faire réagir et l'inciter à corriger par elle-même.
+
 ### Biens non consommables et environnement d'abondance ###
- * Tela Botanica : projet Flore de France Métropolitaine.
- * Issu du travail d'une personne : travail de nomenclature et taxonomie sur 75 000 noms.
- * 55 599 fiches modifiées par les membres du réseau. 
- * Ajout de 46 794 noms vernaculaires (plusieurs langues).
+* Tela Botanica : projet Flore de France Métropolitaine.
+* Issu du travail d'une personne : travail de nomenclature et taxonomie sur 75 000 noms.
+* 55 599 fiches modifiées par les membres du réseau. 
+* Ajout de 46 794 noms vernaculaires (plusieurs langues).
+
 ### Les communautés qui durent convergent vers la coopération ###
 ![convergence](https://framapic.org/tlAP8zYGYFAf/6RLcc24p)
 
- * S'associer très en amont pour éviter la concurrence en aval. 
- * GNU/Linux. 
- * GNU et Free Software Foundation : 1985 .
- * Linux : 1991.
- * projet Flore de France Métropolitaine : 2001. 
+* S'associer très en amont pour éviter la concurrence en aval. 
+* GNU/Linux. 
+* GNU et Free Software Foundation : 1985 .
+* Linux : 1991.
+* projet Flore de France Métropolitaine : 2001. 
  
 ### L'évaluation par l'estime ### 
- * Tela : Projet compilation d'articles botaniques (25674 articles).
-##
+* Tela : Projet compilation d'articles botaniques (25674 articles).
+
  De Boissieu Henri - Un acer hybride nouveau pour la flore française. - 1912 - dendrologie, plante hybride, acer x bormulleri, localité, p. 77-78 - Société Botanique de France, Bulletin de la Société Botanique de France, Bull. Soc. Bot. Fr. (1904), Tome 59 - Fascicule 1 - Saisie : Jean TIMBAL -Art. n°13807.
 
  Delahaye Thierry, Henze Gaston, Lequay Arthur - Les orchidées de Monthoux - 1996 - Savoie, Avant-pays, Acéracées, acer monspessulanum, Fabacées, Argyrolobium zanonii, p. 15-19 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°1 - Saisie : Sylvie SERVE - Art. n°479.
 
  Delahaye Thierry, Lequay Arthur, Prunier Patrice - Les découvertes botaniques de nos sociétaires en 1996 - 1997 - Savoie, violacées, Viola collina, loranthacées, Viscum album, acéracées, acer monspessulanum, joncacées, Juncus arcticus, liliacées, Erythronium dens-canis, p. 31-32 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°2 - Saisie : Sylvie SERVE - Art. n°495. 
-## 
+
 ### Minimiser les besoins de départ ###
 * Linux a commencé par réutiliser le code et les idées de Minix (la totalité du code de Minix a été abandonnée ou réécrite complètement depuis).
 * Exemple "Cathédrale et Bazar" : Fetchmail basé sur popclient et Fetchpop.
@@ -173,6 +185,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * Récupération d'un travail de synonymie de M. Kerguelen sur 75 000 noms. 
  * Récupération de nombreuses base de données constituées par des amateurs.
 * Mettre en ligne des documents inachevés car ils peuvent être améliorés par des contributeurs. Si on attend l'achèvement du document pour le mettre en ligne, la dynamique de réseau ne va pas s'enclencher.
+
 ### Minimiser les risques d'échec par la maîtrise des tâches critiques ### 
 * Loi de Brooks : "Le fait d'ajouter des gens à un projet logiciel en retard, le retarde encore d'avantage" : la complexité augmente, quant à elle, comme le nombre d'échanges et donc comme le carré du nombre de personnes.
 * Tela Botanica :
@@ -180,9 +193,10 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * Les salariés fournissent des outils et des services et assurent la permanence.
  * Les membres du réseau montent des projets et donnent du sens au réseau.
  * Le comité de pilotage assure la coordination et valide les décisions.
+
 ### L'analyse du risque ###
 * La peur d'échouer fait prendre un minimum de risque. On est alors tenté de tout blinder, c'est d'ailleurs une des caractéristiques actuelles : tout est balisé, verrouillé (notamment juridiquement). Au sein de certaines administrations par exemple, il existe un manque d'ouverture qui est le reflet d'un fonctionnement mental rigide.
- * A l'inverse, vouloir réussir suppose de mettre en oeuvre des moyens pour atteindre le but qu'on s'est fixé. Cette démarche renvoie à un schéma mental beaucoup plus ouvert et dynamique.
+* A l'inverse, vouloir réussir suppose de mettre en oeuvre des moyens pour atteindre le but qu'on s'est fixé. Cette démarche renvoie à un schéma mental beaucoup plus ouvert et dynamique.
 ------
 *Auteurs : Association Outils-Réseaux et tous ses stagiaires
 Crédits illustrations sous licence Creative Commons : CC-By Outils-Réseaux - CC-By Éric Grelet - CC-By Ell Brown - CC-By Cea - CC-By Marc Smith*
