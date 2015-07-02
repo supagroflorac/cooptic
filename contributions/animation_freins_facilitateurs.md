@@ -6,12 +6,14 @@
 * Au niveau de l'animateur.
 * Au niveau du projet.
 * Manque de temps.
+
 ####Ce qui facilite####
 * Au niveau des personnes.
 * Au niveau des outils.
 * Au niveau de l'animation.
 * Au niveau des projets.
 * Les neuf lois de la coopération.
+* 
 ## 1. Ce qui freine ##
 
 ![Freins](https://framapic.org/qYN588JVssOS/TL0LpRko)
