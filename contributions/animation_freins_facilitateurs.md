@@ -6,6 +6,7 @@
 * Au niveau de l'animateur.
 * Au niveau du projet.
 * Manque de temps.
+
 ####Ce qui facilite####
 * Au niveau des personnes.
 * Au niveau des outils.
