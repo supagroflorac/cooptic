@@ -148,7 +148,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 **Le passage à l'acte chez l'être humain correspond à un basculement brutal**
 * Logiciel libre :
  * *Donner l'autorisation d'utilisation et de modification a priori grâce à une licence plutôt que d'imposer une demande d'autorisation avant toute action est un autre exemple d'éléments qui facilitent le passage à l'acte.* (Jean-Michel Cornu)
-* *Tela Botanica *:
+* *Tela Botanica*:
  * L'inscription est libre, gratuite et facile.
  * Utilisation *Forum* et *Wiki*.
  * Incitation à la participation par des exercices simples :
@@ -172,11 +172,11 @@ Principal écueil : manque de participation (situation de non-collaboration).
 ### L'évaluation par l'estime ### 
 Tela : Projet compilation d'articles botaniques (25674 articles).
 
- De Boissieu Henri - Un acer hybride nouveau pour la flore française. - 1912 - dendrologie, plante hybride, acer x bormulleri, localité, p. 77-78 - Société Botanique de France, Bulletin de la Société Botanique de France, Bull. Soc. Bot. Fr. (1904), Tome 59 - Fascicule 1 - Saisie : Jean TIMBAL -Art. n°13807.
+De Boissieu Henri - Un acer hybride nouveau pour la flore française. - 1912 - dendrologie, plante hybride, acer x bormulleri, localité, p. 77-78 - Société Botanique de France, Bulletin de la Société Botanique de France, Bull. Soc. Bot. Fr. (1904), Tome 59 - Fascicule 1 - Saisie : Jean TIMBAL -Art. n°13807.
 
- Delahaye Thierry, Henze Gaston, Lequay Arthur - Les orchidées de Monthoux - 1996 - Savoie, Avant-pays, Acéracées, acer monspessulanum, Fabacées, Argyrolobium zanonii, p. 15-19 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°1 - Saisie : Sylvie SERVE - Art. n°479.
+Delahaye Thierry, Henze Gaston, Lequay Arthur - Les orchidées de Monthoux - 1996 - Savoie, Avant-pays, Acéracées, acer monspessulanum, Fabacées, Argyrolobium zanonii, p. 15-19 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°1 - Saisie : Sylvie SERVE - Art. n°479.
 
- Delahaye Thierry, Lequay Arthur, Prunier Patrice - Les découvertes botaniques de nos sociétaires en 1996 - 1997 - Savoie, violacées, Viola collina, loranthacées, Viscum album, acéracées, acer monspessulanum, joncacées, Juncus arcticus, liliacées, Erythronium dens-canis, p. 31-32 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°2 - Saisie : Sylvie SERVE - Art. n°495. 
+Delahaye Thierry, Lequay Arthur, Prunier Patrice - Les découvertes botaniques de nos sociétaires en 1996 - 1997 - Savoie, violacées, Viola collina, loranthacées, Viscum album, acéracées, acer monspessulanum, joncacées, Juncus arcticus, liliacées, Erythronium dens-canis, p. 31-32 - Départ./Région : 73 - Société Mycologique et Botanique de Chambéry, Bull. de la sté Myco et Bota de la Région Chambérienne, N°2 - Saisie : Sylvie SERVE - Art. n°495. 
 
 ### Minimiser les besoins de départ ###
 * Linux a commencé par réutiliser le code et les idées de Minix (la totalité du code de Minix a été abandonnée ou réécrite complètement depuis).
