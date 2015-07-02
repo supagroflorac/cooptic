@@ -12,7 +12,8 @@
 * Au niveau de l'animation.
 * Au niveau des projets.
 * Les neuf lois de la coopération.
-## 1. Ce qui freine ##
+* 
+* ## 1. Ce qui freine ##
 
 ![Freins](https://framapic.org/qYN588JVssOS/TL0LpRko)
 
