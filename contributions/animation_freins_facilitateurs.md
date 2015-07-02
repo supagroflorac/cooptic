@@ -14,7 +14,7 @@
 * Les neuf lois de la coopération.
 ## 1. Ce qui freine ##
 
-![Freins](http://www.lamerguez.com/Freins.jpg)
+![Freins](https://framapic.org/qYN588JVssOS/TL0LpRko)
 
 Principal écueil : manque de participation (situation de non-collaboration).
 ### Au niveau des personnes###
@@ -104,7 +104,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
 * Simplifier !!! Masquer des fonctionnalités.
 * Mode d'emploi, rubrique d'aide, formations...
 ###Au niveau de l'animation###
-![visibilite](http://www.lamerguez.com/Cea.jpg)
+![visibilite](https://framapic.org/du5ZdlX4nsEE/QEZF4arI)
 * Rendre visible l'activité du groupe : synthèse, reformulation, historique, rendre visible ce qui se passe dans les sous-groupes, actus régulières : résumés (TST)
 * Incitation forte pour faire évoluer les habitudes : mettre uniquement les CR sur *wiki*, faire des fautes volontaires dans le nom des gens
 * Des animateurs "professionnels" :
@@ -147,7 +147,7 @@ Principal écueil : manque de participation (situation de non-collaboration).
  * 55 599 fiches modifiées par les membres du réseau. 
  * Ajout de 46 794 noms vernaculaires (plusieurs langues).
 ### Les communautés qui durent convergent vers la coopération ###
-![convergence](http://www.lamerguez.com/Marc-Smith.jpg)
+![convergence](https://framapic.org/tlAP8zYGYFAf/6RLcc24p)
 
  * S'associer très en amont pour éviter la concurrence en aval. 
  * GNU/Linux. 
