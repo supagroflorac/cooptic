@@ -2,7 +2,7 @@
 **Que signifie ce symbole mystérieux et ce sigle barbare ?... **
 
 ##Qu'est ce qu'un flux RSS ?
-> Qu'on l'appelle "flux RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*"), "canal RSS", "fil RSS", "fil d'info", le principe est le même : il s'agit d'**un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment** (sites d'information, *blogs*...).
+Qu'on l'appelle "flux RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*"), "canal RSS", "fil RSS", "fil d'info", le principe est le même : il s'agit d'**un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment** (sites d'information, *blogs*...).
 
 **Un flux RSS fournit un résumé des nouveautés d'un site** : généralement un titre, une description synthétique et un lien vers la page d'origine de l'information.
 
