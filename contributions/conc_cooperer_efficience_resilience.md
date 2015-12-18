@@ -8,7 +8,7 @@ Robert Ulanowicz est un écologiste empiriste connu pour ses recherches sur la m
 * **(2)** Benoît Mandelbrot :"Entre le domaine du désordre incontrôlé et l'ordre excessif d'Euclide, il y a désormais une nouvelle zone d'ordre fractal". Voir également la notion de "dialogique" d'Edgar Morin qui "unit deux principes ou notions antagonistes, qui apparemment devraient se repousser l'un l'autre, mais qui sont indissociables et indispensables pour comprendre une même réalité".
 * **(3)** Tainter Joseph Anthony, The collapse of complex societies, New studies in archaeology [Texte imprimé] / ed. Wendy Ashmore, Clive Gamble, John O'Shea,... [et al.]. - Cambridge : Cambridge University press, 1976-, Cambridge, Etats-Unis, Etats-Unis, , 2000. L'idée que le manque d'adaptabilité conduit à l'extinction a été reprise et appliquée à l'économie par Clay Shirky dans l'article "The collapse of complex business models" accessible sur son *blog* (il aurait mieux valu parler de modèle économique compliqué et peu adaptable plutôt que complexe).
 
-## Auteurs :
+### Auteurs :
 Jean-Michel Cornu
-## Licence : 
+### Licence : 
 Creatives Commons By-Sa
