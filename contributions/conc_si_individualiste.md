@@ -57,6 +57,7 @@ Le problème moral devient alors non pas de gérer l'égoïsme (ce qui est le po
 Jean Michel Cornu
 ### Crédits :
 Dessin : Eric Grelet - CC By-Sa
+
 Photo : [jmt-29 sur Flickr](https://www.flickr.com/photos/23203406@N06/4151360616/jmt-29) - CC By 2.0
 ### Licence : 
 Creatives Commons By-Sa
