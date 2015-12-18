@@ -3,7 +3,7 @@ Il n'y a pas une façon unique de bien faire fonctionner un groupe qui pourrait 
 
 Note : avant d'utiliser ce questionnaire, lisez au préalable [La coopération en 28 mots-clés](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaCooperationEn28Motscles)
 
-[Télécharger le fichier au format PDF](http://www.lamerguez.com/QuestionnaireCompréhensionGroupE.pdf)
+[Télécharger le fichier au format PDF](http://ebook.coop-tic.eu/francais/wakka.php?wiki=ComprendreParVousmemeCeQuiSePasseDansV/download&file=QuestionnaireCompr%C3%A9hensionGroupE.pdf)
 
 
 ##Auteurs :
