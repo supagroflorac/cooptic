@@ -205,7 +205,7 @@ Si vous souhaitez coordonner un projet, ne cherchez pas à être simplement réa
 >###Résumé
 Outre l'augmentation de la motivation et la minimisation des risques, le secret de l'implication est dans l'abaissement du seuil de passage à l'acte.
 
-Deux règles sont indispensables pour abaisser le seuil
+>Deux règles sont indispensables pour abaisser le seuil
 * KISS (Keep It Simple and Stupid - Restez bête et simple)
 * Le secret : soyez hyper-réactifs
 
@@ -222,10 +222,11 @@ Deux règles sont indispensables pour abaisser le seuil
 
 Source : Jean-Michel Cornu - La coopération, nouvelles approches. [en ligne]. [Consulté le 29 janvier 2014]. Disponible à l'adresse : http://www.cornu.eu.org/texts/cooperation
 
+
+
+### Crédits :
 *Crédits photo : Via catalana by SBA73 sur Flickr - CC-BY-SA*
-
-
-### Auteurs :
+### Auteur :
 Jean Michel Cornu
 ### Licence : 
 Creatives Commons By-Sa
