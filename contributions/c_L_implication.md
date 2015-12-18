@@ -111,6 +111,7 @@ Pour cela il existe deux critères :
 
 * L'un dépend de la personne elle-même : On peut s'impliquer lorsque l'on a réglé ses besoins de sécurité matérielle.
 * L'autre dépend du groupe : L'entrée dans un groupe ne doit pas être un engagement à y contribuer ou même à y rester.
+
 ###Première Règle : chacun doit disposer d'une sécurité matérielle
 Il est nécessaire que chacun ait résolu ses problèmes de sécurité matérielle :
 
