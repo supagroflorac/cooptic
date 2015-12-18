@@ -1,5 +1,5 @@
 # Introduction aux biens communs
-##Biens communs ?## 
+##Biens communs ?
 Appelés traditionnellement "ressources communes" (les choses qui nous appartiennent en commun), les biens communs ont été quelque peu oubliés.
 Ils ont été supplantés par :
 * Les biens privés organisés par le marché.
@@ -19,7 +19,7 @@ Ils sont les choses qui nous nourrissent, qui nous permettent de communiquer ain
 
 Cette conception interroge fortement la notion de propriété privée sur des biens que l'on pourraient qualifier de communs... Pourtant c'est peu débattu actuellement.
 
-!["Biens communs"](http://ebook.coop-tic.eu/francais/files/IntroductionBiensCommuns.jpg)
+![Biens communs](http://ebook.coop-tic.eu/francais/files/IntroductionAuxBiensCommuns_IntroductionBiensCommuns_vignette_544_544_20140902151218_20140902131244.jpg)
 
 **Quelles seraient les conséquences d'une redéfinition des terres comme biens communs ?**
 Il faut renforcer les biens communs, au-delà et de manière complémentaire au marché et à l'état. Chacun est appelé à assumer ses responsabilités en tant que copossesseur des "choses qui nous sont communes", afin d'en tirer davantage de liberté et de communauté. Les biens communs ont besoin d'hommes et de femmes, non seulement de marchés, d'aides gouvernementales ou de régulation étatique. La richesse qui se dispense à travers les biens communs doit être partagée de manière nouvelle et équitable dans toutes les sphères de notre vie. 
@@ -30,7 +30,9 @@ Chacun les rencontre quotidiennement, en tous lieux. Chacun y a constamment reco
 Les choses qui sont utilisées en commun constituent la charpente interne d'une société florissante.
 Au sein de la nature, les hommes et les femmes dépendent tous de l'eau, des forêts, de la terre, des pêcheries, de la biodiversité, du paysage, de l'air, de l'atmosphère, ainsi que de tous les processus vitaux qui y sont liés. Chaque individu est en droit d'avoir part aux ressources naturelles, indépendamment de la propriété privée de ces ressources.
 Dans le domaine social, parmi les conditions pour que s'épanouissent les relations sociales figurent les places, parcs et jardins publics, les soirées, les dimanches et jours fériés, ainsi que les transports en commun, les réseaux numériques, les moments de sport et de loisir. Ces biens communs sociaux peuvent être directement pris en charge et cultivés, de manières très diverses, par les communautés concernées et à l'initiative des citoyens. Ils peuvent également relever pour partie du domaine public, où les services publics jouent un rôle important.
+
 Il va sans dire, en ce qui concerne la culture, que la langue, la mémoire, les usages et la connaissance sont indispensables à toute production matérielle ou immatérielle. Autant les biens communs de la nature sont nécessaires à notre survie, autant les biens communs culturels le sont à notre activité créative. De la même manière, les acquis d'aujourd'hui doivent continuer à servir librement les générations futures.
+
 Dans la sphère numérique, les productions et les échanges fonctionnent d'autant mieux que l'accès aux objets et aux données est moins entravé. Il est indispensable que les codes sources des logiciels, de même que toute la richesse des textes, sons, images et films disponibles en ligne, ne soient pas clôturés par des droits de propriété intellectuelle restrictifs.
 ##Bon à savoir
 **Bien commun n'est pas égal à bien public**
