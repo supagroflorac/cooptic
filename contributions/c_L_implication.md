@@ -32,7 +32,7 @@ Dans l'économie du don, on obtient en contre partie de son travail le développ
 
 Le sentiment du travail bien fait constitue également une gratification pour ceux qui y sont sensibles. Il s'agit d'un sentiment personnel indépendant des réactions collectives, nous ne le détaillerons donc pas ici.
 
-Première contrepartie :Le savoir-faire
+###Première contrepartie : Le savoir-faire
 Toute participation à un projet doit permettre d'acquérir des savoir-faire dans les domaines opérationnels où nous nous impliquons, mais également le sens de la participation et de la gestion de projets. De ce point de vue, on peut comparer l'acquisition de savoir-faire à ce qu'une société dans l'économie d'échange cherche à obtenir avec son budget formation et son budget recherche et développement.
 ###Deuxième contrepartie : Le plaisir
 Cela pourrait sembler un bien faible résultat que l'on peut obtenir de bien d'autres façons. Pourtant, dans l'économie d'échange également, une fois nos besoins vitaux remplis, l'argent sert principalement à contenter notre besoin de plaisir et même notre besoin de paraître et notre besoin de montrer à autrui notre réussite sociale au travers de biens plus luxueux et de voyages, spectacles, etc. Dans les projets coopératifs le plaisir n'est plus apporté indirectement grâce aux gains en argent, mais directement par le projet lui-même. Il s'agit même d'un critère primordial dans la gestion du projet : celui-ci doit permettre aux participants d'y trouver du plaisir et en contrepartie, le plaisir agit comme un moteur pour susciter l'implication qui est une des clés de la réussite de tout projet.
@@ -71,7 +71,7 @@ Nous avons vu que plus la taille des groupes était grande et plus il générait
 
 Le nombre de contributeurs réguliers est lui limité. Pour permettre à plus de personnes de s'impliquer, il faut alors progressivement segmenter le projet en sous-projets. Tout l'art du coordinateur consiste à faire progresser son projet au bon rythme depuis une idée unifiée jusqu'à la ramification en sous projets, pour permettre à chaque étape à la fois un nombre minimum de contributeurs et que ce nombre ne soit pas un frein à ce que les contributeurs se voient et soient reconnus.
 
-Troisième règle : Ne donnez pas des titres mais des rôles non exclusifs aux participants
+###Troisième règle : Ne donnez pas des titres mais des rôles non exclusifs aux participants
 La subtilité entre le titre et le rôle est importante. Le titre apporte une concrétisation d'une reconnaissance. Il est souvent exclusif, ce qui bloque la possibilité d'avoir d'autres personnes qui assument le rôle ouvertement si le niveau d'incompétence est atteint. Par ailleurs le titre s'accompagne souvent d'un pouvoir coercitif qui va à l'encontre des mécanismes de régulations par les participants proposés pour les projets coopératifs.
 
 Le rôle non exclusif lui, permet d'orienter et d'inciter un membre à contribuer (en particulier au début lorsque le nombre des contributeurs est faible ou nul). Mais le rôle doit se conquérir à chaque moment pour recevoir de l'estime en contrepartie. S'il ne s'accompagne pas d'un pouvoir coercitif, la personne ayant un rôle devra motiver d'autres contributeurs s'il veut démultiplier ses résultats suivant un processus proche de celui de la mise en place d'un projet complet. La distribution d'un rôle non exclusif à une personne est une motivation à s'impliquer et peut mener par la suite à la coordination d'un sous-projet fructueux.
@@ -158,9 +158,9 @@ Pour minimiser le risque de s'engager dans un projet il faut :
 * Disposer d'une sécurité matérielle pour chacun.
 * Entrer dans un projet ne doit être un engagement ni à y contribuer ni à y rester.
 
+>L'implication : abaisser le seuil de passage à l'acte
 
 
-L'implication : abaisser le seuil de passage à l'acte
 ###Paradoxe : le train est parti
 Si vous arrivez juste à temps pour attraper votre train, vous pourrez monter dedans et voyager comme prévu. Si vous arrivez 20 minutes à l'avance, vous avez une marge de sécurité et la durée totale de votre voyage (attentes comprises) sera allongée de 20 minutes. Mais si vous arrivez quelques secondes après le départ du train, alors tout votre voyage est chamboulé car vous avez raté votre train !
 
@@ -175,6 +175,7 @@ Si le coordinateur propose dans un message à ses utilisateurs de contribuer act
 
 
 Donner l'autorisation d'utilisation et de modification *a priori* grâce à une licence plutôt que d'imposer une demande d'autorisation avant toute action est un autre exemple d'éléments qui facilitent le passage à l'acte.
+
 ###Première règle : KISS (Keep It Simple and Stupid - Restez bête et simple)
 Un projet trouvera des contributeurs si ceux-ci arrivent à comprendre ce qu'a voulu faire l'initiateur. A chaque étape, les choix doivent être simples et compréhensibles. Ce sont d'ailleurs le plus souvent les solutions simples qui sont les meilleures.
 
@@ -195,7 +196,7 @@ En gestion du temps, il est toujours recommandé de commencer tout de suite ce q
 
 Si vous souhaitez coordonner un projet, ne cherchez pas à être simplement réactif : cherchez à surprendre vos membres en étant hyper-réactif ! Vous verrez qu'ainsi, non seulement vous habituerez vos contributeurs à être eux-mêmes réactifs, mais également ils se sentiront plus reconnus, si vous réagissez promptement à leurs suggestions et vous sauverez également un temps énorme simplement en réagissant souvent et rapidement.
 
- ###Résumé
+>###Résumé
 Outre l'augmentation de la motivation et la minimisation des risques, le secret de l'implication est dans l'abaissement du seuil de passage à l'acte.
 
 Deux règles sont indispensables pour abaisser le seuil
