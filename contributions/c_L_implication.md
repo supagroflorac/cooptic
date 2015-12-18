@@ -1,6 +1,6 @@
 # L'implication
 ##Les motivations pour faciliter l'implication
-Livre "la coopération, nouvelles approches" version 1.0
+Livre "*La coopération, nouvelles approches*" version 1.0
 ###Paradoxe : Le système EPM
 Un projet ne se développe pas simplement parce que les participants font bien ce qu'on leur dit de faire, mais aussi parce qu'ils s'impliquent.
 
@@ -76,13 +76,13 @@ La subtilité entre le titre et le rôle est importante. Le titre apporte une co
 
 Le rôle non exclusif lui, permet d'orienter et d'inciter un membre à contribuer (en particulier au début lorsque le nombre des contributeurs est faible ou nul). Mais le rôle doit se conquérir à chaque moment pour recevoir de l'estime en contrepartie. S'il ne s'accompagne pas d'un pouvoir coercitif, la personne ayant un rôle devra motiver d'autres contributeurs s'il veut démultiplier ses résultats suivant un processus proche de celui de la mise en place d'un projet complet. La distribution d'un rôle non exclusif à une personne est une motivation à s'impliquer et peut mener par la suite à la coordination d'un sous-projet fructueux.
 
-> ###Résumé
+> ### Résumé
 Pour que les contributeurs les plus innovants s'impliquent de plus en plus et restent motivés il faut faciliter les mécanismes naturels de contrepartie :
 * Le développement de savoir-faire
 * Le plaisir
 * La reconnaissance
 
-Pour cela le coordinateur doit suivre les règles suivantes :
+> Pour cela le coordinateur doit suivre les règles suivantes :
 * Faciliter les mécanismes de contrepartie (savoir-faire, plaisir, reconnaissance).
 * Permettre à chacun de se voir en construisant le projet par étape.
 * Ne pas donner des titres mais des rôles non exclusifs aux participants pour qu'ils s'approprient des morceaux du projet.
@@ -169,7 +169,7 @@ Nous avons souvent une vision linéaire des choses. Mais de nombreux phénomène
 Le passage à l'acte chez l'être humain correspond à un basculement brutal. La théorie mathématique du chaos exprime bien le seuil qui fait passer de l'attitude passive à la coopération **[5](#note)** . Ce seuil dépend de chaque personne mais aussi de l'environnement.
 
 
- ###Exemple : inciter à l'action en envoyant un message électronique
+### Exemple : inciter à l'action en envoyant un message électronique
 Prenons par exemple un message Internet demandant aux utilisateurs de regarder une page spécifique de votre site *web*. Si l'adresse de la page est dans le message et que l'utilisateur n'a plus qu'à cliquer, vous aurez bien plus de personnes qui iront voir votre page que si vous considérez qu'ils ont déjà l'adresse de votre site et qu'ils peuvent très bien se débrouiller pour la retrouver. L'ennemie dans ce cas est la phrase que l'on entend beaucoup trop dans des projets : "c'est leur problème !".
 Si le coordinateur propose dans un message à ses utilisateurs de contribuer activement, il doit redonner tous les éléments afin que ceux qui reçoivent son message n'aient pas à rechercher des informations supplémentaires pour contribuer. Sinon il ne pourra que se lamenter du manque de dynamisme de ses utilisateurs. Il en sera pourtant le premier responsable. Réfléchissez un instant aux différentes fois dans votre vie où vous vous êtes impliqués et à celles où finalement vous n'avez rien fait. Votre attitude dépendait de votre intérêt direct pour ce qui est proposé, de la dynamique du groupe, mais aussi de petits détails apparemment insignifiants qui ont facilité ou non votre première action.
 
@@ -201,6 +201,9 @@ Outre l'augmentation de la motivation et la minimisation des risques, le secret 
 Deux règles sont indispensables pour abaisser le seuil
 * KISS (Keep It Simple and Stupid - Restez bête et simple)
 * Le secret : soyez hyper-réactifs
+
+
+
 
 
 <a id="note">
