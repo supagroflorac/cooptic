@@ -1,4 +1,8 @@
 # L'implication
+
+![La Via Catalana, plus grande chaine humaine au monde](http://ebook.coop-tic.eu/francais/cache/image_bf_imagevia_catalana_SBA73_flickr_CCbySA.jpg)
+
+
 ##Les motivations pour faciliter l'implication
 Livre "*La coopération, nouvelles approches*" version 1.0
 ###Paradoxe : Le système EPM
