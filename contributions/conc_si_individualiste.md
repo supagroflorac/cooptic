@@ -4,7 +4,7 @@ Beaucoup de stratégies prennent en compte l'égoïsme de l'homme : par exemple 
 
 Pour ma part, je me suis intéressé aux stratégies de coopération en partant du même présupposé : si l'homme a un côté égoïste et un coté altruiste, il faut avant tout chercher à faire converger son intérêt et l'intérêt collectif. Pire : quelqu'un qui serait altruiste, en cas de conflit d'intérêt, agirait pour l'intérêt des autres, au détriment de son propre intérêt. Il aurait donc un désavantage au sens darwinien...
 
-![Altruisme](http://ebook.coop-tic.eu/francais/files/EtSiNousN039etionsPasSiIndividualistes_Individulaiste_vignette_544_544_20140902144413_20140902124426.jpg)
+![Individualisme](http://ebook.coop-tic.eu/francais/cache/image_bf_imageindividualisme_jmt-29.jpg)
 
 Pourtant trois informations dont j'ai eu récemment connaissance montrent que l'homme (tout comme certains animaux) peut faire des choses qui vont apparemment à l'encontre de ses intérêts pour obtenir quelque chose de vital : pouvoir s'allier avec d'autres.
 ##Même les animaux sont parfois altruistes
@@ -24,6 +24,9 @@ Mais la théorie des "barbes vertes" met en image la difficulté des altruistes 
 
 Pourtant, des chercheurs du laboratoire d'écologie de l'Université Pierre et Marie Curie (ENS-CNRS) et du Royal Holloway College (Londres, Royaume-Uni) ont pu démontrer récemment que les altruistes pouvaient garder une longueur d'avance sur les "tricheurs" en "modifiant régulièrement la couleur de leur barbe". Les simulations montrent que dans ce cas, les altruistes peuvent gagner un avantage concurrentiel non seulement face aux égoïstes mais même face aux égoïstes tricheurs...
 Malgré tout : l'approche donnant/donnant, si elle permet de comprendre certains comportement altruistes, ne fonctionne pas cependant avec le langage car on s'adresse très souvent à un ensemble de personnes.
+
+![Altruisme](http://ebook.coop-tic.eu/francais/files/EtSiNousN039etionsPasSiIndividualistes_Individulaiste_vignette_544_544_20140902144413_20140902124426.jpg)
+
 ##Le sage montre la Lune et le fou regarde le doigt
 Jean-Louis Dessalles propose une troisième hypothèse très séduisante. Il constate que le petit d'homme, même avant qu'il ne sache parler, à tendance à montrer du doigt, c'est-à-dire à partager ses informations. Ce n'est pas le cas des animaux en général.
 
