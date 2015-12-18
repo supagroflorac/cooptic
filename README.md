@@ -1,6 +1,6 @@
 # cooptic
 >On peut en déduire **différents types de groupes distingués par le nombre de leurs membres :**
->* **Les petits groupes** jusqu'à une douzaine de personnes qui peuvent être gérés de façon contrainte (en attendant une action de chacun des différents membres) ;
+* **Les petits groupes** jusqu'à une douzaine de personnes qui peuvent être gérés de façon contrainte (en attendant une action de chacun des différents membres) ;
 * **Les groupes intermédiaires** entre une douzaine et une centaine de personnes qui nécessitent plus d'efforts d'animation pour obtenir des réactions ;
 * **Les grands groupes** entre une centaine et un ou deux milliers de personnes qui permettent de produire de façon collaborative... à condition de se focaliser sur les réactifs ;
 * **Les très grands groupes intermédiaires** de plusieurs milliers de personnes où le groupe que forme les membres proactifs devient plus difficilement cohérent ;
