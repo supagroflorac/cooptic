@@ -1,9 +1,6 @@
 # cooptic
->On peut en déduire **différents types de groupes distingués par le nombre de leurs membres :**
-* **Les petits groupes** jusqu'à une douzaine de personnes qui peuvent être gérés de façon contrainte (en attendant une action de chacun des différents membres) ;
-* **Les groupes intermédiaires** entre une douzaine et une centaine de personnes qui nécessitent plus d'efforts d'animation pour obtenir des réactions ;
-* **Les grands groupes** entre une centaine et un ou deux milliers de personnes qui permettent de produire de façon collaborative... à condition de se focaliser sur les réactifs ;
-* **Les très grands groupes intermédiaires** de plusieurs milliers de personnes où le groupe que forme les membres proactifs devient plus difficilement cohérent ;
-* **Les très grands groupes** au-delà de quelques dizaines de milliers où les proactifs sont suffisamment nombreux pour rendre l'animation moins contrainte ;
-
-**Les grands groupes** entre une centaine et un ou deux milliers de personnes présentent un intérêt particulier : ils sont un passage obligé pour les groupes qui ont vocation à devenir très grand, et surtout ils représentent **une taille qui correspond bien au nombre de personnes que l'on peut rassembler sur beaucoup de thèmes assez précis.** Ils nécessitent cependant de bien **prendre en compte les membres qui ont adoptés une attitude réactive ** (que l'on peut atteindre dans les système en ligne par des outils *push* comme le *mail*, Facebook ou Twitter plutôt que par des outils *pull* comme le *web* ou les *forums*) et pas seulement les proactifs qui dans ce cas ne sont pas assez nombreux.
+Situation 1 | Situation 2 |Situation 3
+----|----|----
+Grâce à la licence ouverte, les productions collectives sont valorisables facilement et ce même si certains membres du réseau ne sont plus présents ! Chacun ayant préalablement autorisé la valorisation de ses apports moyennant la mention de son nom et le maintien sous licence ouverte. Ceci étant valable aussi si un membre du réseau s'empare des richesses de niveau 2 et les vend... Il est vrai que cela créera des tensions au sein du réseau et que ce membre risque fort de ne plus l'être longtemps... ;-)|Un membre (ou quelques membres) s'empare des productions de niveau 2 et les vend. Les membres-auteurs se sentent trahis et cherchent à empêcher la vente... Ce qui n'est pas possible vu que les apports de niveau 1 ont été placés sous licence ouverte. Le réseau explose !|La licence n'étant pas complètement ouverte, le réseau doit recontacter chaque membre (auteur) pour lui demander son accord quant à l'utilisation commerciale de celle-ci.
+La plupart du temps, cette étape est si compliquée que la valorisation tombe à l'eau et que le réseau se "dissout" déçu de n'avoir pu rentrer pleinement dans la phase intéressante du réseau (à savoir la production collective et sa valorisation vers l'extérieur).
+**VIE**|**MORT**|**DANGER.... MORT**
