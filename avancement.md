@@ -9,7 +9,7 @@
 |La convergence|Concept|oui|oui|C La convergence|oui|
 |La coopération en 28 mots-clés|Concept|oui|oui| | |
 |La coopération expliquée à mon beauf'|Concept|oui|oui|C La cooperation expliquee a mon beauf|oui|
-|La propriété intellectuelle|Concept|oui|oui| | |
+|La propriété intellectuelle|Concept|oui|oui|C La propriete intellectuelle|oui|
 |La stigmergie|Concept|oui|oui| | |
 |La taille des groupes et les rôles des membres|Concept|oui|oui| | |
 |La tragédie des 3 C|Concept|oui|oui| | |
