@@ -1,11 +1,11 @@
-|Titre|Type|Convertie|Finition|Nom sur MBaO|Fiche complétée|
+|Titre|Type|Convertie|Finition|Nom sur MBaO|Complétée|
 |-----|----|---------|--------|------------|---------------|
 |Coopérer, entre efficience et résilience|Concept|oui|oui| | |
 |Et si nous n'étions pas si individualistes ?|Concept|oui|oui|C Et si nous n etions pas si individualistes|oui|
 |Grossir ou s'archipéliser ?|Concept|oui|oui|C Grossir ou s archipeliser|oui |
 |Historique de l'approche francophone de la coopération|Concept|oui|oui|C Historique de l approche francophone de la cooperation|oui|
 |Introduction aux biens communs|Concept|oui|oui|C Introduction aux biens communs|oui|
-|L'implication|Concept|oui|oui| | |
+|L'implication|Concept|oui|oui|C L implication|oui|
 |La convergence|Concept|oui|oui| | |
 |La coopération en 28 mots-clés|Concept|oui|oui| | |
 |La coopération expliquée à mon beauf'|Concept|oui|oui| | |
