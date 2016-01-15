@@ -49,7 +49,7 @@ Alors que nous plaçons les saucisses sur la grille, mon beauf me lance :
 
 \- Et ça marche ?
 
-_- Plutôt oui, regarde *thegreenxchange* par exemple. C'est une plateforme internet où des entreprises parfois concurrentes échangent et partagent leurs avancées... étonnant mais bien réel !
+\- Plutôt oui, regarde *thegreenxchange* par exemple. C'est une plateforme internet où des entreprises parfois concurrentes échangent et partagent leurs avancées... étonnant mais bien réel !
 
 \- Ouaip, j'ai du mal à croire...
 
