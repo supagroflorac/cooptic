@@ -20,7 +20,7 @@ Il est possible d'utiliser les technologies sous brevet ou les marques protégé
 * **droit d'auteur** : protection des oeuvres de l'esprit de toutes natures (texte, musique, théâtre, oeuvre graphique, plan...). Les titres des oeuvres sont aussi protégés, sous réserve d'originalité.
 * **droits voisins** : relative aux interprètes et producteurs (musicien ou chanteur interprétant une oeuvre qu'il n'a pas créé, producteur de disque...)
 * **bases de données** : listes ou collections d'informations organisées. C'est la structure de la base qui est protégée.
-*
+
 En d'autres termes, une oeuvre est protégée par la loi du seul fait de son existence en France (mais aussi aux États-Unis). Sans que l'auteur n'ait la moindre démarche à faire, le droit d'auteur s'applique à son oeuvre.
 ###La nature de l'oeuvre
 * *L'oeuvre est réputée créée, indépendamment de toute divulgation publique, **du seul fait de la réalisation**, même inachevée, de la conception de l'auteur*. (Extrait du Code de La propriété Intellectuelle français).
