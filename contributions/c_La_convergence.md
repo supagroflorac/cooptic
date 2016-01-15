@@ -8,7 +8,7 @@ La tragédie des biens communs ne prévoit que trois issues possibles à cette s
 * Le champ est découpé en espaces gérés par chaque paysan disposant alors d'un droit de propriété.
 Eric Raymond **[2](#note)** reprend cet exemple pour montrer combien la coopération n'est *a priori* pas si simple.
 
-!["Tragédie don"](http://ebook.coop-tic.eu/francais/files/Convergence_Tragedie_don.jpg)
+!["Tragédie don"](http://ebook.coop-tic.eu/francais/files/LaConvergence_Convergence_Tragedie_don_vignette_544_544_20140902143305_20140902123322.jpg)
 
 ###Les limites de la tragédie
 Réconcilier l'intérêt individuel et l'intérêt collectif ne semble pas évident dans le cas de figure décrit dans la tragédie des biens communs (sinon, nous vivrions mieux depuis longtemps !). Pourtant, si Hardin conclut dans son ouvrage que les seules solutions à l'absence de responsabilités des hommes sont dans la privatisation des biens communs et/ou dans l'interventionnisme de l'état, il reconnaît plus tard que son postulat de départ n'est pas toujours valide. Son collègue Gary Warner indique : "Hardin a reconnu plus tard que la caractérisation des aspects négatifs des bien communs... était basée sur une description... un régime ouvert, non régulé par une autorité externe ou un consensus social." **[3](#note)** 
@@ -59,16 +59,16 @@ Une troisième chose qui change dans l'économie du don, est ce que gagne le don
 Ainsi, il n'est pas nécessaire d'attendre de tous de l'altruisme pour mettre en place des projets faisant appel à la coopération. Les donateurs retirent des avantages qui sont simplement plus subtiles à comprendre car ils s'inscrivent dans une logique en deux temps qui apporte des bénéfices dans la durée.
 
 
-###Résumé
-Une économie du don émerge lorsque les biens communs sont abondants. Celle-ci implique de nouvelles notions de propriété et d'économie.
+> ###Résumé
+> Une économie du don émerge lorsque les biens communs sont abondants. Celle-ci implique de nouvelles notions de propriété et d'économie.
 
-Les échanges de bien immatériels conduisent normalement à une multiplication de la valeur et à leur abondance. Il est souvent possible de faire des choix qui poussent vers la pénurie ou vers l'abondance.
+> Les échanges de bien immatériels conduisent normalement à une multiplication de la valeur et à leur abondance. Il est souvent possible de faire des choix qui poussent vers la pénurie ou vers l'abondance.
 
-Il existe des règles du don qui si elles ne sont pas respectées conduisent à des déviations :
+> Il existe des règles du don qui si elles ne sont pas respectées conduisent à des déviations :
 
-* L'abondance doit être préservée et bien répartie pour éviter le retour à une économie de la consommation.
-* L'évaluation doit être globale et décentralisée pour ne pas qu'un don particulier serve à écraser l'autre.
-* La contrepartie ne doit pas être demandée à celui qui reçoit pour éviter les dettes...
+>* L'abondance doit être préservée et bien répartie pour éviter le retour à une économie de la consommation.
+>* L'évaluation doit être globale et décentralisée pour ne pas qu'un don particulier serve à écraser l'autre.
+>* La contrepartie ne doit pas être demandée à celui qui reçoit pour éviter les dettes...
 
 ##Faciliter la convergence en donnant une vision à long terme
 ###Le dilemme du prisonnier
@@ -139,20 +139,20 @@ Il existe cependant deux critères qui favorisent l'ouverture du groupe vers l'e
 * Chaque participant doit pouvoir en sortir à tout moment.
 * L'appartenance à d'autres groupes doit être autorisée et même encouragée pour enrichir le groupe au travers de ces liaisons informelles.
 
-###Résumé
-Si la stratégie dominante dans le cas d'une rencontre unique est souvent la trahison, c'est la méthode CRP (Coopération, Réciprocité, Pardon) qui est la plus efficace lorsqu'il y a de nombreuses expériences itératives communes.
+> ###Résumé
+> Si la stratégie dominante dans le cas d'une rencontre unique est souvent la trahison, c'est la méthode CRP (Coopération, Réciprocité, Pardon) qui est la plus efficace lorsqu'il y a de nombreuses expériences itératives communes.
 
-Une communauté permet de multiplier les occasions d'expériences et donc de favoriser une convergence vers la coopération.
+> Une communauté permet de multiplier les occasions d'expériences et donc de favoriser une convergence vers la coopération.
 
-Il existe des règles pour éviter que la communauté ne dévie:
-* Donner à chacun une vision à long terme.
-* Pour permettre le développement de comportements du type CRP.
-* Développer un historique pour préserver l'héritage commun.
-* Pour éviter les "retours à zéro".
-* Rendre visible le mécanisme du cycle mimétique et trouver une autre soupape.
-* Pour briser la focalisation sur un "bouc émissaire".
-* Permettre à tous de sortir à tout moment et encourager l'appartenance à d'autres groupes.
-* Pour éviter la sectarisation d'un groupe fermé.
+> Il existe des règles pour éviter que la communauté ne dévie:
+> * Donner à chacun une vision à long terme.
+> * Pour permettre le développement de comportements du type CRP.
+> * Développer un historique pour préserver l'héritage commun.
+> * Pour éviter les "retours à zéro".
+> * Rendre visible le mécanisme du cycle mimétique et trouver une autre soupape.
+> * Pour briser la focalisation sur un "bouc émissaire".
+> * Permettre à tous de sortir à tout moment et encourager l'appartenance à d'autres groupes.
+> * Pour éviter la sectarisation d'un groupe fermé.
 
 ##Faciliter la convergence par la mise en place de mécanismes d'estime
 ###Le principe de Peter
@@ -160,7 +160,7 @@ Laurence J. Peter a étudié les paradoxes qui poussent une organisation à touj
 
 En effet, lorsque quelqu'un est nommé à un poste et qu'il remplit correctement sa tâche, il est promu à un nouveau poste. Le processus se poursuit, lui permettant de mettre ses compétences au service de tâches toujours plus complexes jusqu'à ce qu'il arrive à un poste où il a atteint son "niveau d'incompétence". Il n'est alors plus capable de remplir aussi bien son rôle et n'est donc plus promu. Il reste alors bloqué au poste où il est le moins compétent.
 
-!["principe de Peter"](http://ebook.coop-tic.eu/francais/files/Principe_Peter.jpg)
+!["principe de Peter"](http://ebook.coop-tic.eu/francais/files/LaConvergence_Principe_Peter_vignette_544_544_20140902143305_20140902123358.jpg)
 
 Ce cas n'est qu'un des multiples paradoxes qui apparaissent lorsque l'on souhaite évaluer le travail humain de façon aussi objective que les faits concrets et scientifiques. De ce point de vue, les travaux de Taylor qui ont rendu la planification plus scientifique sont plus adaptés aux machines qu'aux hommes. A l'époque ou ils ont été publiés, de nombreuses personnes faisaient le travail de machines. Aujourd'hui, les machines se sont perfectionnées suffisamment pour prendre en charge la plupart des travaux répétitifs et planifiables. En contrepartie, les tâches de création, ainsi que celles demandant une très grande adaptabilité et une estimation subjective se développent fortement.
 
@@ -227,14 +227,14 @@ Une des difficultés de l'abandon du pouvoir de contrainte est qu'il nécessite 
 
 L'abandon total du pouvoir coercitif donné par le titre hiérarchique ou le contrat d'engagement est remplacé par l'incitation à coopérer par les résultats et l'estime obtenus. Il s'agit d'une différence majeure avec la gestion classique de projets. Il n'est donc pas facile de suivre les deux approches en même temps. Nous verrons dans le chapitre sur le mixage des méthodes que des projets utilisant totalement ou partiellement le pouvoir coercitif peuvent simplement bénéficier de quelques avantages en favorisant le plus possible une évaluation *a posteriori*, en continue et subjective par la communauté.
 
-###Résumé
-L'évaluation d'un projet doit se faire :
+> ###Résumé
+> L'évaluation d'un projet doit se faire :
 
-* *A posteriori*
-* En continu
-* En prenant en compte le subjectif
-* Par l'ensemble de la communauté des contributeurs et des utilisateurs
-Cela peut être obtenu en abandonnant le pourvoir coercitif pour laisser l'estime envers le projet et ses membres faire son travail d'autorégulation.
+> * *A posteriori*
+> * En continu
+> * En prenant en compte le subjectif
+> * Par l'ensemble de la communauté des contributeurs et des utilisateurs
+> Cela peut être obtenu en abandonnant le pourvoir coercitif pour laisser l'estime envers le projet et ses membres faire son travail d'autorégulation.
 
 
 ***
