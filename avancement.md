@@ -3,7 +3,7 @@
 |Coopérer, entre efficience et résilience| |Concept|oui|oui| | |
 |Et si nous n'étions pas si individualistes ?| |Concept|oui|oui|oui|oui|
 |Grossir ou s'archipéliser ?| |Concept|oui|oui|oui|oui |
-|Historique de l'approche francophone de la coopération| |Concept|oui|oui| | |
+|Historique de l'approche francophone de la coopération| |Concept|oui|oui|oui|oui|
 |Introduction aux biens communs| |Concept|oui|oui| | |
 |L'implication| |Concept|oui|oui| | |
 |La convergence| |Concept|oui|oui| | |
