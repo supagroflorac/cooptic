@@ -61,5 +61,7 @@ Heather Marsh, « Stigmergy » [en ligne], disponible sur <http://georgiebc.w
 
 ### Auteurs :
 Heather Marsh, traduction collaborative par des membres du groupe AnimFr
+### Illustrations : 
+Photo par Carl D. Walsh/Aurora/ via Howstuffworks.com
 ### Licence : 
 Creatives Commons By-Sa
