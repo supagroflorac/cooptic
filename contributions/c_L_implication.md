@@ -133,7 +133,7 @@ Les sectes sont des groupes fermés. L'appartenance à d'autres groupes tout com
 
 Les critères que nous avons donnés ne concernent pas le mode d'entrée dans la communauté. Il existe des cas où des communautés mettent des freins à l'entrée en utilisant la cooptation ou d'autres mécanismes. Il en existe plusieurs types tels que le noyau de coordination d'un projet lorsqu'il comporte plusieurs personnes ou la communauté des coordinateurs de projet.
 
-Noyau de coordination et groupe de pilotage
+**Noyau de coordination et groupe de pilotage**
 Nous avons vu que la grande différence entre les contributeurs et les coordinateurs résidait dans le côté critique ou non critique des tâches exécutées. Ainsi le noyau de coordination d'un projet peut parfois comprendre plusieurs personnes. Dans ce cas, il est préférable de choisir très soigneusement l'équipe de coordination dont chaque membre prendra en charge des tâches critiques. La cooptation est alors le meilleur système. C'est au coordinateur principal de choisir ses partenaires et d'assurer la cohérence de l'équipe.
 
 Les utilisateurs ne choisissent pas chaque membre du noyau de coordination mais sanctionnent l'efficacité de l'équipe de coordination en contribuant ou au contraire en sortant de la communauté. L'information dont ils disposent est un critère clé pour éviter les déviations. Paradoxalement, le fonctionnement est similaire à une bourse de valeurs ou d'un marché financier : On "parie" sur une idée, sur une stratégie, sur une équipe et la sanction est l'accroissement de la demande du titre.
