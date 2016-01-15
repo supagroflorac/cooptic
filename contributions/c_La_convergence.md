@@ -170,6 +170,7 @@ Le but de l'évaluation dans une gestion classique de projet est triple :
 * Savoir à l'avance si un projet peut être confié à quelqu'un ou à une équipe.
 * Faire en sorte de corriger le projet pendant son déroulement pour améliorer ses résultats.
 * Juger après le projet s'il s'est déroulé correctement.
+
 Habituellement, dans les projets industriels soumis à un appel d'offre par exemple, ce sont les premiers et derniers buts qui priment. L'investissement d'un mandataire étant lourd, il cherche à savoir à l'avance si son argent est bien placé. Pendant le projet, il cherche à le corriger pour que la suite du projet se déroule bien. A la fin, il juge ensuite si le résultat peut servir pour des étapes ultérieures (diffusion des résultats ou apport de base à un autre projet suivant une chaîne "taylorisée").
 
 ###Première Déviation : l'évaluation *a priori*
