@@ -177,6 +177,7 @@ Souvent, pour attirer des contributeurs, on leur propose un "titre" au sein du p
 * Il s'agit d'une reconnaissance *a priori* : qui nous replace dans le principe de Peter.
 * Ils donnent souvent un pouvoir hiérarchique coercitif.
 * Ils présentent un danger lorsqu'ils sont opérationnels car ils bloquent un rôle qui ne peut être repris facilement par un autre si nécessaire.
+
 L'idéal est que le titre donné ne soit pas exclusif et ne donne pas de pouvoir spécial. Il vaut mieux un "agent de liaison avec le monde hispanophone" (ce qui n'empêche pas d'en avoir d'autres) qu'un "responsable des traductions en espagnol".
 ###Première règle : Évaluer *a posteriori*
 Faisons l'hypothèse qu'un projet s'applique dans un milieu d'abondance, que les besoins minimums nécessaires à sa survie soient remplis et qu'il y ait suffisamment de temps pour permettre au groupe mis en place de mûrir à son rythme. Dans ce cas, l'évaluation *a priori* prend beaucoup moins d'importance (sauf peut être pour le porteur du projet qui doit décider ou non de le lancer). Il est dans ce cas plus utile d'apporter des corrections par itérations successives.
