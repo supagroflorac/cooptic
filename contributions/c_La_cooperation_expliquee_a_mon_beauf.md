@@ -1,6 +1,6 @@
 # La coopération expliquée à mon beauf'
 *Par un dimanche ensoleillé de juin*
-- C'est OK pour vous ? Lance ma belle soeur en s'adressant à moi et à son mari
+ - C'est OK pour vous ? Lance ma belle soeur en s'adressant à moi et à son mari
 - Oui oui on est prêt. Amenez la viande, les braises sont à point !
 Alors que nous plaçons les saucisses sur la grille, mon beauf me lance :
 - Ton séminaire à Sète sur la coopération s'est bien passé ?
