@@ -4,7 +4,7 @@
 |Et si nous n'étions pas si individualistes ?|Concept|oui|oui|C Et si nous n etions pas si individualistes|oui|
 |Grossir ou s'archipéliser ?|Concept|oui|oui|C Grossir ou s archipeliser|oui |
 |Historique de l'approche francophone de la coopération|Concept|oui|oui|C Historique de l approche francophone de la cooperation|oui|
-|Introduction aux biens communs|Concept|oui|oui|C Introduction aux biens communs| |
+|Introduction aux biens communs|Concept|oui|oui|C Introduction aux biens communs|oui|
 |L'implication|Concept|oui|oui| | |
 |La convergence|Concept|oui|oui| | |
 |La coopération en 28 mots-clés|Concept|oui|oui| | |
