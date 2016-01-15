@@ -79,9 +79,11 @@ Les voies pour s'approvisionner en biens sont :
 * La production organisée par le marché (principe de concurrence).
 * La production organisée par l'État (principe de planification).
 * La production et la distribution au sein de communautés (principe de réciprocité).
+* 
 Le sentiment de communauté et de coopération libre semblent acquérir une nouvelle signification et une nouvelle importance en se conjuguant au désir d'indépendance. Le renforcement des biens communs répond à ce besoin.
 
 **La solution aux problèmes d'aujourd'hui ne réside pas dans un repli de l'État visant à faire de la place au marché, mais plutôt en ce que l'État s'efforce de sécuriser les droits des communautés sur leurs biens communs.**
+
 ##Les atouts des biens communs
 Ce qui apparaît aujourd'hui encore comme une faiblesse des biens communs pourrait bien dans un avenir proche se révéler une force : l'argent y joue un rôle secondaire. Ce qui distingue les biens communs, c'est la coopération en vue de la possession partagée plutôt que la concurrence dans la recherche de l'enrichissement personnel. Généralement, les incitations monétaires y jouent un rôle très marginal.
 Les motifs qui comptent réellement sont plutôt :
