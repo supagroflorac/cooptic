@@ -4,12 +4,15 @@
 \- C'est OK pour vous ? Lance ma belle soeur en s'adressant à moi et à son mari
 
 \- Oui oui on est prêt. Amenez la viande, les braises sont à point !
+
 Alors que nous plaçons les saucisses sur la grille, mon beauf me lance :
+
 \- Ton séminaire à Sète sur la coopération s'est bien passé ?
 
 \- Oui ce fut plutôt sympa. J'ai pu de nouveau goûter à la puissance de l'intelligence collective.
 
 - Tu m'excuseras mais ça reste encore un peu flou pour moi, cette "coopération".
+
 - Oui, je comprends... Même pour moi ce n'est pas évident d'en parler simplement. Faut dire qu'on est en pleine phase d'émergence et qu'elle ne peut encore s'appuyer sur rien de grande ampleur... Mais ça bouillonne chaque jour un peu plus.
 - Pour moi coopérer, ça veut dire faire des choses ensemble mais ça me parait tellement loin du fonctionnement de notre société. J'ai des doutes quant au fait que ça concerne beaucoup de monde...
 - Détrompe-toi, il y a vraiment beaucoup d'initiatives qui naissent. Même les entreprises s'y mettent !
