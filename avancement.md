@@ -1,7 +1,7 @@
 |Titre|Nom fiche|Type|Convertie|Finition|Fiche MBaO créée|Fiche corrigée|
 |-----|---------|----|---------|--------|----------------|--------------|
 |Coopérer, entre efficience et résilience| |Concept|oui|oui| | |
-|Et si nous n'étions pas si individualistes ?| |Concept|oui|oui| | |
+|Et si nous n'étions pas si individualistes ?| |Concept|oui|oui|oui|oui|
 |Grossir ou s'archipéliser ?| |Concept|oui|oui| | |
 |Historique de l'approche francophone de la coopération| |Concept|oui|oui| | |
 |Introduction aux biens communs| |Concept|oui|oui| | |
