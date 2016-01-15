@@ -6,7 +6,7 @@
 |Historique de l'approche francophone de la coopération|Concept|oui|oui|C Historique de l approche francophone de la cooperation|oui|
 |Introduction aux biens communs|Concept|oui|oui|C Introduction aux biens communs|oui|
 |L'implication|Concept|oui|oui|C L implication|oui|
-|La convergence|Concept|oui|oui| | |
+|La convergence|Concept|oui|oui|C La convergence|oui|
 |La coopération en 28 mots-clés|Concept|oui|oui| | |
 |La coopération expliquée à mon beauf'|Concept|oui|oui| | |
 |La propriété intellectuelle|Concept|oui|oui| | |
