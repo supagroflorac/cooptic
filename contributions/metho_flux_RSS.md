@@ -1,5 +1,7 @@
 #Les flux RSS et la syndication
-**Que signifie ce symbole mystérieux et ce sigle barbare ?... **
+![logo RSS par ejk sur Flick - CC-BY-SA](http://ebook.coop-tic.eu/francais/cache/vignette_bf_imageFlux_rss.jpg)
+
+**Que signifient ce symbole mystérieux et ce sigle barbare ?...**
 
 ##Qu'est ce qu'un flux RSS ?
 Qu'on l'appelle "flux RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*"), "canal RSS", "fil RSS", "fil d'info", le principe est le même : il s'agit d'**un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment** (sites d'information, *blogs*...).
@@ -54,7 +56,7 @@ On parle en général de "syndication de contenu" pour désigner la possibilité
 * http://culturevisuelle.org/iconique/breve-histoire-critique-de-la-feed-icon : brève histoire de la feed icon (le logo "RSS")
 * http://www.apprendre2point0.org/les-tags-expliques-aux-enfants/ : flus RSS expliqués aux enfants
 
-*Crédits photo : ejk* sur Flick - CC-BY-SA*
+*Crédits photo : ejk sur Flick - CC-BY-SA*
 ##Auteurs :
 Outils-réseaux
 ##Licence :
