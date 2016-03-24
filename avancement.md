@@ -27,8 +27,7 @@
 |Comment produire un document à plusieurs centaines de personnes ? (2ème partie)|Méthode| | | | |
 |Comprendre par vous-même ce qui se passe dans votre groupe|Méthode|oui|oui|m Comprendre par vous-meme ce qui se passe dans votre groupe|NC|NC|
 |Concevoir une formation|Méthode| | | | |
-|Coopération ou collaboration : quelles différences ?|Méthode|oui|oui|m Cooperation ou collaboration quelles differences
-|oui|NC|
+|Coopération ou collaboration : quelles différences ?|Méthode|oui|oui|m Cooperation ou collaboration quelles differences|oui|NC|
 |Formateur 2.0 : une nouvelle manière de faire de la formation|Méthode| | | | |
 |L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information|Méthode|oui|oui|m L ergonomie editoriale ou l art de batir une architecture de l information|oui|oui|
 |L'écriture collaborative|Méthode| | | | |
