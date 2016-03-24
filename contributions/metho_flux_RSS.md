@@ -18,15 +18,15 @@ Pour s'abonner à des flux RSS individuellement, il est nécessaire de disposer 
 Il en existe de 2 types :
 
 * **Outils pour le poste de travail :**
- * Thunderbird : 
- * \+: très facile à utiliser, interface simple, multiplate-forme (Mac, Windows, Linux), ce logiciel n'est pas qu'un lecteur de flux.
- * \-: ce logiciel n'est pas qu'un lecteur de flux.
- * RSSowl :
- * \+: fonctionnalités avancées, navigation par onglets, multiplate-forme (Mac, Windows, Linux).
- * \-: pas très simple d'utilisation, lenteur (JAVA).
- * Feedreader (WIN), NetNewsWire Lite (MAC), ou Liferea (Linux).
- * \+: très facile à utiliser, interface simple.
- * \-: mono plate-forme (Mac OU Windows OU Linux).
+ * **Thunderbird** : 
+   * avantages : très facile à utiliser, interface simple, multiplate-forme (Mac, Windows, Linux), ce logiciel n'est pas qu'un lecteur de flux.
+   * inconvénients : ce logiciel n'est pas qu'un lecteur de flux.
+ * **RSSowl** :
+   * avantages : fonctionnalités avancées, navigation par onglets, multiplate-forme (Mac, Windows, Linux).
+   * inconvénients : pas très simple d'utilisation, lenteur (JAVA).
+ * **Feedreader** (WIN), **NetNewsWire Lite** (MAC), ou **Liferea** (Linux).
+   * avantages : très facile à utiliser, interface simple.
+   * inconvénients : mono plate-forme (Mac OU Windows OU Linux).
  * Akregator (Linux).
  * Firefox.
 
