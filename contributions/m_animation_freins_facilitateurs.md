@@ -190,9 +190,10 @@ Tela : Projet compilation d'articles botaniques (25674 articles).
 
 ### L'analyse du risque
 * La peur d'échouer fait prendre un minimum de risque. On est alors tenté de tout blinder, c'est d'ailleurs une des caractéristiques actuelles : tout est balisé, verrouillé (notamment juridiquement). Au sein de certaines administrations par exemple, il existe un manque d'ouverture qui est le reflet d'un fonctionnement mental rigide.
-* À l'inverse, vouloir réussir suppose de mettre en oeuvre des moyens pour atteindre le but qu'on s'est fixé. Cette démarche renvoie à un schéma mental beaucoup plus ouvert et dynamique.
+* A l'inverse, vouloir réussir suppose de mettre en oeuvre des moyens pour atteindre le but qu'on s'est fixé. Cette démarche renvoie à un schéma mental beaucoup plus ouvert et dynamique.
+
 ------
-*Crédits illustrations sous licence Creative Commons : CC-By Outils-Réseaux - CC-By Éric Grelet - CC-By Ell Brown - CC-By Cea - CC-By Marc Smith*
+*Crédits illustrations sous licence Creative Commons : CC-By Outils-Réseaux - CC-By-Sa Éric Grelet - CC-By Ell Brown - CC-By Cea - CC-By Marc Smith*
 
 ##Auteurs :
 Outils-réseaux et tous ses stagiaires
