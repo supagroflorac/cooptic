@@ -12,18 +12,19 @@ En associant à l'oeuvre un contrat d'utilisation (licence) pour, selon la licen
 * Permettre de modifier l'oeuvre initiale.
 * Autoriser ou non un usage commercial de l'oeuvre.
 * Obliger toute personne modifiant son oeuvre à diffuser la nouvelle oeuvre selon la même licence.
-* 
+
 ###Les oeuvre libres, pour quoi faire ?
 * Faciliter la diffusion des connaissances.
 * Créer des **biens communs**
 * Autoriser la collaboration pour faire évoluer une oeuvre, un logiciel.
-* 
+
 ###Du logiciel libre
 * Issu de l'expérience de Linux (30 millions de lignes de programmes collaboratives).
 * Étendu à de nombreux logiciels sur le net : système LAMP (Linux, Apache, MySql, Php), Open Office...
 * Plusieurs licence possibles : BSD, GNU/GPL, CeCILL (Cea, Cnrs, Inria).
 * Les sources du logiciel doivent être libre d'accès : serveur spécifique (CVS).
 * La GPL Impose de transférer aux logiciels dérivés les mêmes droits que ceux du logiciel initial ; la GPLL ne l'impose pas. 
+
 ###D'autres licences libres
 * [Licence art libre](http://artlibre.org/) : licence appliquant le domaine du *copyleft* dans l'art. Cette licence autorise la diffusion, la modification sous réserve que l'oeuvre modifiée soit sous la même licence.
 * Licence information publique librement réutilisable : en France, permet la diffusion, la réutilisation de données publiques, de manière commerciale ou non.  Toutes les données publiques ne sont pas encore sous cette licence.
