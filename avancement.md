@@ -7,7 +7,7 @@
 |Introduction aux biens communs|Concept|oui|oui|c Introduction aux biens communs|oui|
 |L'implication|Concept|oui|oui|c L implication|oui|
 |La convergence|Concept|oui|oui|c La convergence|oui|
-|La coopération en 28 mots-clés|Concept|oui|oui| | |
+|La coopération en 28 mots-clés|Concept|oui|oui|c La cooperation en 28 mots-cles|oui|
 |La coopération expliquée à mon beauf'|Concept|oui|oui|c La cooperation expliquee a mon beauf|oui|
 |La propriété intellectuelle|Concept|oui|oui|c La propriete intellectuelle|oui|
 |La stigmergie|Concept|oui|oui|c La stigmergie|oui |
