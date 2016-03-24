@@ -1,6 +1,8 @@
 # Les réseaux qui durent sont sous licence CC BY SA
 ##Introduction : Un monde à la dérive
+
 Un peu de fiction pour débuter...
+
 **Consigne : Imaginez le monde actuel à la lumière de ces données**
 * Nous sommes il y a quelques millénaires, pour utiliser un "e" il faudra me verser des royalties... Et si vous tentiez votre premier discours ? (préparez votre portefeuille !! Il y a des milliers d'années, l'humain passe un cap majeur : c'est l'invention de l'écriture et des alphabets. Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger la lettre "e" par une licence restrictive. Dorénavant, à chaque fois que vous désirez utiliser cette lettre, payez ou réduisez vos ambitions ;-)
 * Nous sommes dans un atelier en Mésopotamie, 3500 ans avant Jésus Christ. Par un coup de génie (surtout inspiré de la nature mais chuuut) je viens d'inventer la roue ! Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger cette invention par une licence restrictive. Dorénavant, à chaque fois que vous désirez utiliser une roue il faudra me verser des royalties... Imaginez votre vie actuelle !
@@ -38,7 +40,8 @@ La réaction s'organise, mais elle doit être soutenue car les opposants sont f�
 
 **Copyfraude**
 
-Wikipédia : Revendication de *copyright* frauduleuse, comme par exemple prétendre avoir des droits sur des œuvres du domaine public.
+selon Wikipédia : *Revendication de *copyright* frauduleuse, comme par exemple prétendre avoir des droits sur des œuvres du domaine public.*
+
 On assiste de plus en plus à la pose de droit d'auteur sur des œuvres ou objets qui ne devraient pas en faire l'objet (par exemple la peinture de la Joconde non photographiable dans le musée). Ces droits sont illégaux mais non contestés car actuellement personne ne défend le domaine public (peu explicité dans le droit).
 ##Et pourtant 
 !["mickey mic1.png"](http://ebook.coop-tic.eu/francais/files/LesReseauxQuiDurentSontSousLicenceCcBy_mic1_20140117143713_20140117134051.png)**Un cas concret : Protégeons Mickey**
@@ -190,7 +193,7 @@ La fiche de votre plombier vous amène au niveau 2.
 Votre plombier est quant à lui au niveau 4 ou 5.
 Ce qui lui permet de faire face aux imprévus et c'est ce niveau de compétence que vous rémunérez, pas le savoir-faire ancestral de niveau 1.
 
-*Dessins : Creatives Commons et David John Goodger - CC-BY-NC-SA*
+*Dessin : David John Goodger - CC-BY-NC-SA*
 
 
 ### Auteurs :
