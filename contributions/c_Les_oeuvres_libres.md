@@ -12,10 +12,12 @@ En associant à l'oeuvre un contrat d'utilisation (licence) pour, selon la licen
 * Permettre de modifier l'oeuvre initiale.
 * Autoriser ou non un usage commercial de l'oeuvre.
 * Obliger toute personne modifiant son oeuvre à diffuser la nouvelle oeuvre selon la même licence.
+* 
 ###Les oeuvre libres, pour quoi faire ?
 * Faciliter la diffusion des connaissances.
 * Créer des **biens communs**
 * Autoriser la collaboration pour faire évoluer une oeuvre, un logiciel.
+* 
 ###Du logiciel libre
 * Issu de l'expérience de Linux (30 millions de lignes de programmes collaboratives).
 * Étendu à de nombreux logiciels sur le net : système LAMP (Linux, Apache, MySql, Php), Open Office...
