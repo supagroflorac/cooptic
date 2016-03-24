@@ -6,6 +6,7 @@ Loin d'ignorer les droits de l'auteur, les "licences libres" les reconnaissent e
 
 Alors que l'usage habituel du droit de la propriété littéraire et artistique conduit à restreindre l'accès du public aux oeuvres, les "licences libres" ont pour but de le favoriser. En effet, tous les créateurs d'oeuvre ne sont pas hostiles à la diffusion de leurs oeuvres. Au contraire même, un certain nombre souhaite que leurs oeuvres puissent être diffusées largement (musique, photographie,...) et même modifiées, améliorées ou personnalisées (cours, article, logiciel,...). Or par défaut (en droit français et dans de nombreux droits), les oeuvres de l'esprit sont protégées de la manière la plus stricte afin de proposer la plus grande protection possible aux auteurs.
 Les licences libres permettent donc aux auteurs qui le souhaitent, et sans connaissances juridiques particulières, de "libérer" leurs oeuvres afin de faciliter leur diffusion, tout en les protégeant, car ces licences restent opposables dans le droit national de l'auteur.
+
 ###Comment "libérer" une oeuvre ?
 En associant à l'oeuvre un contrat d'utilisation (licence) pour, selon la licence choisie :
 * Autoriser tous les utilisateurs à reproduire et diffuser l'oeuvre librement, sans autorisation.
@@ -28,6 +29,7 @@ En associant à l'oeuvre un contrat d'utilisation (licence) pour, selon la licen
 ###D'autres licences libres
 * [Licence art libre](http://artlibre.org/) : licence appliquant le domaine du *copyleft* dans l'art. Cette licence autorise la diffusion, la modification sous réserve que l'oeuvre modifiée soit sous la même licence.
 * Licence information publique librement réutilisable : en France, permet la diffusion, la réutilisation de données publiques, de manière commerciale ou non.  Toutes les données publiques ne sont pas encore sous cette licence.
+
 ###Les licences *Creative Commons*
 Système de licences libres, multilingue offrant un panel de solutions adaptées à toutes les oeuvres. Elles ont été adaptées en droit français par le CERSA (dépendant du CNRS).
 Les choix possibles :
@@ -36,6 +38,7 @@ Les choix possibles :
 * Si oui, à la condition que les créations dérivées soient partagées selon les mêmes conditions que la création initiale.
 Il suffit d'apposer le logo correspondant à la licence choisie pour que l'oeuvre soit protégée.
 Pour choisir la licence et récupéré le logo correspondant : [http://creativecommons.org/](http://creativecommons.org/choose/?lang=fr)
+
 ###Où trouver des oeuvres libres ?
 Utiliser des oeuvres libres (en respectant leur conditions de licence) c'est à la fois respecter le travail des créateurs et participer à la démarche. En pratique :
 * Images, vidéo, sons : http://search.creativecommons.org/ ou http://commons.wikimedia.org/
@@ -44,6 +47,7 @@ Utiliser des oeuvres libres (en respectant leur conditions de licence) c'est à 
 
 ###Webographie
 * Licence Art libre : « Copyleft-attitude » [en ligne], Artlibre, disponible sur <http://artlibre.org/>, (consulté le 30 janvier 2014).
+
 **Creatives Commons**
 * « Creative Commons France » [en ligne], disponible sur <http://creativecommons.fr/>, (consulté le 30 janvier 2014).
 * Liste de plus de 500 sites sous licence Créative Commons : « Sites sous licence Creative Commons » [en ligne], Wiki @ Brest, disponible sur <http://wiki.a-brest.net/index.php/Sites_sous_licence_Creative_Commons>, (consulté le 30 janvier 2014).
