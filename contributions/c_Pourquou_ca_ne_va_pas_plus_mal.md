@@ -21,7 +21,7 @@ Cela s'est fait en plusieurs étapes :
 Comment sortir de la modernité ? Cela peut se faire :
 * Soit par une régression (un retour à une société du contrôle et une perte de l'individuation).
 * Soit en cherchant à conserver le meilleur des sociétés traditionnelles (sens et lien social) et de la modernité (individuation et émancipation). 
-* 
+
 ##Nous sommes coincés dans la phase intermédiaire
 Pourtant, bien qu'elle ait été créée pour résoudre un problème de rareté, l'économie n'a été prévue que comme une phase de transition pour arriver à une autre société :
 * Pour Adam Smith, le rôle de l'économie était d'organiser l'abondance afin de réunir les conditions pour construire ensuite une "république philosophique".
