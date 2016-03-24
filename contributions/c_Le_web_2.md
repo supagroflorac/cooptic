@@ -1,4 +1,3 @@
-# Le web 2
 #Le Web 2.0
 Le [web 2.0](http://fr.wikipedia.org/w/index.php?title=Web_2.0&oldid=21325642) est un terme inventé en 2004 par Dale Dougherty de la société O'Reilly Media et popularisé en 2005 par Tim O'Reilly. Dans un article intitulé [Qu'est-ce que le web 2.0 ?](http://www.eutech- sii.com/index.php?option=com_content&view=article&id=78), ce dernier redéfinit Internet non plus comme un simple média mais comme un support à l'intelligence collective. Véritable révolution qui place l'utilisateur au coeur du *web* et marque un retour aux fondamentaux pour certains, vaste escroquerie *marketing* pour d'autres, ce concept recouvre des sens et des réalités bien différents.
 
