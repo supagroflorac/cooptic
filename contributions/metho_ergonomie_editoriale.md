@@ -36,7 +36,9 @@ Pour améliorer **l'accessibilité du contenu**, il est conseillé de :
 
 [![Ergonomie01](https://framapic.org/kvTITjCEjKgq/f978CAwDMsF4)](http://www.pearltrees.com/numerique/ergonomie-editoriale/id5177273)
 
-*Photo : City University Interaction Lab - CC-By on Flickr*
+
+
+*Crédits Photo : City University Interaction Lab - CC-By on Flickr*
 ##Auteurs :
 Outils-réseaux
 ##Licence :
