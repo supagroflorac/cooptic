@@ -5,7 +5,7 @@ Très souvent on anime un groupe avec notre bon sens, en essayant de faire "au m
 **Nous vous proposons une carte des différentes facettes qui permettent de comprendre ce qui se passe dans votre groupe et des différentes compétences qui permettent d'agir pour le faire naître et le développer.** Quelques unes de ces facettes sont contre intuitives, nous les présenterons dès le départ. Cette carte n'est pas le fruit d'une seule personne qui par définition, serait elle-même soumise à l'aveuglement paradigmatique. Elle est issue des échanges au départ des 130 membres du groupe Intelligence Collectif de la Fing **[2](#note)** et s'est enrichie progressivement des travaux ultérieurs. Muni de ces 28 mots clés, de ces 28 outils, vous et même les membres de votre groupe, pourrez mieux comprendre ce qui se passe dans votre groupe et l'aider à se développer et à s'adapter aux différentes situations.
 
 ###Pour en savoir plus 
-<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/k2uiwOXOg3xQVz4lqYW"></iframe><br /><a href="http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam" target="_blank">JM Cornu - La Coopération en 28 mots-clés - 1. Introduction</a>
+[![Cornu01](https://framapic.org/QARtgoXcIbVS/RHN9RQiSR1vK)](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
 
 La présentation "La coopération en 28 mots-clés" est disponible en ligne : http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
