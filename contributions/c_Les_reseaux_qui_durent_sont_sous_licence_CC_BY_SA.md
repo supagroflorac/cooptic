@@ -77,6 +77,7 @@ Il peut ainsi décider si le principe du *copyleft*, nommé ici *"Share Alike"* 
 Si l'on souhaite garder à l'esprit la réelle ouverture prônée par le licence GNU GPL *via* les licences Creatives commons, on veillera dès lors :
 * A placer ses oeuvres en CC BY SA,
 * à veiller à les rendre accessibles et modifiables *via* des programmes "ouverts" eux aussi (format open office ou autres).
+
 ##Un exemple pour illustrer
 Sésamath le réseau l'enseignement actuel des Mathématiques : http://www.sesamath.net/
 Créée en 2001, Sésamath est une association reconnue d'intérêt général et à but non lucratif.
@@ -94,6 +95,7 @@ Dès le départ, Sésamath a fait le choix d'utiliser les licences
 
 Grâce à ce choix volontairement très ouvert, Sésamath a pu capitaliser sur les apports individuels des membres du réseau, produire des contenus plus élaborés (on parlera de richesse de niveau 2 voir plus bas) qui ont ensuite pu être valorisés financièrement. Cette valorisation ayant permis à l'association de pérenniser son activité sans perdre le sens premier de son action : proposer un espace de coopération et de mutualisation des compétences entre enseignants de mathématique.
 *A contrario*, un réseau de profs de français a voulu tenter l'expérience Sésamath et a échoué car les licences choisies (ou plutôt non choisies) au départ ne leur a pas permis de valoriser leurs productions collectives.
+
 ##Pourquoi les licences non ouvertes empêchent la valorisation financière des productions du réseau ?
 Avant d'aller plus loin, il faut expliciter la notion de niveaux de richesse dans un réseau.
 **Les niveaux de richesse dans un réseau.**
@@ -102,6 +104,7 @@ Dans la vie d'une réseau, on observe l'apparition de plusieurs niveaux de riche
 * Les richesses de niveau 2 : Ce sont les productions dérivées et coproduites par le réseau à partir des richesse individuelles de ses membres
 * Les richesses de niveau 3 : Ce sont les productions dérivées et coproduites par le réseau ET les réseaux avec qui ils échangent en mutualisant leurs richesses de niveau 2 respectives. 
 A partir du niveau 2, les richesses produites sont en général de qualité suffisante que pour envisager une valorisation financière.
+
 ##Organigramme de vie d'un réseau
 **Richesse de niveau 1** : Le réseau s'organise et compile les apports individuels de ses membres
 
@@ -125,6 +128,7 @@ Leurs productions étant souvent importantes et de qualité (car ils atteignent 
 Si ces réseaux proches ont eux fait le choix d'une licence plus fermée (Non commerciale par exemple) l'échange est très difficile car les productions du réseau "ouvert" (réseau 1) nécessite pour leur utilisation ou adaptation par le réseau "moins ouvert" (réseau 2) d'être partagée à l'identique... à savoir sous licence ouverte ! Ce qui oblige le réseau "moins ouvert" (2) à un choix.
 * soit je profite des richesses du réseau ouvert (1) mais alors je dois quitter ma licence "moins ouverte" pour adopter la licence "plus ouverte" du réseau 1.
 * soit je ne veux pas quitter ma licence et je regarde avec envie et désespoir toutes les richesses que j'aurai pu partager et les richesses de niveau 3 (hautement valorisables celle-là) qu'on aurait pu faire ensemble ;-)
+
 ##Les questions qui reviennent souvent
 **On va tout me piquer si je ne place la clause Non Commercial (NC)**
 Il semble pourtant que cette clause non commercial soit flou et difficilement interprétable.
@@ -136,12 +140,14 @@ En effet, en démontrant au secteur privé que vos productions sont rentables, v
 Mieux vaut donc jouer sur le terrain des licences ouvertes, terrain qui met mal à l'aise les sociétés et sur lequel votre association et son agilité (le coup d'avance) est plus efficace.
 Par ailleurs, votre travail, librement accessible et adaptable, s'il est bon, intéressera des gens qui, content d'utiliser votre travail, veilleront sur celui-ci et vous aideront aussi peut-être en cas de besoin par "renvoi d'ascenseur" (en ce y compris des commerciaux qui se servent de vos travaux et qui ne souhaitent pas votre mort)
 Exemple : Outils réseaux
+
 **Les licences ouvertes ne conviennent pas pour tout**
 Et c'est bien vrai !
 Avant d'envisager telle ou telle licence, réfléchissez clairement à vos objectifs !
 Si celui-ci est de vivre le plus longtemps possible sur une production, les licences ouvertes ne sont pas un bon choix.
 Si votre objectif n'est pas l'ouverture et la diffusion de vos productions, les licences ouvertes ne sont pas un bon choix.
 Si votre objectif est de participer à l'avancée du monde, à la diffusion des idées, de la connaissance, au développement de services autour de connaissances... Alors les licences ouvertes sont à explorer ! (car elles seront un bon outil).
+
 **Pourquoi dès lors rémunérer le savoir faire du plombier ?**
 C'est vrai ? Pourquoi payer le savoir-faire du plombier puisqu'il tire celui-ci d'un savoir ancestral ?
 Premièrement, quand on paie le plombier on paie surtout du temps !
@@ -150,7 +156,7 @@ Le fait que le savoir faire du plombier soit disponible librement par chacun car
 * Imaginons que votre plombier vous rédige une fiche explicative pour remplacer votre siphon sous l'évier... Elle est bien rédigée et très complète.
 * Imaginons qu'il vous livre cette fiche gratuitement (puisque tirée d'un savoir ancestral) et qu'il ne vous facture que le matériel.
 * Vous voilà au travail, vous suivez la fiche scrupuleusement mais un imprévu survient. Le robinet lâche et l'inondation menace...
- Imaginez la somme que vous êtes maintenant prêt à payer pour faire revenir en urgence ce même plombier ;-) 
+Imaginez la somme que vous êtes maintenant prêt à payer pour faire revenir en urgence ce même plombier ;-) 
 Ce dont on parle ici, c'est la rémunération d'un niveau de compétence que seul votre plombier possède (en tout cas dans le domaine de la plomberie).
 
 Il existe plusieurs niveaux de compétences
