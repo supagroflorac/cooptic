@@ -1,5 +1,5 @@
 #Animation des dispositifs coopératifs : freins et facilitateurs
-[animer](http://outils-reseaux.org/files/ContenuAnimation_animation_20100407152847_20100407152858.jpg)
+![animer](http://outils-reseaux.org/files/ContenuAnimation_animation_20100407152847_20100407152858.jpg)
 ####Ce qui freine
 * Manque de participation.
 * Au niveau des outils.
