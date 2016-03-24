@@ -7,7 +7,7 @@ Très souvent on anime un groupe avec notre bon sens, en essayant de faire "au m
 ###Pour en savoir plus 
 [![Cornu01](https://framapic.org/s00rsM8drwMf/qY8vGicmrbdl)](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
 
-La présentation "[La coopération en 28 mots-clés](http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share)" est disponible en ligne : 
+La présentation "[La coopération en 28 mots-clés](http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share)" est disponible en ligne.
 
 ##Un premier aspect contre intuitif : le choix *a posteriori*
 Il existe plusieurs stratégies en fonction de l'environnement dans lequel on se situe :
@@ -20,7 +20,8 @@ Souvent nous ne choisissons pas notre stratégie mais utilisons celle que nous m
 ###Pour en savoir plus
 [![Cornu02](https://framapic.org/rTYPjTxQjpvZ/ToukFqzHj06T)](http://www.dailymotion.com/video/x128cko_j-m-cornu-2-un-premier-aspect-contre-intuitif_webcam)
 
-À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : [Le choix a posteriori](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeChoixaPosteriori)
+À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
+* [Le choix a posteriori](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeChoixaPosteriori)
 
 \#taille28 
 
@@ -37,7 +38,8 @@ On peut en déduire **différents types de groupes distingués par le nombre de 
 ###Pour en savoir plus
 [![Cornu03](https://framapic.org/MfHFeZh5fC5g/1E5pmjP2GL1W)](http://www.dailymotion.com/video/x128f9f_j-m-cornu-3-la-taille-des-groupes-et-les-roles-des-membres_webcam)
 
-À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : [La taille des groupes et le rôle des membres](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTailleDesGroupesEtLesRolesDesMembres)
+À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
+* [La taille des groupes et le rôle des membres](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTailleDesGroupesEtLesRolesDesMembres)
 
 
 ##Convergence et conflit
@@ -107,7 +109,7 @@ Très souvent, on cherche à **piloter le groupe avec une intention précise.** 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [La stigmergie](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaStigmergie)
 * [La tragédie des 3C](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTragedieDes3C)
-* 
+
 \#conscience28 \#coordination28  
 
 ##Les autres aspects spécifiques au groupe
@@ -120,7 +122,7 @@ Un groupe progresse suivant différents **niveau de maturité. Lorsque le groupe
 **Qu'est-ce que partage un groupe ?** Il dispose tout d'abord d'**une culture commune** (une histoire, du vécut commun, parfois du vocabulaire qui lui est propre...). Mais cette culture est-elle accessible à tous y compris aux nouveaux ? Le groupe a-t-il trouvé un bon équilibre entre son identité collective et l'identité personnelle de ses membres ? Un deuxième aspect à partager est absolument fondamental. Il s'agit **des communs** (les informations définissant le groupe, son fonctionnement, ses règles et ses productions, les outils et méthodes utilisés par le groupe...). Sont-ils accessibles à tous facilement, y compris aux personnes à l'extérieur du groupe ? Outre la mise à disposition dans un endroit accessible (*Web*...), il est important que ces communs respectent quelques règles de partage : des licences *Creatives Commons* pour les documents (en particulier cc -by -sa qui permet un véritable partage et une amélioration constante **[6](#note)** ) et des logiciels libres pour les applications (en particulier la licence Gnu **[7](#note)** ). Les outils et méthodes utilisées dans le groupe doivent permettre à chacun de développer son autonomie personnelle et son rayon d'action sans susciter des maîtres et des esclaves (voir en particulier les règles de Ivan Illich **[8](#note)** ). 
 
 ###Pour en savoir plus
-[![Cornu09](https://framapic.org/T1F7iuX8R0e/6yVaqLx1rzOQ)](http://www.dailymotion.com/video/x12ekfu_j-m-cornu-9-influence-de-la-structure-du-groupe_webcam)
+[![Cornu09](https://framapic.org/3T1F7iuX8R0e/6yVaqLx1rzOQ)](http://www.dailymotion.com/video/x12ekfu_j-m-cornu-9-influence-de-la-structure-du-groupe_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic :
 * [Introduction aux biens communs](http://ebook.coop-tic.eu/francais/wakka.php?wiki=IntroductionAuxBiensCommuns)
@@ -161,8 +163,10 @@ Après avoir vu les 16 facettes qui permettent de comprendre ce qui se passe dan
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [Cartographier pour donner une vision d'ensemble](http://ebook.coop-tic.eu/francais/wakka.php?wiki=CartographierPourDonnerUneVisionD039ens)
 * [Comment produire un document à plusieurs centaines de personnes](http://ebook.coop-tic.eu/francais/wakka.php?wiki=CommentProduireUnDocumentAPlusieursCentai) 
-* [Des recettes libres pour documenter nos savoir-faire](http://imaginationforpeople.org/wiki/workgroup/animfr/les-recettes-libres) (sur le site d'*Imagination for People*)
-* 
+
+À lire sur le site d'*Imagination for People* : 
+* [Des recettes libres pour documenter nos savoir-faire](http://imaginationforpeople.org/wiki/workgroup/animfr/les-recettes-libres) (sur )
+
 \#integrer28 \#comporter28 \#infobesite28 \#positionnement28 \#demarrer28 \#faire_vivre28 \#cartographier28 \#autoevaluer28 \#produire28 \#evenement28 \#documenter28 \#echelle28 
 
 ##La coopération en 28 mots clés, que faut-il retenir ?
@@ -171,9 +175,9 @@ La coopération est parfois mal comprise et donc rejetée comme quelque chose d'
 **Il n'est pas aisé de se rappeler les 28 mots clés** sans en oublier. Mais heureusement, cela n'est pas nécessaire. **Il est possible de s'aider d'outils**. Ainsi, **un auto-questionnaire** **[14](#note)** reprend chacune des 16 facettes qui permettent de comprendre ce qui se passe dans un groupe, sous la forme de questions à se poser. Plutôt que de chercher à l'extérieur du groupe les réponses, il est bien plus efficace de se poser les bonnes questions (y compris avec les autres membres du groupe) car les meilleures réponses dépendent avant tout d'une grande compréhension des spécificité du groupe concerné... et de choix enrichis par une diversité de points de vue.
 
 S'il est utile de disposer d'outils pour retrouver les 28 aspects qui permettent de comprendre la coopération, il est également indispensable de **pouvoir conserver à l'esprit certaines bases dont l'observation doit devenir un véritable réflexe**. Les aspects à intégrer sont au nombre de trois. Ils constituent les **"conditions ICE" (Implication, Communs, Echanges) :**
-* ** 1. L'implication de quelques personnes : **pas tout le monde car, comme nous l'avons vu, les observateurs et les inactifs constituent la majorité dans les groupes dès que l'on dépasse une douzaine de personnes. Cependant, il est indispensable de s'assurer qu'au moins une ou quelques personnes s'investissent dans le groupe et y adoptent une attitude proactive. Se réfugier derrière les outils qui feraient apparaître de la coopération comme par miracle est une utopie pour les groupes en dessous de plusieurs milliers voire dizaine de milliers.
-* ** 2. Des communs accessibles :** les fondamentaux du groupe (objectifs, règles de fonctionnement, outils et méthodes utilisés...) sont-ils accessibles à tous y compris les nouveaux ? Les productions du groupe sont elles facilement accessibles et réutilisables y compris en dehors du groupe ?
-* ** 3. Des moyens d'échange : **il est important de disposer de plusieurs outils et règles d'échange pour assurer la communication entre les participants qui permettront de faire converger le groupe : en présentiel et à distance, lors de moments synchrones (réunions) et en asynchrone (échanges en ligne par exemple), lors d'échanges organisés et de rapports informels (la "machine à café")...
+* **1. L'implication de quelques personnes** : pas tout le monde car, comme nous l'avons vu, les observateurs et les inactifs constituent la majorité dans les groupes dès que l'on dépasse une douzaine de personnes. Cependant, il est indispensable de s'assurer qu'au moins une ou quelques personnes s'investissent dans le groupe et y adoptent une attitude proactive. Se réfugier derrière les outils qui feraient apparaître de la coopération comme par miracle est une utopie pour les groupes en dessous de plusieurs milliers voire dizaine de milliers.
+* **2. Des communs accessibles** : les fondamentaux du groupe (objectifs, règles de fonctionnement, outils et méthodes utilisés...) sont-ils accessibles à tous y compris les nouveaux ? Les productions du groupe sont elles facilement accessibles et réutilisables y compris en dehors du groupe ?
+* **3. Des moyens d'échange** : il est important de disposer de plusieurs outils et règles d'échange pour assurer la communication entre les participants qui permettront de faire converger le groupe : en présentiel et à distance, lors de moments synchrones (réunions) et en asynchrone (échanges en ligne par exemple), lors d'échanges organisés et de rapports informels (la "machine à café")...
 Ces trois conditions doivent être **mises en place de façon efficace mais également diversifiée** (Robert Ulanowicz a montré que la durabilité maximale d'un système dépendait de l'équilibre entre deux aspects antagonistes : 1/3 d'efficacité et 2/3 de résilience par la diversification) **[15](#note)** .
 
 ###Pour en savoir plus 
