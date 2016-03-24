@@ -19,8 +19,8 @@ Freeplane est un petit logiciel de carte mentale ou carte heuristique. Utilisé 
 Un réseau, un groupe qui coopère s'inscrit dans un processus qui devra s'outiller et faire évoluer son outillage en fonction des étapes de son processus. Garder en tête les conditions des outils conviviaux lors de l'élaboration organisations et outils pour les servir permettra d'élaborer un système vivant, évolutif et apprenant. Le réseau, groupe coopératif ou collaboratif deviendront des lieux d'apprentissages, d'innovations et d'émancipations.
 N.B. Les outils libres ne sont pas forcément conviviaux
 ####Pour aller plus loin :
-Illich Ivan, *La convivialité*, Paris, Éd. du Seuil, 1990
-*Outil convivial* [en ligne], Wikipédia, disponible sur <http://fr.wikipedia.org/wiki/Outil_convivial>, (consulté le 3 février 2014).
+* Illich Ivan, *La convivialité*, Paris, Éd. du Seuil, 1990
+* *Outil convivial* [en ligne], Wikipédia, disponible sur <http://fr.wikipedia.org/wiki/Outil_convivial>, (consulté le 3 février 2014).
 
 
 
