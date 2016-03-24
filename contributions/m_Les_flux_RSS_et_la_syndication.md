@@ -19,14 +19,14 @@ Il en existe de 2 types :
 
 * **Outils pour le poste de travail :**
  * **Thunderbird** : 
-   * avantages : très facile à utiliser, interface simple, multiplate-forme (Mac, Windows, Linux), ce logiciel n'est pas qu'un lecteur de flux.
-   * inconvénients : ce logiciel n'est pas qu'un lecteur de flux.
+    * avantages : très facile à utiliser, interface simple, multiplate-forme (Mac, Windows, Linux), ce logiciel n'est pas qu'un lecteur de flux.
+    * inconvénients : ce logiciel n'est pas qu'un lecteur de flux.
  * **RSSowl** :
-   * avantages : fonctionnalités avancées, navigation par onglets, multiplate-forme (Mac, Windows, Linux).
-   * inconvénients : pas très simple d'utilisation, lenteur (JAVA).
+    * avantages : fonctionnalités avancées, navigation par onglets, multiplate-forme (Mac, Windows, Linux).
+    * inconvénients : pas très simple d'utilisation, lenteur (JAVA).
  * **Feedreader** (WIN), **NetNewsWire Lite** (MAC), ou **Liferea** (Linux).
-   * avantages : très facile à utiliser, interface simple.
-   * inconvénients : mono plate-forme (Mac OU Windows OU Linux).
+    * avantages : très facile à utiliser, interface simple.
+    * inconvénients : mono plate-forme (Mac OU Windows OU Linux).
  * Akregator (Linux).
  * Firefox.
 
@@ -37,18 +37,17 @@ Il en existe de 2 types :
 * http://www.framasoft.net/rubrique393.html : logiciels libres ou gratuits sur framasoft agrégateurs de flux rss
 * http://netvibes.com : service en ligne pour se constituer une page d'accueil aux flux RSS personnalisés
 * [Fin de Google Reader ? Quelle alternative pour les professionnels](http://fr.slideshare.net/serge.courrier/fin-de-google-reader-quelle-alternative-pour-les-professionnels )
+
 ##Syndication
 On parle en général de "syndication de contenu" pour désigner la possibilité de republier sur un site *web* - en principe de façon automatisée - du contenu provenant d'un autre site *web*.
-**Exemples:**
-**Syndication**
+**Exemples :**
 * [Tela Botanica](http://tela-botanica.org/actu) , page actualité
 * [Educ-envir.org](http://educ-envir.org) , page actualité
 
 **Attention aux droits d'auteurs !**
 ##En savoir plus##
 
-<iframe src="http://prezi.com/embed/80vahj9zfays/?bgcolor=ffffff&lock_to_path=0&autoplay=0&autohide_ctrls=0&features=undefined&disabled_features=undefined" width="550" height="400" frameBorder="0">
-</iframe>
+[![Mettre en place sa veille avec les flux RSS](https://framapic.org/tIjk9zEJMpxW/s9szb4nOMo95)](https://prezi.com/80vahj9zfays/mettre-en-place-sa-veille-avec-les-flux-rss/)
 
 * http://www.commentcamarche.net/www/rss.php3 : cours sur les flux RSS
 * http://www.lamoooche.com : l'annuaire de flux RSS
