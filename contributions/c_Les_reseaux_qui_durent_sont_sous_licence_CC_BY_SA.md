@@ -7,6 +7,7 @@ Un peu de fiction pour débuter...
 * Il y a 350000 ans, en bordure d'une grotte, voilà des jours et des jours que je tente de reproduire ce feu que nous chérissons et entretenons lorsqu'il tombe du ciel. Et voilà que je tombe enfin sur la "méthode reproductible" à souhait pour faire du feu. Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger cette invention par une licence restrictive. Dorénavant, à chaque fois que vous désirez faire du feu il faudra me verser des royalties... Imaginez votre vie actuelle !
 
 **Maintenant passons dans la réalité**
+
 * Une société australienne est parvenue à placer une licence sur un gène humain lié à un type précis de cancer.  Résultat : Pour pouvoir étudier ce gène afin de trouver un médicament, il faut payer... 
 * "A" est une société polonaise qui vend des livres *online*. Apple a attaqué cette société en justice pour utilisation abusive de sa "marque"... et oui, le site internet de "A" était a.pl.
 * Une institutrice avait lancé un *blog* sur lequel elle échangeait avec ses élèves. Elle s'est vue attaquée par le quotidien "Le Figaro" pour violation du droit de sa marque... Et oui, le *blog* de l'enseignante se nommait "La classe de Madame Figaro" (par ailleurs le vrai nom de cette femme).
@@ -22,6 +23,7 @@ Un peu de fiction pour débuter...
 * Audi a déposé une revendication de propriété intellectuelle (marque) sur la lettre "Q" pour protéger sa voiture l'Audi Q... On atteint là des limites qui posent question : la protection d'une simple lettre soulève le devenir de notre "droit" à l'écriture ! 
 
 **Les DRM (Digital Rights Management)**
+
 Les DRM ont pour objectif de contrôler l'utilisation qui est faite des œuvres numériques. Ces dispositifs peuvent s'appliquer à tous types de supports numériques physiques (disques, DVD, Blu-ray, logiciels, etc.) ou de transmission (télédiffusion, services Internet, etc.) grâce à un système d'accès conditionnel.
 Limiter la copie n'est qu'une raison superficielle à l'ajout de DRM à une technologie. Les DRM échouent complètement lorsqu'il s'agit d'empêcher la copie, mais sont remarquablement efficaces pour éviter toute innovation. En effet les DRM sont couverts par les lois anti-contournement telles que la célèbre DMCA de 1998 (US Digital Millennium Copyright Act) et l'EUCD de 2002 (EU Copyright Directive) ; chacune d'elle fait du contournement de DRM un crime, même si vous n'enfreignez aucune autre loi.
 ##Pourquoi en sommes-nous là ?
@@ -35,6 +37,7 @@ On en arrive donc à des situations inquiétantes de limitation des droits qui a
 La réaction s'organise, mais elle doit être soutenue car les opposants sont féroces et bien outillés.
 
 **Copyfraude**
+
 Wikipédia : Revendication de *copyright* frauduleuse, comme par exemple prétendre avoir des droits sur des œuvres du domaine public.
 On assiste de plus en plus à la pose de droit d'auteur sur des œuvres ou objets qui ne devraient pas en faire l'objet (par exemple la peinture de la Joconde non photographiable dans le musée). Ces droits sont illégaux mais non contestés car actuellement personne ne défend le domaine public (peu explicité dans le droit).
 ##Et pourtant 
@@ -48,8 +51,10 @@ Disney devrait bien plutôt laisser Mickey Mouse et Donald Duck à la libre disp
 Une société doit pouvoir compter sur sa capacité créatrice illimitée de produire de nouvelles œuvres. Les créateurs doivent pouvoir puiser librement dans les richesses du patrimoine culturel. Notre culture est un réservoir inépuisable d'histoires, d'images, de musiques et de bien d'autres choses encore, pourvu que l'accès à ces biens ne soit pas entravé ou raréfié. La culture dépend de ce que chacun reverse au pot commun et ne cherche pas à se prévaloir de manière inéquitable "pour l'éternité moins un jour" de droits privés sur les biens culturels.
 ##Les licences ouvertes : rappel succinct
 Les licences libres ne sont que des outils construits par l'homme pour organiser un cadre de coopération. De ce fait, elles ont un impact sur nos pratiques autant que nous en avons sur elles et risquent donc d'empêcher - ou de favoriser - l'apparition de nouveaux usages.
+
 Ces licences libres fondent le support juridique d'un mouvement qu'on appelle "le libre".
 Il existe plusieurs types de licences, certaines plus ouvertes que d'autres, certaines plus spécifiques à des types d’œuvres que d'autres...
+
 On en compte près d'une centaine ! Certaines normes se sont néanmoins imposées grâce à des organisations comme la fondation Creative Commons ou l'Open Source Initiative
 ####Deux licences importantes
 **La licence GNU GPL (General Public Licence)**
@@ -94,6 +99,7 @@ Son but est de favoriser :
 * L'utilisation de l'informatique dans l'enseignement des mathématiques ;
 * Le travail coopératif et la co-formation entre enseignants ;
 * Les services d'accompagnement des élèves dans leurs apprentissages.
+
 Inscrite dans une démarche de service public, Sésamath est attachée aux valeurs du logiciel libre. En 2007, Sésamath a reçu le 3e prix UNESCO sur l'usage des TICE parmi 68 projets issus de 51 pays.
 Sésamath diffuse des manuels scolaires et des cahiers d'exercices libres et collaboratifs pour tous les niveaux du collège.
 Sur le site dédié à ces ouvrages, chacun peut les télécharger gratuitement et les adapter s'il le souhaite.
@@ -112,6 +118,7 @@ Dans la vie d'une réseau, on observe l'apparition de plusieurs niveaux de riche
 * Les richesses de niveau 1 : c'est la juxtaposition des richesses individuelles apportées par chacun des membres
 * Les richesses de niveau 2 : Ce sont les productions dérivées et coproduites par le réseau à partir des richesse individuelles de ses membres
 * Les richesses de niveau 3 : Ce sont les productions dérivées et coproduites par le réseau ET les réseaux avec qui ils échangent en mutualisant leurs richesses de niveau 2 respectives. 
+
 A partir du niveau 2, les richesses produites sont en général de qualité suffisante que pour envisager une valorisation financière.
 
 ##Organigramme de vie d'un réseau
@@ -145,8 +152,10 @@ Il semble pourtant que cette clause non commercial soit flou et difficilement in
 Du coup, chaque litige débouche presque sur une solution particulière.
 De plus, la plupart de nos réseaux n'ont pas les moyens de se lancer dans un guerre juridique coûteuse...
 Sans compter la question du sens de son action... Si je ne veux pas que mon travail soit utilisé à des fins  commerciales, peut-être vaut-il mieux choisir clairement de ne pas le placer sous une licence de type Creative Commons...
+
 Enfin, protéger son contenu et l'exploiter commercialement peut s'avérer contre productif.
 En effet, en démontrant au secteur privé que vos productions sont rentables, vous leur faites un appel du pied. Vos productions étant sous licence Creative Commons, ces sociétés peuvent reprendre et modifier vos productions pour les adapter (avec l'aide de gros moyens que vous ne possédez pas... Voire même en investissant à perte pendant quelques années). Une fois modifiée, ces productions peuvent être exploitées par ces sociétés avec l'aide de leurs juristes et commerciaux et absorber tout votre marché (et vous laisser donc sur la paille, ce qui est l'inverse de votre premier objectif à savoir vivre de votre production ;-)
+
 Mieux vaut donc jouer sur le terrain des licences ouvertes, terrain qui met mal à l'aise les sociétés et sur lequel votre association et son agilité (le coup d'avance) est plus efficace.
 Par ailleurs, votre travail, librement accessible et adaptable, s'il est bon, intéressera des gens qui, content d'utiliser votre travail, veilleront sur celui-ci et vous aideront aussi peut-être en cas de besoin par "renvoi d'ascenseur" (en ce y compris des commerciaux qui se servent de vos travaux et qui ne souhaitent pas votre mort)
 Exemple : Outils réseaux
