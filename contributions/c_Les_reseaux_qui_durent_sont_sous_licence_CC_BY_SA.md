@@ -56,15 +56,24 @@ On en compte près d'une centaine ! Certaines normes se sont néanmoins imposée
 C'est la première licence libre. Elle est apparue avec les premiers logiciels libres afin de faciliter l'accès aux codes sources. Historiquement réservée aux logiciels, elle est de mieux en mieux documentée et voit son champ d'action s'élargir !
 
 Cette licence accorde 5 libertés :
+
 1 :  La liberté de recourir au programme pour quelque fin que ce soit. 
+
 2 :  La liberté de rechercher comment fonctionne le programme et de l'adapter à ses propres besoins.
+
 3 :  La liberté de transmettre le programme à d'autres et d'en effectuer des copies pour d'autres.
+
 4 :  La liberté d'améliorer le programme et de rendre ces améliorations accessibles pour le bénéfice de tous. 
+
 Les libertés 2 et 4 impliquent d'avoir accès au code source.
-Ceci revêt une importance capitale pas toujours réellement "d'application" *via* les autres licences (comme les licences Creatives Commons par exemple - voir plus bas  - )
+Ceci revêt une importance capitale pas toujours réellement "d'application" *via* les autres licences (comme les licences Creatives Commons par exemple - voir plus bas -)
+
 *Ainsi, il est obligatoire de fournir le "code source" de l'oeuvre sous un format lisible par tous et ce sans contrainte. Le partage du "code source" sous format PDF ne convient pas ici car il n'est pas lisible et copiable sans la possession d'un programme particulier (lui même non libre)*
+
 Et les libertés 3 et 4 ignorent le droit des auteurs, dans la mesure où le consentement explicite de l'auteur du programme n'a pas été sollicité. Avec cette licence, il n'y avait plus besoin de demander l'autorisation des auteurs : elle est déjà accordée.
+
 Cependant ces quatre libertés ne suffisent pas, dès lors que chaque personne qui modifie un programme ou le développe en devient ipso facto coauteur. De sorte que les utilisateurs devraient solliciter leur accord afin de pouvoir travailler sur la version améliorée et la transmettre à d'autres. Dans le cas où le nouvel auteur refuserait son autorisation, la liberté des utilisateurs se trouverait à nouveau mise à mal.
+
 5 : L'obligation du *copyleft* ou l'obligation de partager son oeuvre sous les 5 libertés ci-dessus évoquées.
 
 Le *copyleft* renverse l'intention d'origine du *copyright* (c'est-à-dire des droits d'auteur). Alors que normalement le droit d'auteur n'implique aucune obligation pour l'auteur et ne permet quasiment rien à l'utilisateur, le *copyleft* procède à l'inverse : il permet beaucoup de choses aux utilisateurs, au sens où il leur garantit les quatre libertés, et oblige les futurs auteurs à accorder aux utilisateurs de leurs propres versions améliorées les mêmes droits que ceux dont ils ont eux-mêmes profité.
@@ -131,6 +140,7 @@ Si ces réseaux proches ont eux fait le choix d'une licence plus fermée (Non co
 
 ##Les questions qui reviennent souvent
 **On va tout me piquer si je ne place la clause Non Commercial (NC)**
+
 Il semble pourtant que cette clause non commercial soit flou et difficilement interprétable.
 Du coup, chaque litige débouche presque sur une solution particulière.
 De plus, la plupart de nos réseaux n'ont pas les moyens de se lancer dans un guerre juridique coûteuse...
@@ -142,6 +152,7 @@ Par ailleurs, votre travail, librement accessible et adaptable, s'il est bon, in
 Exemple : Outils réseaux
 
 **Les licences ouvertes ne conviennent pas pour tout**
+
 Et c'est bien vrai !
 Avant d'envisager telle ou telle licence, réfléchissez clairement à vos objectifs !
 Si celui-ci est de vivre le plus longtemps possible sur une production, les licences ouvertes ne sont pas un bon choix.
@@ -149,6 +160,7 @@ Si votre objectif n'est pas l'ouverture et la diffusion de vos productions, les 
 Si votre objectif est de participer à l'avancée du monde, à la diffusion des idées, de la connaissance, au développement de services autour de connaissances... Alors les licences ouvertes sont à explorer ! (car elles seront un bon outil).
 
 **Pourquoi dès lors rémunérer le savoir faire du plombier ?**
+
 C'est vrai ? Pourquoi payer le savoir-faire du plombier puisqu'il tire celui-ci d'un savoir ancestral ?
 Premièrement, quand on paie le plombier on paie surtout du temps !
 Mais il est vrai qu'on paie aussi de la compétence.
