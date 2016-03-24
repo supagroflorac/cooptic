@@ -7,7 +7,7 @@ L'aventure humaine pourrait se terminer de différentes façons :
 * La guerre économique : nous ne sommes pas dans un système de concurrence (courir ensemble) mais dans une logique guerrière où nous nous retournons contre plus faible que nous et où l'intérêt individuel se retrouve le plus souvent en conflit avec l'intérêt de l'ensemble de la société.
 * Par le dérèglement climatique (terme plus adapté que réchauffement climatique), qui pourrait aboutir à la destruction de la niche écologique de l'homme ("le défi EGOlogique est bien plus dur à traiter que le défi écologique"...). Le dérèglement climatique a été démontré comme une conséquence du premier point.
 * La guerre économique, prévue au départ pour réguler les échanges entre les hommes, représente donc le principal danger pour sa survie. Comment faire pour que l'homme, qu'Edgar Morin qualifie "d'homo sapiens demens" puisse profiter de la face positive de sa double nature pour continuer et transcender sa propre aventure ?
-* 
+
 ##Comment tout a dérivé ?
 Il y a eu une déviation, qui fait qu'aucune autre société n'a accordé une telle importance à l'économie. Habituellement, l'économie est subordonnée à des activités jugées plus fondamentales : la religion, la politique, la culture, la philosophie... Il se crée alors un équilibre entre les différentes formes de régulation : économie, état, solidarité (économie du don)...
 
