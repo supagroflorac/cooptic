@@ -6,7 +6,8 @@ Très souvent on anime un groupe avec notre bon sens, en essayant de faire "au m
 
 ###Pour en savoir plus 
 [![Cornu01](https://framapic.org/QARtgoXcIbVS/RHN9RQiSR1vK)](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
-Jean-Michel Cornu - Introduction sur [Dailymotion]((http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
+
+Jean-Michel Cornu - Introduction sur [Dailymotion](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
 
 La présentation "La coopération en 28 mots-clés" est disponible en ligne : http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
