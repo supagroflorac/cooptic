@@ -18,9 +18,9 @@ Il existe plusieurs stratégies en fonction de l'environnement dans lequel on se
 Souvent nous ne choisissons pas notre stratégie mais utilisons celle que nous maîtrisons, quel que soit le contexte. Il est important de s'adapter à notre environnement pour choisir la meilleure stratégie. Parfois, la situation peut être prévisible pour certaines choses et imprévisible pour d'autres, certaines ressources peuvent être abondante et d'autres rares. Dans ce cas, il faut pouvoir s'adapter et même jongler avec les stratégies. Celle qui concerne **la coopération est assez contre intuitive**, car elles nous oblige à ne pas faire les choix le plus tôt possible alors que nous baignons dans une culture de la prévision, et elles nous poussent à travailler avec l'abondance là où nous nous focalisons en général sur ce qui est rare.
 
 ###Pour en savoir plus
-<iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/k2W4W17elUxvv44lrf2"></iframe><br /><a href="http://www.dailymotion.com/video/x128cko_j-m-cornu-2-un-premier-aspect-contre-intuitif_webcam" target="_blank">JM Cornu - La Coopération en 28 mots-clés - 2. Un premier aspect contre-intuitif</a>
+[![Cornu02](https://framapic.org/V1TIt4hUtojo/kTY0jifV5HpX)](http://www.dailymotion.com/video/x128cko_j-m-cornu-2-un-premier-aspect-contre-intuitif_webcam)
 
-[Le choix a posteriori ](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeChoixaPosteriori)
+À lire sur le site *Faire ensemble !* du collectif Coop-tic : [Le choix a posteriori](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeChoixaPosteriori)
 \#taille28 
 
 ##La taille des groupes et les rôles des membres
