@@ -5,11 +5,9 @@ Très souvent on anime un groupe avec notre bon sens, en essayant de faire "au m
 **Nous vous proposons une carte des différentes facettes qui permettent de comprendre ce qui se passe dans votre groupe et des différentes compétences qui permettent d'agir pour le faire naître et le développer.** Quelques unes de ces facettes sont contre intuitives, nous les présenterons dès le départ. Cette carte n'est pas le fruit d'une seule personne qui par définition, serait elle-même soumise à l'aveuglement paradigmatique. Elle est issue des échanges au départ des 130 membres du groupe Intelligence Collectif de la Fing **[2](#note)** et s'est enrichie progressivement des travaux ultérieurs. Muni de ces 28 mots clés, de ces 28 outils, vous et même les membres de votre groupe, pourrez mieux comprendre ce qui se passe dans votre groupe et l'aider à se développer et à s'adapter aux différentes situations.
 
 ###Pour en savoir plus 
-[![Cornu01](https://framapic.org/QARtgoXcIbVS/RHN9RQiSR1vK)](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
+[![Cornu01](https://framapic.org/s00rsM8drwMf/qY8vGicmrbdl)](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
 
-Jean-Michel Cornu - Introduction sur [Dailymotion](http://www.dailymotion.com/video/x128bsy_j-m-cornu-la-cooperation-1-introduction_webcam)
-
-La présentation "La coopération en 28 mots-clés" est disponible en ligne : http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share
+La présentation "[La coopération en 28 mots-clés](http://prezi.com/x9zpkjggl85j/?utm_campaign=share&utm_medium=copy&rc=ex0share)" est disponible en ligne : 
 
 ##Un premier aspect contre intuitif : le choix *a posteriori*
 Il existe plusieurs stratégies en fonction de l'environnement dans lequel on se situe :
@@ -20,7 +18,7 @@ Il existe plusieurs stratégies en fonction de l'environnement dans lequel on se
 Souvent nous ne choisissons pas notre stratégie mais utilisons celle que nous maîtrisons, quel que soit le contexte. Il est important de s'adapter à notre environnement pour choisir la meilleure stratégie. Parfois, la situation peut être prévisible pour certaines choses et imprévisible pour d'autres, certaines ressources peuvent être abondante et d'autres rares. Dans ce cas, il faut pouvoir s'adapter et même jongler avec les stratégies. Celle qui concerne **la coopération est assez contre intuitive**, car elles nous oblige à ne pas faire les choix le plus tôt possible alors que nous baignons dans une culture de la prévision, et elles nous poussent à travailler avec l'abondance là où nous nous focalisons en général sur ce qui est rare.
 
 ###Pour en savoir plus
-[![Cornu02](https://framapic.org/V1TIt4hUtojo/kTY0jifV5HpX)](http://www.dailymotion.com/video/x128cko_j-m-cornu-2-un-premier-aspect-contre-intuitif_webcam)
+[![Cornu02](https://framapic.org/rTYPjTxQjpvZ/ToukFqzHj06T)](http://www.dailymotion.com/video/x128cko_j-m-cornu-2-un-premier-aspect-contre-intuitif_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : [Le choix a posteriori](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeChoixaPosteriori)
 
@@ -37,7 +35,7 @@ On peut en déduire **différents types de groupes distingués par le nombre de 
 * **Les très grands groupes** au-delà de quelques dizaines de milliers où les proactifs sont suffisamment nombreux pour rendre l'animation moins contrainte ;
 
 ###Pour en savoir plus
-[![Cornu03](https://framapic.org/mcytZOIFf3hI/vGrz25h0YMiF)](http://www.dailymotion.com/video/x128f9f_j-m-cornu-3-la-taille-des-groupes-et-les-roles-des-membres_webcam)
+[![Cornu03](https://framapic.org/MfHFeZh5fC5g/1E5pmjP2GL1W)](http://www.dailymotion.com/video/x128f9f_j-m-cornu-3-la-taille-des-groupes-et-les-roles-des-membres_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : [La taille des groupes et le rôle des membres](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTailleDesGroupesEtLesRolesDesMembres)
 
@@ -50,7 +48,7 @@ Mais **trop de convergence** peut transformer le groupe en un troupeau de mouton
 S'il n'y a que de la convergence et de l'opposition, un conflit apparaît. Une crise est un moment difficile du groupe mais très utile : plusieurs approches obligent à une remise en question. Mais **un conflit contrairement à une crise ne va que dans deux directions :** pour ou contre, chacun restant sur ses positions. Pour gérer un conflit, il faut donc le **retransformer en crise** en suscitant une troisième position voire plus. **Cartographier les différentes idées **des membres en les poussant à y ajouter de nouvelles est une méthode particulièrement utile dans ce cas.
 
 ###Pour en savoir plus
-[![Cornu04](https://framapic.org/QvJRAQzjulGZ/61tD1D9Xua2r)](http://www.dailymotion.com/video/x128kjj_j-m-cornu-4-convergence-et-conflit_webcam)
+[![Cornu04](https://framapic.org/WHDIu8AtaCdW/slj2MOEV00oz)](http://www.dailymotion.com/video/x128kjj_j-m-cornu-4-convergence-et-conflit_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [La convergence](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaConvergence)
@@ -69,7 +67,7 @@ Les trois premier aspects présentés auparavant illustrent bien **trois grandes
 **Les facettes suivantes sont rassemblées suivant ces trois grandes dimensions**. Celles qui décrivent l'influence des personnes sont accompagnées d'un aspect plus difficile à traiter, même s'il n'est pas toujours négatif (comme le conflit, associé à la convergence, qui permet une remise en question). La facette suivante l'implication, avec son pendant la désimplication, est le quatrième aspect contre intuitif. Les suivants feront bien souvent appel à notre simple bon sens.
 
 ###Pour en savoir plus
-[![Cornu05](https://framapic.org/HhjfgqJqVHuI/83RRsiJQAV5O)](http://www.dailymotion.com/video/x12ebnw_j-m-cornu-5-les-trois-types-d-influence-dans-un-groupe_webcam)
+[![Cornu05](https://framapic.org/lAcmXbPlCNDW/a65qnm2nQo2o)](http://www.dailymotion.com/video/x12ebnw_j-m-cornu-5-les-trois-types-d-influence-dans-un-groupe_webcam)
 
 ##Implication et désimplication
 **On confond souvent la mobilisation et l'implication.** Mais si on mobilise des personnes - souvent en les payant - pour qu'elle fassent ce que l'on veut, il faut qu'elle s'impliquent elles-mêmes pour prendre le risque de faire ce qu'elles estiment bonne. En effet, le coordinateur n'est pas toujours sur tous les terrains. Les personnes qui s'impliquent peuvent prendre des initiatives en fonction des informations qu'elles ont et que n'a pas toujours le coordinateur. L'implication est absolument nécessaire dans un environnement imprévisible qui change en permanence, par exemple dans le domaine de l'innovation ou encore lorsque l'on travaille avec des personnes plutôt que des machines ou des objets.
@@ -84,7 +82,7 @@ Les trois premier aspects présentés auparavant illustrent bien **trois grandes
 * "C'est pas mon problème !" (on reste mobilisé mais on ne s'implique plus...)
 
 ###Pour en savoir plus
-[![Cornu06](https://framapic.org/OUrB3wevHnJK/nLRsaOetMaZg)](http://www.dailymotion.com/video/x12efop_j-m-cornu-6-implication-et-desimplication_webcam)
+[![Cornu06](https://framapic.org/8S0IQZlMJswx/W6bB8MZTOxmf)](http://www.dailymotion.com/video/x12efop_j-m-cornu-6-implication-et-desimplication_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [L'implication](http://ebook.coop-tic.eu/francais/wakka.php?wiki=L039implicatioN)
@@ -102,9 +100,9 @@ Nous avons vu la convergence des idées et des intérêts (et le conflit lorsqu'
 Très souvent, on cherche à **piloter le groupe avec une intention précise.** Si cela peut être pertinent pour les aspects spécifiques au groupe lui-même (taille, vocation...), cela ne l'est plus lorsque l'on souhaite que les membres s'impliquent et prennent des initiatives. Cela n'est pas judicieux non plus très souvent pour gérer l'impact qu'à l'environnement sur le groupe car nous n'avons pas toujours de grandes possibilités d'actions. **Dans ces cas il faut piloter le groupe non plus en intention mais en attention**. Cela veut dire que nous devons rester vigilant à ce qui se passe et savoir nous adapter en saisissant les opportunités. Il faut même **accepter une petite dose d'incohérence** pour permettre au groupe de résoudre des problèmes autrement insolubles...
 
 ###Pour en savoir plus###
-[![Cornu07](https://framapic.org/19r36h0msWAF/iYsmlNy0sqzt)](http://www.dailymotion.com/video/x12ehhw_j-m-cornu-7-niveau-de-conscience-et-agression_webcam)
+[![Cornu07](https://framapic.org/DKYVfWmtE8yv/iAdM2IRACzBm)](http://www.dailymotion.com/video/x12ehhw_j-m-cornu-7-niveau-de-conscience-et-agression_webcam)
 
-[![Cornu08](https://framapic.org/04DJQEPofC9A/5Q97uC33Ye2A)](http://www.dailymotion.com/video/x12eizo_j-m-cornu-8-taches-de-coordination-et-incoherence_webcam)
+[![Cornu08](https://framapic.org/rCNpYSCx2fGh/oyFnPgQkffvg)](http://www.dailymotion.com/video/x12eizo_j-m-cornu-8-taches-de-coordination-et-incoherence_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [La stigmergie](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaStigmergie)
@@ -122,7 +120,7 @@ Un groupe progresse suivant différents **niveau de maturité. Lorsque le groupe
 **Qu'est-ce que partage un groupe ?** Il dispose tout d'abord d'**une culture commune** (une histoire, du vécut commun, parfois du vocabulaire qui lui est propre...). Mais cette culture est-elle accessible à tous y compris aux nouveaux ? Le groupe a-t-il trouvé un bon équilibre entre son identité collective et l'identité personnelle de ses membres ? Un deuxième aspect à partager est absolument fondamental. Il s'agit **des communs** (les informations définissant le groupe, son fonctionnement, ses règles et ses productions, les outils et méthodes utilisés par le groupe...). Sont-ils accessibles à tous facilement, y compris aux personnes à l'extérieur du groupe ? Outre la mise à disposition dans un endroit accessible (*Web*...), il est important que ces communs respectent quelques règles de partage : des licences *Creatives Commons* pour les documents (en particulier cc -by -sa qui permet un véritable partage et une amélioration constante **[6](#note)** ) et des logiciels libres pour les applications (en particulier la licence Gnu **[7](#note)** ). Les outils et méthodes utilisées dans le groupe doivent permettre à chacun de développer son autonomie personnelle et son rayon d'action sans susciter des maîtres et des esclaves (voir en particulier les règles de Ivan Illich **[8](#note)** ). 
 
 ###Pour en savoir plus
-[![Cornu09](https://framapic.org/diXggTqJnQXk/3Ay7f0ycJRHY)](http://www.dailymotion.com/video/x12ekfu_j-m-cornu-9-influence-de-la-structure-du-groupe_webcam)
+[![Cornu09](https://framapic.org/T1F7iuX8R0e/6yVaqLx1rzOQ)](http://www.dailymotion.com/video/x12ekfu_j-m-cornu-9-influence-de-la-structure-du-groupe_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic :
 * [Introduction aux biens communs](http://ebook.coop-tic.eu/francais/wakka.php?wiki=IntroductionAuxBiensCommuns)
@@ -142,7 +140,7 @@ L'environnement peut apporter des **contraintes externes** : les attentes sur ce
 L'équilibre du groupe tient beaucoup à ses **échanges avec l'extérieur**. Un groupe échange des idées, des informations mais aussi des personnes (qui entrent mais aussi qui sortent du groupe, certaines pouvant également participer simultanément à plusieurs groupes). Pour que le groupe adopte un "régime équilibré", il faut se poser la question de la **régularité de ces échanges** (le groupe est-il resté longtemps sans intégrer de nouveaux membres ?), mais aussi de **leur quantité, de leur qualité et de leur diversité**, afin de trouver une harmonie entre l'identité propre au groupe et son renouvellement.
 
 ###Pour en savoir plus
-[![Cornu10](https://framapic.org/rPMhb1I9eoDn/pOz5Kkt3dnda)](http://www.dailymotion.com/video/x12voa4_j-m-cornu-10-influence-de-l-environnement_webcam)
+[![Cornu10](https://framapic.org/6OufDV9dKwid/Ae3P4CxkqBfn)](http://www.dailymotion.com/video/x12voa4_j-m-cornu-10-influence-de-l-environnement_webcam)
 
 \#contraintes28 \#legitimite28 \#echanges28
 
@@ -158,7 +156,7 @@ Après avoir vu les 16 facettes qui permettent de comprendre ce qui se passe dan
 **Pour chacune de ces compétences, il existe plusieurs niveaux** que l'on peut parcourir progressivement. Cela peut être facilement illustré avec la capacité à organiser un événement. Au début on peut y **être exposé** en assistant à un événement, puis on peut **avoir participé** à l'organisation. L'étape d'après consiste à **comprendre et savoir expliquer** l'organisation d'un événement. On peut ensuite développer une **habilité à faire** et même au stade utile être en capacité d'**innover **dans ce domaine.
 
 ###Pour en savoir plus
-[![Cornu11](https://framapic.org/61DWSQ2HAWdE/htISMQALQKKo)](http://www.dailymotion.com/video/x12vrl3_j-m-cornu-11-les-competences-de-la-cooperation_webcam)
+[![Cornu11](https://framapic.org/BhRM4kcsMLGo/Fx5ifb6xIpvH)](http://www.dailymotion.com/video/x12vrl3_j-m-cornu-11-les-competences-de-la-cooperation_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [Cartographier pour donner une vision d'ensemble](http://ebook.coop-tic.eu/francais/wakka.php?wiki=CartographierPourDonnerUneVisionD039ens)
@@ -179,7 +177,7 @@ S'il est utile de disposer d'outils pour retrouver les 28 aspects qui permettent
 Ces trois conditions doivent être **mises en place de façon efficace mais également diversifiée** (Robert Ulanowicz a montré que la durabilité maximale d'un système dépendait de l'équilibre entre deux aspects antagonistes : 1/3 d'efficacité et 2/3 de résilience par la diversification) **[15](#note)** .
 
 ###Pour en savoir plus 
-[![Cornu12](https://framapic.org/ZdIyTPER4gLi/g6MG3mLuUOC3)](http://www.dailymotion.com/video/x12vtuo_j-m-cornu-12-conclusion_webcam)
+[![Cornu12](https://framapic.org/ZmmR6fzJPVqA/LmJBeRQcK05M)](http://www.dailymotion.com/video/x12vtuo_j-m-cornu-12-conclusion_webcam)
 
 À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [Comprendre par vous-même ce qui se passe dans votre groupe](http://ebook.coop-tic.eu/francais/wakka.php?wiki=ComprendreParVousmemeCeQuiSePasseDansV)
