@@ -31,6 +31,7 @@ Pour améliorer **l'accessibilité du contenu**, il est conseillé de :
 - Préférer plusieurs articles relativement courts à un article trop long et trop riche en informations ou proposer un format imprimable (PDF par exemple) pour les textes longs.
 - Illustrer son article car une image accolée à un texte a le pouvoir d'améliorer sensiblement la mémorisation de l'information. Elle stimule l'apprentissage des données.
 - Varier les constructions de phrase pour mettre en valeur les mots porteurs de sens.
+
 ##Pour aller plus loin
 
 [![Ergonomie01](https://framapic.org/kvTITjCEjKgq/f978CAwDMsF4)](http://www.pearltrees.com/numerique/ergonomie-editoriale/id5177273)
