@@ -21,20 +21,21 @@
 |Outils conviviaux|Concept|oui|oui|c Outils conviviaux|oui|
 |Pourquoi ça ne va pas plus mal ?|Concept|oui|oui|c Pourquoi ca ne va pas plus mal|oui|
 |Théorie du chaos et réseaux|Concept|oui|oui|c Theorie du chaos et reseaux|oui|
-|Animation des dispositifs coopératifs : freins et facilitateurs|Méthode| | | | |
+|Animation des dispositifs coopératifs : freins et facilitateurs|Méthode|oui|oui|m Animation des dispositifs cooperatifs freins et facilitateurs|oui|
 |Cartographier pour donner une vision d'ensemble|Méthode| | | | |
 |Comment produire un document à plusieurs centaines de personnes ? (1ère partie)|Méthode| | | | |
 |Comment produire un document à plusieurs centaines de personnes ? (2ème partie)|Méthode| | | | |
-|Comprendre par vous-même ce qui se passe dans votre groupe|Méthode| | | | |
+|Comprendre par vous-même ce qui se passe dans votre groupe|Méthode|oui|oui|m Comprendre par vous-meme ce qui se passe dans votre groupe|oui|
 |Concevoir une formation|Méthode| | | | |
-|Coopération ou collaboration : quelles différences ?|Méthode| | | | |
+|Coopération ou collaboration : quelles différences ?|Méthode|oui|oui|m Cooperation ou collaboration quelles differences
+|oui|
 |Formateur 2.0 : une nouvelle manière de faire de la formation|Méthode| | | | |
-|L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information|Méthode| | | | |
+|L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information|Méthode|oui|oui|m L ergonomie editoriale ou l art de batir une architecture de l information|oui|
 |L'écriture collaborative|Méthode| | | | |
 |La méthode GTD|Méthode| | | | |
 |La veille partagée et collaborative sur Internet|Méthode| | | | |
 |Les accélérateurs de projet|Méthode| | | | |
-|Les flux RSS et la syndication|Méthode| | | | |
+|Les flux RSS et la syndication|Méthode|oui|oui|m_Les flux RSS et la syndication|oui|
 |Les TIC au service de projets territoriaux|Méthode| | | | |
 |Organiser un événement participatif|Méthode| | | | |
 |Quels outils pour quoi faire ? (selon l'évolution du réseau)|Méthode| | | | |
