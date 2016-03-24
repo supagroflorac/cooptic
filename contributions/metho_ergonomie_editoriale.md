@@ -3,7 +3,7 @@ Nombreuses sont encore les personnes qui négligent l'ergonomie éditoriale et c
 ##Les enjeux de l'ergonomie éditoriale
 Eve Demange, auteur du *blog* [Plume interactive](http://plumeinteractive.canalblog.com/) et spécialiste de ce domaine en France, explique quelles sont les spécificités et les enjeux de l'ergonomie éditoriale :* "L'ergonomie améliore l'utilisation des sites Internet en repensant un certain nombre d'éléments comme la structure de l'information, l'enchaînement des pages, le *design*. L'ergonomie éditoriale s'assure que les termes utilisés pour guider la navigation sont suffisamment clairs, suffisamment courts, qu'ils permettent aux visiteurs de trouver leur chemin facilement. Il ne s'agit pas de rédiger ou réécrire un texte en l'adaptant à la lecture *web* (même si cela améliore aussi l'ergonomie éditoriale), il s'agit de peser les mots. C'est un travail différent, spécifique au média *web*. Un bon rédacteur *web* peut faire ce travail, mais également un *designer*d'expérience ou un ergonome sensible à l'éditorial."*
 ##Les spécificités de la lecture à l'écran
-![eyetracking](https://framapic.org/5RaKYLaBNh8K/XI9KCeGe) *Source illustration : [site du zéro](http://www.siteduzero.com/informatique/tutoriels/ameliorez-la-visibilite-de-votre-site-sur-google/une-question-d-ergonomie)*
+![HeatMap City University Interaction Lab CC-By on Flick](https://framapic.org/hJ6scGA6YRaq/IAWheIxm8Bbt)
 
 
 Cette discipline repose sur le constat que les internautes lisent et appréhendent l'information différemment en ligne. Eyetracking a mené une [étude](http://www.useit.com/eyetracking), sous la direction de [Jakob Nielsen](http://fr.wikipedia.org/wiki/Jakob_Nielsen), afin de capturer les mouvements de l'oeil de l'internaute sur l'écran et d'analyser ce qu'il regarde vraiment lorsqu'il est en train de lire une page *web*. Ces mouvements sont représentés graphiquement ci-contre par des zones colorées. Ainsi, les zones rouges sont celles qui ont été les plus regardées par l'internaute, les zones jaunes ont fait l'objet de moins d'attention, les zones bleus encore moins. Quant aux zones grises, elles n'ont tout simplement pas été vues. Si l'on en croit cette étude, les internautes auraient dont tendance à scanner la page, a effectuer une "lecture en diagonale"en s'arrêtant sur le haut de la page, le premier paragraphe et le début des paragraphes suivants.
@@ -35,6 +35,7 @@ Pour améliorer **l'accessibilité du contenu**, il est conseillé de :
 
 [![Ergonomie01](https://framapic.org/kvTITjCEjKgq/f978CAwDMsF4)](http://www.pearltrees.com/numerique/ergonomie-editoriale/id5177273)
 
+*Photo : City University Interaction Lab - CC-By on Flickr*
 ##Auteurs :
 Outils-réseaux
 ##Licence :
