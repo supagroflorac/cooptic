@@ -5,6 +5,7 @@ Un peu de fiction pour débuter...
 * Nous sommes il y a quelques millénaires, pour utiliser un "e" il faudra me verser des royalties... Et si vous tentiez votre premier discours ? (préparez votre portefeuille !! Il y a des milliers d'années, l'humain passe un cap majeur : c'est l'invention de l'écriture et des alphabets. Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger la lettre "e" par une licence restrictive. Dorénavant, à chaque fois que vous désirez utiliser cette lettre, payez ou réduisez vos ambitions ;-)
 * Nous sommes dans un atelier en Mésopotamie, 3500 ans avant Jésus Christ. Par un coup de génie (surtout inspiré de la nature mais chuuut) je viens d'inventer la roue ! Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger cette invention par une licence restrictive. Dorénavant, à chaque fois que vous désirez utiliser une roue il faudra me verser des royalties... Imaginez votre vie actuelle !
 * Il y a 350000 ans, en bordure d'une grotte, voilà des jours et des jours que je tente de reproduire ce feu que nous chérissons et entretenons lorsqu'il tombe du ciel. Et voilà que je tombe enfin sur la "méthode reproductible" à souhait pour faire du feu. Un peu en avance sur mon temps, j'entrevois rapidement l'intérêt de protéger cette invention par une licence restrictive. Dorénavant, à chaque fois que vous désirez faire du feu il faudra me verser des royalties... Imaginez votre vie actuelle !
+
 **Maintenant passons dans la réalité**
 * Une société australienne est parvenue à placer une licence sur un gène humain lié à un type précis de cancer.  Résultat : Pour pouvoir étudier ce gène afin de trouver un médicament, il faut payer... 
 * "A" est une société polonaise qui vend des livres *online*. Apple a attaqué cette société en justice pour utilisation abusive de sa "marque"... et oui, le site internet de "A" était a.pl.
@@ -37,7 +38,7 @@ La réaction s'organise, mais elle doit être soutenue car les opposants sont f�
 Wikipédia : Revendication de *copyright* frauduleuse, comme par exemple prétendre avoir des droits sur des œuvres du domaine public.
 On assiste de plus en plus à la pose de droit d'auteur sur des œuvres ou objets qui ne devraient pas en faire l'objet (par exemple la peinture de la Joconde non photographiable dans le musée). Ces droits sont illégaux mais non contestés car actuellement personne ne défend le domaine public (peu explicité dans le droit).
 ##Et pourtant 
-!["mickey mic1.png"](http://ebook.coop-tic.eu/francais/files/mic1.png)**Un cas concret : Protégeons Mickey**
+!["mickey mic1.png"](http://ebook.coop-tic.eu/francais/files/LesReseauxQuiDurentSontSousLicenceCcBy_mic1_20140117143713_20140117134051.png)**Un cas concret : Protégeons Mickey**
 
 Le succès de Walt Disney ne repose-t-il pas dans une large mesure sur le fait d'avoir puisé librement dans le patrimoine des contes et des légendes, devenus entre temps des modèles littéraires du domaine public ? Disney a, parmi d'autres, redonné vie à des personnages emblématiques comme Blanche Neige, la petite Sirène ou la Belle et la bête. Il les a modifiés, "remixés", réincarnés. Le résultat lui a fait gagner de l'argent. Ce succès commercial repose donc lui aussi sur le recours à un héritage culturel commun.
 Il en résulte un "devoir de restitution" envers la collectivité.
@@ -105,7 +106,7 @@ A partir du niveau 2, les richesses produites sont en général de qualité suff
 **Richesse de niveau 1** : Le réseau s'organise et compile les apports individuels de ses membres
 
 Situation 1 | Situation 2 | Situation 3
------|----|----
+:-----:|:----:|:----:
 SOIT les membres discutent du statut des apports de chacun et choisissent consciemment de placer leurs apports sous licence ouverte (vraiment ouverte donc sans restriction d'utilisation commercial - le NC des licences Creatives Commons - ). Ce qui sous-entend que celui qui n'est pas d'accord retire ses apports.|SOIT ce point n'est pas discuté clairement et les apports individuels sont placés sous licence ouverte mais sans que les membres-auteurs n'en soient pleinement conscients|SOIT les membres préfèrent protéger leurs apports par un licence moins ouverte (genre licence Creative Commons BY SA NC) donc pas d'usage commercial possible sans l'accord de l'auteur.
 
 
