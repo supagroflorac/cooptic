@@ -13,9 +13,9 @@
 |La stigmergie|Concept|oui|oui|c La stigmergie|oui |
 |La taille des groupes et les rôles des membres|Concept|oui|oui|c La taile des groupes et les roles des membres|oui|
 |La tragédie des 3 C|Concept|oui|oui|c La tragedie des 3C|oui|
-|Le choix a posteriori|Concept|oui|oui| | |
+|Le choix a posteriori|Concept|oui|oui|c Le choix a posteriori|oui|
 |Le Flow : quand la coopération rend heureux|Concept|oui|oui|c Le Flow quand la cooperation rend heureux|oui|
-|Les oeuvres libres|Concept|oui|oui| | |
+|Les oeuvres libres|Concept|oui|oui|c Les oeuvres libres|oui|
 |Les réseaux qui durent sont sous licence CC BY SA|Concept|oui|oui|c Les reseaux qui durent sont sous licence CC BY SA|oui|
 |Le web 2|Concept|oui|oui| | |
 |Outils conviviaux|Concept|oui|oui| | |
