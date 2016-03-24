@@ -4,14 +4,14 @@
 |Et si nous n'étions pas si individualistes ?|Concept|oui|oui|C Et si nous n etions pas si individualistes|oui|
 |Grossir ou s'archipéliser ?|Concept|oui|oui|C Grossir ou s archipeliser|oui |
 |Historique de l'approche francophone de la coopération|Concept|oui|oui|C Historique de l approche francophone de la cooperation|oui|
-|Introduction aux biens communs|Concept|oui|oui|C Introduction aux biens communs|oui|
-|L'implication|Concept|oui|oui|C L implication|oui|
-|La convergence|Concept|oui|oui|C La convergence|oui|
+|Introduction aux biens communs|Concept|oui|oui|c Introduction aux biens communs|oui|
+|L'implication|Concept|oui|oui|c L implication|oui|
+|La convergence|Concept|oui|oui|c La convergence|oui|
 |La coopération en 28 mots-clés|Concept|oui|oui| | |
-|La coopération expliquée à mon beauf'|Concept|oui|oui|C La cooperation expliquee a mon beauf|oui|
-|La propriété intellectuelle|Concept|oui|oui|C La propriete intellectuelle|oui|
+|La coopération expliquée à mon beauf'|Concept|oui|oui|c La cooperation expliquee a mon beauf|oui|
+|La propriété intellectuelle|Concept|oui|oui|c La propriete intellectuelle|oui|
 |La stigmergie|Concept|oui|oui|c La stigmergie|oui |
-|La taille des groupes et les rôles des membres|Concept|oui|oui|c La taile des groupes et les roles des membres|oui|
+|La taille des groupes et les rôles des membres|Concept|oui|oui|c La taille des groupes et les roles des membres|oui|
 |La tragédie des 3 C|Concept|oui|oui|c La tragedie des 3C|oui|
 |Le choix a posteriori|Concept|oui|oui|c Le choix a posteriori|oui|
 |Le Flow : quand la coopération rend heureux|Concept|oui|oui|c Le Flow quand la cooperation rend heureux|oui|
