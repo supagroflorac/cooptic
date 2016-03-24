@@ -22,8 +22,6 @@ Ce constat doit nous amener à considérer nos réseaux comme des entités chaot
 * **(1)** « Théorie du chaos » [en ligne], Wikipédia, disponible sur <http://fr.wikipedia.org/wiki/Th%C3%A9orie_du_chaos>, (consulté le 3 février 2014).
 * **(2)** « Monde fractal: opportunité de changement » [en ligne], plusconscient.net, disponible sur <http://plusconscient.net/index.php/systemique-et-theorie-integrale/108-francais/438-monde-fractal-opportunite-de-changement>, (consulté le 3 février 2014).
 
-*Crédits photo : Zimmerman CC BY-SA*
-
 ### Auteurs :
 Gatien Bataille
 ### Licence : 
