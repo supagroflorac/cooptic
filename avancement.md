@@ -1,9 +1,9 @@
 |Titre|Type|Convertie|Finition|Nom sur MBaO|Complétée|
 |-----|----|---------|--------|------------|---------------|
 |Coopérer, entre efficience et résilience|Concept|oui|oui|c Cooperer entre efficience et resilience|oui|
-|Et si nous n'étions pas si individualistes ?|Concept|oui|oui|C Et si nous n etions pas si individualistes|oui|
-|Grossir ou s'archipéliser ?|Concept|oui|oui|C Grossir ou s archipeliser|oui |
-|Historique de l'approche francophone de la coopération|Concept|oui|oui|C Historique de l approche francophone de la cooperation|oui|
+|Et si nous n'étions pas si individualistes ?|Concept|oui|oui|c Et si nous n etions pas si individualistes|oui|
+|Grossir ou s'archipéliser ?|Concept|oui|oui|c Grossir ou s archipeliser|oui |
+|Historique de l'approche francophone de la coopération|Concept|oui|oui|c Historique de l approche francophone de la cooperation|oui|
 |Introduction aux biens communs|Concept|oui|oui|c Introduction aux biens communs|oui|
 |L'implication|Concept|oui|oui|c L implication|oui|
 |La convergence|Concept|oui|oui|c La convergence|oui|
@@ -17,10 +17,10 @@
 |Le Flow : quand la coopération rend heureux|Concept|oui|oui|c Le Flow quand la cooperation rend heureux|oui|
 |Les oeuvres libres|Concept|oui|oui|c Les oeuvres libres|oui|
 |Les réseaux qui durent sont sous licence CC BY SA|Concept|oui|oui|c Les reseaux qui durent sont sous licence CC BY SA|oui|
-|Le web 2|Concept|oui|oui| | |
-|Outils conviviaux|Concept|oui|oui| | |
-|Pourquoi ça ne va pas plus mal ?|Concept|oui|oui| | |
-|Théorie du chaos et réseaux|Concept|oui|oui| | |
+|Le web 2|Concept|oui|oui|c le web 2|oui|
+|Outils conviviaux|Concept|oui|oui|c Outils conviviaux|oui|
+|Pourquoi ça ne va pas plus mal ?|Concept|oui|oui|c Pourquoi ca ne va pas plus mal|oui|
+|Théorie du chaos et réseaux|Concept|oui|oui|c Theorie du chaos et reseaux|oui|
 |Animation des dispositifs coopératifs : freins et facilitateurs|Méthode| | | | |
 |Cartographier pour donner une vision d'ensemble|Méthode| | | | |
 |Comment produire un document à plusieurs centaines de personnes ? (1ère partie)|Méthode| | | | |
