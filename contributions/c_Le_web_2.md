@@ -46,7 +46,6 @@ Les sites et services se réclamant du web 2.0 ne cessent d'augmenter. Les servi
 ##Pour aller plus loin
 <object width="560" height="420" id="pt-embed-4198969-442-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp"><param name="flashvars" value="lang=fr_FR&embedId=pt-embed-4198969-442&treeId=4198969&pearlId=33675558&treeTitle=Web%202.0&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/t/outils-reseaux-org/web-2-0/id4198969" alt="Web 2.0" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">Web 2.0</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans Ressources TIC / Laurent Marseault (furax37)</span></a></object>
 
-*Crédit photo : Photo : Markus Angermeier - Wikipedia - CC-BY-SA*
 
 ### Auteurs :
 Outils-réseaux
