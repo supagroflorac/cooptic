@@ -33,9 +33,7 @@ Pour améliorer **l'accessibilité du contenu**, il est conseillé de :
 - Varier les constructions de phrase pour mettre en valeur les mots porteurs de sens.
 ##Pour aller plus loin
 
-<object width="560" height="420" id="pt-embed-5177273-11-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp">
-<param name="flashvars" value="lang=fr_FR&embedId=pt-embed-5177273-11&treeId=5177273&pearlId=45045608&treeTitle=Ergonomie%20%C3%A9ditoriale&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/emilielf/ergonomie-editoriale/id5177273" alt="Ergonomie éditoriale" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">Ergonomie éditoriale</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans Rédaction web / (emilielf)</span></a>
-</object>
+[![Ergonomie01](https://framapic.org/kvTITjCEjKgq/f978CAwDMsF4)](http://www.pearltrees.com/numerique/ergonomie-editoriale/id5177273)
 
 ##Auteurs :
 Outils-réseaux
