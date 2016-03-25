@@ -24,15 +24,17 @@ Tout doit arriver dans la boite d'entrée. Pour ma part j'en ai deux : une pour 
 Dans la boite d'entrée, on entasse au fur et à mesure tout ce qui arrive : l'idée géniale qu'on a eu sous la douche, le compte-rendu de la dernière AG, le ticket de restaurant qu'il faudra se faire rembourser, les factures et même les piles qu'il faut recharger.
 
 Quand on la traite, on en prend chaque élément un par un en lui faisant passer des filtres successifs :
+
 **Est-ce que l'élément entraîne une action opérationnelle ?**
+
 ####Oui : action opérationnelle
 1. Est-ce que je peux traiter l'action en moins de deux minutes ? 
-   * Si **oui** : on le fait *(et hop, les piles sont dans le chargeur*. 
+   * Si **oui** : on le fait *(et hop, les piles sont dans le chargeur)*. 
    * Si **non** : 
 2. Est-ce à moi de le faire ?
    * Si **oui** : quelle première action opérationnelle dois-je faire pour traiter l'action ?
-    * priorité).
-    * loin).
+     * Je l'ajoute à ma liste de tâche (en la contextualisant : contexte, durée, énergie, priorité).
+     * Si c'est une tâche qui implique un jour et une heure précise, je l'ajoute dans mon agenda (pour l'utilisation de l'agenda, voir plus loin).
    * si **non** :  je délègue.
 
 ####Non : pas d'action opérationnelle
