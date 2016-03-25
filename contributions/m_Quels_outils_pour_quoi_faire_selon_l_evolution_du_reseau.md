@@ -30,8 +30,10 @@ Description : des outils pour réaliser des questionnaires en ligne. Certains tr
 
 ##Information du réseau 
 Il ne suffit pas de dire "j'appartiens au réseau" pour en être partie prenante, il faut aussi dire ce qui nous passionne, ce que l'on veut y faire, avec qui on veut le faire ; Pour cela, il faut que les membres du réseau puissent échanger efficacement des informations, discuter entre eux, se regrouper par affinité et rendre visible les thèmes de discussion qui pourront être à l'origine des futurs projets.
-* [Liste de discussion, de diffusion, *forum*](http://outils-reseaux.org/FicheFamilleOutilsListes)
-Réseaux sociaux :
+
+* [Liste de discussion, de diffusion, forum](http://outils-reseaux.org/FicheFamilleOutilsListes)
+
+**Réseaux sociaux :**
 * [Twitter](http://ebook.coop-tic.eu/francais/wakka.php?wiki=TwitteR)
 * [Ning](http://outils-reseaux.org/FicheOutilNoing)
 
@@ -91,6 +93,8 @@ Mais certains outils techniques aident à visualiser plus facilement l'activité
 **Nuage de tags :**
 * [Tagcrowd](http://outils-reseaux.org/FicheOutilTagcrowd)
 * [Wordle](http://outils-reseaux.org/FicheOutilWordle)
+
+
 
 
 *Crédits illustrations sous licence Creative Commons : by Outils-Réseaux*
