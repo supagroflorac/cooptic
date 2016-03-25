@@ -107,12 +107,12 @@ L'encadrement de cheminements interactifs comme ceux que permet le Web 2.0 deman
 
 ##Les outils##
 
-[![Formateur20_01](https://framapic.org/6yCwpjzvRBbd/xXTN8k43dRO6)](http://www.pearltrees.com/t/pedagogie-formation/outils-de-formateur/id4453255)
+[![Formateur20_01](https://framapic.org/aq3elPSWrV4x/E4fcmOlE6Jpj)](http://www.pearltrees.com/t/pedagogie-formation/outils-de-formateur/id4453255)
 
 ##Pour aller plus loin : veille partagée
 ###Quelques sites sur la pédagogie et formation mise à jours par l'équipe d'Outils-Réseaux 
 
-[![Formateur20_01](https://framapic.org/AbCgnaxzPPwY/64JKaEih9NSj)](http://www.pearltrees.com/t/pedagogie-formation/id3145008)
+[![Formateur20_02](https://framapic.org/WBVODo8mcVNP/LCJ6OtnoWR3i)](http://www.pearltrees.com/t/pedagogie-formation/id3145008)
 
 Ressource complémentaire : 
 * [Construire un module de formation en ligne](http://www.mindmeister.com/fr/86572579/sc-nariser-et-produire-un-module-de-formation-en-ligne)
