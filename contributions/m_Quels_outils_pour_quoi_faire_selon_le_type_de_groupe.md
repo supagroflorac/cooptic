@@ -18,18 +18,17 @@ Cette famille d'outils regroupe tous ceux qui permettent de dialoguer en direct 
 * Les outils de visio-conférence : on peut dialoguer par oral et se voir (transmission du son et de l'image).
 ###GROUPE MOYEN : faciliter les échanges
 
-* Liste de discussion, de diffusion, forum
+**Liste de discussion, de diffusion, forum**
 Description : Une liste de discussion ou liste de diffusion est une utilisation spécifique du courrier électronique qui permet le publipostage d'informations aux utilisateurs qui y sont inscrits.
  * Liste de discussion : liste d'échange, par courrier électronique, sur un sujet ou pour un groupe. Tout le monde peut écrire à la liste, tout le monde reçoit ce qui écrit à la liste (n vers n).
  * Liste de diffusion : liste en lecture seule, par courrier électronique, pour diffuser par exemple une lettre information ou "newsletter". La lettre est diffusée à tout le monde mais aucun des destinataires ne peut intervenir dessus ou communiquer vers les autres inscrits à la liste de diffusion (1 vers n).
 * Forum Web : liste de discussion "en ligne" : on consulte, on crée un message et on répond via son navigateur Web. Les messages sont classés par fils de discussion.
+
 ###GRAND GROUPE : Gérer la quantité d'échanges
 
 * Nuage de mots clés
 Le nuage de mots-clefs (*tag cloud* en anglais) est une représentation visuelle des mots-clefs (*tags*) les plus utilisés sur un site web. Généralement, les mots s'affichent dans des polices de caractères d'autant plus grandes qu'ils sont utilisés ou populaires.
-
 Voir la définition de [Wikipedia](http://fr.wikipedia.org/wiki/Nuage_de_mots_clefs)
-
 Synthèses : voir l'exemple de [l'utilisation des listes à Tela Botanica](http://ebook.coop-tic.eu/francais/wakka.php?wiki=UtilisationDesListesATelaBotanica) 
 
 ###GROUPE LOCAL : Se synchroniser
