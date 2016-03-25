@@ -6,9 +6,13 @@ L'objectif de cette méthode d'organisation est de mettre en place un système a
 Quand on met en place la méthode GTD la première chose est de faire une liste exhaustive de tous ses projets, des plus triviaux (prendre rendez-vous chez le dentiste) aux plus importants (mettre en place un colloque participatif mondial) et de faire un premier tri entre ceux que l'on va réaliser ou qui sont en cours et ceux que l'on fera un jour peut-être (apprendre l'accordéon). Une fois listés, pour chacun des projets en cours ou à venir, il faut réfléchir à la première petite tâche opérationnelle que l'on peut faire pour le démarrer : "Demander à Laurence le nom de son dentiste", "Lire la fiche sur l'organisation d'événements participatifs dans l'ebook de Cooptic". Il faut ensuite ajouter ces tâches dans la liste des choses à faire. Toutes les tâches dans la liste des choses à faire doivent être opérationnelles et ne doivent pas pouvoir être divisées en sous-tâches. Ainsi plutôt que de noter "Préparer l'AG", il faut noter plutôt : "Préparer un Doodle pour fixer la date de l'AG" ou même "Demander à Laurence le fichier des adhérents" (afin de pouvoir leur envoyer le lien Doodle pour fixer la date de l'AG). "Préparation de l'AG" est un projet, pas une tâche.
 ##Définir ses priorités en fonction de ce que l'on peut faire
 Un des principes de base de cette méthode est de trier et sélectionner les choses à faire en ce demandant : "Quelle action puis-je faire, là maintenant ?". En effet, pour David Allen, ce qui oriente le choix d'une tâche ce sont ses conditions intrinsèques de réalisation, avant toute idée de priorité *a priori*. Aussi chaque tâche est accompagnée de critères qui permettent de choisir celle que l'on va effectuée, là maintenant, tout de suite :
+
 1. Le contexte : lieu (je ne peux effectuer cette tâche qu'au bureau) ou personne (je ne peux effectuer cette tâche qu'avec Stéphane) ou outil (je ne peux effectuer cette tâche que si j'ai un ordinateur relié à internet).
+
 2. Le temps disponible : j'ai besoin de tant de temps pour effectuer cette tâche.
-3. Énergie disponible : pour effectuer cette tâche je dois absolument être en forme, ou concentré ou bien je peux effectuer cette tâche même si je n'ai plus que 2 neurones de vaillants.
+
+3. Énergie disponible : pour effectuer cette tâche je dois absolument être en forme, ou concentré ou bien je peux effectuer cette tâche même si je n'ai plus que 2 neurones de vaillants
+
 4. Priorité : priorité du projet ou de la tâche. 
 
 Mais la priorité n'arrive qu'à la fin, ce n'est pas elle qui détermine la tâche mais c'est elle qui parmi les tâches possibles correspondant au contexte, au temps et à l'énergie disponible, va déterminer laquelle finalement je choisis.
