@@ -45,7 +45,7 @@ Les formateurs du Réseau d'enseignement francophone à distance du Canada [REFA
  * Les risques liés à **la sécurité des informations sur le *web*** et à la cybercriminalité.
  * Le choix des **outils et de leur intégration**, ou non, aux systèmes institutionnels.
 
-Dans : *Wikis, blogues et web 2.0 : Opportunités et impacts pour la formation à distance*, 2010 [Texte intégral](http://www.refad.ca/nouveau/Wikis_blogues_et_Web_2_0.pdf)
+Dans : *Wikis, blogues et web 2.0 : Opportunités et impacts pour la formation à distance*, 2010 [Accès au texte intégral](http://www.refad.ca/nouveau/Wikis_blogues_et_Web_2_0.pdf)
 
 ##Les pratiques pédagogiques spécifiques
 Les raisons pour adopter les nouvelles technologies sont d'abord pédagogiques, en lien avec les besoins des apprenants. 
@@ -107,16 +107,12 @@ L'encadrement de cheminements interactifs comme ceux que permet le Web 2.0 deman
 
 ##Les outils##
 
-<object width="560" height="420" id="pt-embed-4453255-156-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp">
-	<param name="flashvars" value="lang=fr_FR&embedId=pt-embed-4453255-156&treeId=4453255&pearlId=36239346&treeTitle=OUTILS%20DE%20FORMATEURS&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/t/pedagogie-formation/outils-de-formateurs/id4453255" alt="OUTILS DE FORMATEURS" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">OUTILS DE FORMATEURS</span><span style="font-size:10pt;color:#999999;font-weight:normal"> et Pour les cours en linge dans pédagogie, formation / Elzbieta (elz)</span></a>
-</object>
+[![Formateur20_01](https://framapic.org/6yCwpjzvRBbd/xXTN8k43dRO6)](http://www.pearltrees.com/t/pedagogie-formation/outils-de-formateur/id4453255)
 
 ##Pour aller plus loin : veille partagée
-###Quelques sites sur la pédagogie et formation mise à jours par l'équipe OR 
+###Quelques sites sur la pédagogie et formation mise à jours par l'équipe d'Outils-Réseaux 
 
-
-<object width="560" height="420" id="pt-embed-3145008-115-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp"><param name="flashvars" value="lang=fr_FR&embedId=pt-embed-3145008-115&treeId=3145008&pearlId=23376076&treeTitle=p%C3%A9dagogie%2C%20formation&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/t/pedagogie-formation/id3145008" alt="pédagogie, formation" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">pédagogie, formation</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans Laurent Marseault (furax37)</span></a>
-</object>
+[![Formateur20_01](https://framapic.org/AbCgnaxzPPwY/64JKaEih9NSj)](http://www.pearltrees.com/t/pedagogie-formation/id3145008)
 
 Ressource complémentaire : 
 * [Construire un module de formation en ligne](http://www.mindmeister.com/fr/86572579/sc-nariser-et-produire-un-module-de-formation-en-ligne)
