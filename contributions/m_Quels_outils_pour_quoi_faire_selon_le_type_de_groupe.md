@@ -41,7 +41,7 @@ Des agendas visibles sur Internet et que l'on peut compléter à plusieurs.
 * Annuaires
 Il n'existe pas d'outils clés en main pour réaliser des annuaires. Mais c'est un outil qui est souvent présent dans d'autre systèmes :
  * les outils de réseaux sociaux permettent par exemple de créer un annuaire des membres,
- * les CMS proposent généralement une inscription informatique et proposent ainsi une liste de membres, on peut créer une liste de membre dans un *wiki* en ouvrant une page pour chacun.
+ * les CMS proposent généralement une inscription informatique et proposent ainsi une liste de membres, on peut créer une liste de membre dans un wiki en ouvrant une page pour chacun.
 
 * Cartographie
 Des systèmes pour installer des cartographies interactives sur un site Internet. On peut s'en servir pour cartographier une communauté, un réseau en création : indispensable pour initier de la coopération !
@@ -50,7 +50,7 @@ Des systèmes pour installer des cartographies interactives sur un site Internet
 ###CONVIVIALITÉ : Maîtriser l'informel
 * Trombinoscope
 * Réseaux sociaux et micro-blogging
-* 
+
 Les réseaux sociaux : service basé sur le web  qui permet aux individus de construire un profil public ou semi-public dans un système limité, d'articuler une liste d'utilisateurs auxquels ils sont reliés, de voir et de naviguer à travers leurs propres relations et celles faites par les autres utilisateurs.
 
 Voir une vidéo expliquant le concept par [Common Craft](http://dotsub.com/view/3d2a8e25-fca0-465d-83e0-3c2ceca3e6a9)
@@ -63,15 +63,12 @@ C'est un dérivé concis du blog, qui permet de publier un court article, plus c
 ###PRODUCTION : Maîtriser les tâches critiques pour Co-construire
 * Wiki
 * Partage de documents :
-
 Dans un groupe, il est souvent indispensable de partager des documents et des ressources. Pour cela, il existe soit des systèmes en ligne prêts à l'emploi ou des logiciels libres à installer sur un hébergement. L'idéal est de choisir des dispositifs qui permettent une synchronisation.
 
 * Bureautique en ligne :
-
 De plus en plus, on peut transférer son bureau sur Internet : les outils de bureautique en ligne sont de plus en plus utilisés. Leur avantage est de permettre une utilisation collective et en temps réel : idéal pour impulser de la coopération !
 
 * Bookmarking social :
-
 Le *social bookmarking* (en français "marque-page social", "navigation sociale" ou "partage de signets") est une façon pour les internautes de stocker, de classer, de chercher et de partager leurs liens favoris.
 [Définition issue de Wikipédia](http://fr.wikipedia.org/wiki/Social_bookmarking)
 
@@ -86,18 +83,16 @@ Références :
 
 * Lettre d'actualité et liste de diffusion.
 * CMS
-* 
 *Content Management System*, ou Système de Gestion de Contenu. Désigne une catégorie de logiciels facilitant la création, la mise à jour et la publication du contenu d'un site *web*. Parmi les outils les plus connus de cette catégorie : SPIP, Mambo (devenu Joomla), Ez Publish, Typo 3...
 
 * Flux RSS et syndication
-On appelle "RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*") un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment, sites d'information, *blogs*...Un flux RSS contient généralement le titre de l'information, une description synthétique et un lien vers une page décrivant plus en détail l'information. Le fichier RSS, appelé également flux RSS, canal RSS, fil RSS ou fil d'info, est maintenu à jour afin de proposer en temps réel les dernières informations publiées.
+On appelle "RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*") un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment, sites d'information, blogs...Un flux RSS contient généralement le titre de l'information, une description synthétique et un lien vers une page décrivant plus en détail l'information. Le fichier RSS, appelé également flux RSS, canal RSS, fil RSS ou fil d'info, est maintenu à jour afin de proposer en temps réel les dernières informations publiées.
 
 Il existe deux façons d'utiliser RSS :
-
- * pour une utilisation personnelle. Il est alors nécessaire de disposer d'un outil spécifique, appelé "lecteur RSS" ou encore "agrégateur", pour s'abonner et consulter en un seul endroit les dernières actualités de sites *web*, sans avoir à les visiter.
-* la syndication de contenus : la publication automatique sur un site Internet d'informations émanant d'autres sites.
+  * pour une utilisation personnelle. Il est alors nécessaire de disposer d'un outil spécifique, appelé "lecteur RSS" ou encore "agrégateur", pour s'abonner et consulter en un seul endroit les dernières actualités de sites *web*, sans avoir à les visiter.
+  * la syndication de contenus : la publication automatique sur un site Internet d'informations émanant d'autres sites.
 * Blog
-* 
+
 De "*Web-log*" : au départ, sortes de journaux intimes en ligne, ils se sont imposés sur la toile, pour devenir les supports d'une expression publique diverse : opinion, parole citoyenne, militante, témoignages, récit...
 Il en existe différents types : services clés en main fournis (plate-formes de *blog*) ou logiciels libres à installer sur un serveur. Leur point commun : ils permettent à un non-technicien d'écrire et publier des articles qui seront ensuite triés par dates.
 
