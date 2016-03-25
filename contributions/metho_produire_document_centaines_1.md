@@ -1,4 +1,4 @@
-#Comment produire un document à plusieurs centaines de personnes ? (1ère partie)
+#Comment produire un document à plusieurs centaines de personnes ?
 ###Comment passer du café du commerce à l'intelligence collective ?
 ####La parabole des aveugles et de l'éléphant **[1](#note)**
 *Six hommes d'Inde, très enclins à parfaire leurs connaissances, allèrent voir un éléphant (bien que tous fussent aveugles) afin que chacun, en l'observant, puisse satisfaire sa curiosité. Le premier s'approcha de l'éléphant et perdant pied, alla buter contre son flanc large et robuste. Il s'exclama aussitôt : "Mon Dieu ! Mais l'éléphant ressemble beaucoup à un mur!". Le second, palpant une défense, s'écria : "Oh ! qu'est-ce que cet objet si rond, si lisse et si pointu? Il ne fait aucun doute que cet éléphant extraordinaire ressemble beaucoup à une lance !". Le troisième s'avança vers l'éléphant et, saisissant par inadvertance la trompe qui se tortillait, s'écria sans hésitation : "Je vois que l'éléphant ressemble beaucoup à un serpent !". Le quatrième, de sa main fébrile, se mit à palper le genou. "De toute évidence, dit-il, cet animal fabuleux ressemble à un arbre !". Le cinquième toucha par hasard à l' oreille et dit : "Même le plus aveugle des hommes peut dire à quoi ressemble le plus l'éléphant ; nul ne peut me prouver le contraire, ce magnifique éléphant ressemble à un éventail !". Le sixième commença tout juste à tâter l'animal, la queue qui se balançait lui tomba dans la main. "Je vois, dit-il, que l'éléphant ressemble beaucoup à une corde !". Ainsi, ces hommes d'Inde discutèrent longuement, chacun faisant valoir son opinion avec force et fermeté. Même si chacun avait partiellement raison, tous étaient dans l'erreur.*
@@ -91,8 +91,7 @@ Dans un premier temps, le choix a été fait de combiner la plateforme web (pour
 Cette modalité permet aussi de mener, comme sur tout forum, plusieurs fils de discussion en parallèle, à condition de prendre soin des titres. Elle facilite l'accès aux nouveaux entrants et le travail à ciel ouvert, et baisse les barrières à l'entrée. Activée sur les forums, cette fonctionnalité est aussi activable facilement sur les commentaires d'autres publications : blogs, partage de documents, événements...
 
 
-
-#####Pour en savoir plus : groupe ADEO, utilisation des Google groups en *push* et en *pull* **[12](#note)**
+#####Pour en savoir plus : groupe ADEO, utilisation des Google groups en push et en pull **[12](#note)**
 Groupe ADEO est une entreprise de 70000 personnes réparties dans 13 pays et 27 Business Units (BU). Très décentralisé, orienté vers le partage du Savoir et du Pouvoir, ADEO s'est lancé depuis près de 20 ans dans de nombreuses démarches de Vision partagée avec l'ensemble des collaborateurs de certaines de ses BU. 
 
 La Communauté Produit, Achat et Supply-Chain (PAS), regroupant les Centrales d'Achats et département logistiques des BU et la Direction PAS Groupe, a initié mi 2011 une démarche transverse : VisionPAS 2023, la Vision de la Coopération PAS de Groupe ADEO en y associant ainsi plus de 2000 collaborateurs. Différentes techniques collaboratives ont été utilisées pour extraire la "substantifique moelle": groupes de travail, séminaire de créativité, prototypes en mode Design Thinking, ... mais aucune n'impliquant plus de 150 personnes ensemble.
@@ -102,7 +101,8 @@ Afin de réaliser l'écriture de notre cible à 10 ans, nous avons décidé de d
 **Le besoin :**
 * Forum multilingue pour favoriser l'expression individuelle.
 * Possibilité d'envoyer des messages du Forum vers les boîtes mails en masse avec option de réponse directe du mail vers le Forum sans nécessairement devoir y entrer (ce critère nous a fait exclure l'outil Nabble qui ne permet pas de faire des envois en masse).
-**La solution : **
+
+**La solution :**
 * 7 Forums = 7 Google Groups (1 par langue: français, anglais, espagnol, italien, polonais, portugais, russe) faisant appel à un ensemble de traducteurs.
 * Traitement intense d'un thème sur une durée d'une semaine avec des *push* différents et cohérents, suivant un schéma identique d'un thème à un autre : 
 * 1. Lancement du débat par envoi d'une synthèse sur le thème
@@ -111,7 +111,7 @@ Afin de réaliser l'écriture de notre cible à 10 ans, nous avons décidé de d
 * 4. Publication d'une nouvelle synthèse enrichie grâce au débat : les contributeurs retrouvent leur "patte" dans la rédaction du livrable final et constatent bien l'enrichissement de la synthèse initiale grâce au débat collectif.
 * Système simple pour contribuer : réponse par mail et la réponse vient automatiquement alimenter le fil de discussion du forum OU contribution directement sur le forum en postant un commentaire. Sur le forum, on voit de façon indifférenciée toutes les contributions faites sur un sujet.
 
-**Les points forts : **
+**Les points forts :**
 * Des sujets stratégiques abordés dans 7 langues : richesse des contributions car facilitation de l'expression individuelle.
 * Des traducteurs "volontaires" en interne a rendu les opérations de traductions réactives et flexibles, indispensables pour coller à nos délais assez courts.
 * Pas de schéma hiérarchique : toutes les idées sont conservées et exploitées de la même façon dans l'écriture du livrable final. D'ailleurs, les contributions mises en avant dans les mails "Flash" reprennent seulement le prénom du contributeur, pas son nom. 
@@ -131,10 +131,8 @@ Afin de réaliser l'écriture de notre cible à 10 ans, nous avons décidé de d
 
 En conclusion, ce premier Débat Numérique à grande échelle chez ADEO a été très riche d'enseignements. Il nous a permis de suivre les principales étapes évoquées dans la partie "Appliquer ces principes pour produire de l'intelligence collective". Il nous a permis de valider cette méthode participative et en appellera certainement d'autres.
 
-
 #####Les outils de capture et de cartographie textuelle
 Pour créer une synthèse sous la forme de cartographie virtuelle afin de donner une vision d'ensemble au groupe, il faut dans un premier temps "capturer" les contributions intéressantes dans les différents messages (il peut y en avoir deux ou plusieurs dans un même message), éventuellement leur donner un titre plus court (moins d'une ligne) et plus explicite, et ordonner les contributions sous la forme d'une hiérarchie. Cette dernière action peut nécessiter de créer une nouvelle entrée dans la hiérarchie pour rassembler plusieurs idées qui peuvent s'y trouver. 
-
 
 #####Pour en savoir plus : réorganiser les niveaux au fur et à mesure de la discussion
 Imaginons une discussion sur la mise en place de cette méthode où la vision actuelle est décrite par la carte textuelle suivante :
@@ -144,19 +142,19 @@ Imaginons une discussion sur la mise en place de cette méthode où la vision ac
 * **Forum** (outil *pull* : le participant va chercher lui-même l'information si il le souhaite)
 
 Des contributeurs proposent d'y ajouter l'idée d'utiliser également Twitter ainsi que d'autres réseaux sociaux. La carte pourrait alors être réorganisée sous la forme suivante :
+
 **Outils de discussion**
-* **Outils *push*** (information envoyée directement aux participants)
+* Outils *push* (information envoyée directement aux participants)
 * Mail
 * Facebook
 * Twitter
 * Autres réseaux sociaux
 * Permettre plusieurs outils *push* pour laisser le choix aux participants ?
-* **Outils *pull*** (le participant va chercher lui-même l'information si il le souhaite)
+* Outils *pull* (le participant va chercher lui-même l'information si il le souhaite)
 * Forum
 * Autres ?
 
 Dans ce cas, non seulement l'idée de "Mail" se décale d'un niveau pour avoir une catégorie "outils *push*" comprenant également Facebook, Twitter et d'autres réseaux sociaux, mais la personne qui fait la cartographie a eu l'idée d'y ajouter la possibilité de mixer les outils et a également procédé à la même réorganisation pour les outils *pull* pour laisser la place à d'autres choix. En cela, il ne s'agit pas véritablement d'une synthèse de la discussion mais plutôt de la cartographie de la compréhension actuelle du problème. Réorganiser une carte donne très souvent des idées supplémentaires et même le cartographe peut ajouter des idées, qui peuvent être complétées ou corrigées par les participants lors de l'itération de contributions suivante.
-
 
 La cartographie des échanges peut se faire à la main avec éventuellement des post-it collés sur un mur pour plus facilement réorganiser le tout. Mais lorsque la discussion est importante, une seule itération de la cartographie peut demander environ 5 heure et cela se reproduit une à deux fois par semaine pendant la phase d'idéation... L'animation d'une telle discussion demande alors un temps assez important pour les animateurs et particulièrement pour celui ou ceux qui font les cartographies et les complètent.
 
@@ -178,13 +176,13 @@ Assembl tente de ne pas répéter ce que nous percevons comme des faiblesses des
 
 ####Constitution du groupe
 #####Invitation à participer
-Pour constituer un groupe il faut commencer par y inviter des personnes. Cela peut se faire de façon collective et de façon individuelle. Les deux sont complémentaires. Une invitation n'est pas une inscription, il faut demander l'autorisation à une personne pour l'inscrire au groupe. Par contre, si celle-ci est intéressée, son inscription doit être la plus simple possible : cliquer sur un simple lien dans un *mail* en n'ayant à remplir qu'un minimum d'information (en général le prénom et le nom, parfois l'organisation. Le *mail* peut souvent être détecté directement). Il est possible de proposer en plus de cette première méthode, de répondre simplement au *mail* envoyé afin d'abaisser encore le seuil de passage à l'acte **[17](#note)** . La réponse peut être traitée soit manuellement, soit mieux de façon automatique avec une adresse de retour qui pointe vers un robot qui permette d'inscrire directement la personne (en détectant dans l'adresse d'envoi son *mail* ou son compte sur le réseau social, ainsi que son nom).
+Pour constituer un groupe il faut commencer par y inviter des personnes. Cela peut se faire de façon collective et de façon individuelle. Les deux sont complémentaires. Une invitation n'est pas une inscription, il faut demander l'autorisation à une personne pour l'inscrire au groupe. Par contre, si celle-ci est intéressée, son inscription doit être la plus simple possible : cliquer sur un simple lien dans un mail en n'ayant à remplir qu'un minimum d'information (en général le prénom et le nom, parfois l'organisation. Le mail peut souvent être détecté directement). Il est possible de proposer en plus de cette première méthode, de répondre simplement au mail envoyé afin d'abaisser encore le seuil de passage à l'acte **[17](#note)** . La réponse peut être traitée soit manuellement, soit mieux de façon automatique avec une adresse de retour qui pointe vers un robot qui permette d'inscrire directement la personne (en détectant dans l'adresse d'envoi son mail ou son compte sur le réseau social, ainsi que son nom).
 
-Pour l'invitation collective, il faut tout d'abord choisir les créneaux de diffusion de l'information : listes *mails* de discussion ou de diffusion, réseaux sociaux, *newsletters*... Il faut prendre garde de ne pas *spammer* des groupes où une telle cette invitation ne ferait pas partie de l'objet. Des endroits naturels où une telle invitation peut être envoyée seraient la liste des membres, les *newsletters* et les réseaux sociaux de la ou des organisations qui animent le nouveau groupe. Avec un CRM (*Customer Relationship Management*, système de gestion des profils et des envois dans une organisation), il est même possible de personnaliser le message d'invitation avec en particulier le prénom et/ou le nom de la personne.
+Pour l'invitation collective, il faut tout d'abord choisir les créneaux de diffusion de l'information : listes mails de discussion ou de diffusion, réseaux sociaux, newsletters... Il faut prendre garde de ne pas spammer des groupes où une telle cette invitation ne ferait pas partie de l'objet. Des endroits naturels où une telle invitation peut être envoyée seraient la liste des membres, les newsletters et les réseaux sociaux de la ou des organisations qui animent le nouveau groupe. Avec un CRM (*Customer Relationship Management*, système de gestion des profils et des envois dans une organisation), il est même possible de personnaliser le message d'invitation avec en particulier le prénom et/ou le nom de la personne.
 #####Pour ceux que l'on souhaite particulièrement avoir dans le groupe
-Pour la partie individuelle, il faut tout d'abord constituer une liste des personnes que l'on souhaiterait avoir dans le groupe. Cela peut être fait par exemple avec un tableur où on trouve pour chaque personne à inviter une champ au format "Prénom Nom" <adresse_mail> (format qui permet un envoi facile avec non seulement le *mail* mais aussi le nom). D'autres colonnes peuvent comprendre l'organisation, un champ commentaire montrant l'intérêt d'avoir la personne dans le groupe ou encore des champ avec la date d'envoi, la réponse, la date éventuelle de première et de deuxième relance, etc. Ce tableau (ou une application qui ferait cela de façon plus efficace) permet de suivre les invitations individuelles **[18](#note)** . Si la personne, au bout d'une semaine environ n'a pas répondu, il est possible de faire une relance puis éventuellement une deuxième relance une semaine encore après. Il ne faut pas aller plus loin, on peut considérer qu'une personne qui ne répond pas deux ou trois fois ne souhaite pas être dans le groupe. Les messages d'invitation et de relance doivent être personnalisés avec le nom et/ou le prénom au moins au début du message, même si le reste est un message type. Il peut être également utile de prévoir deux types de messages : l'un avec le tutoiement et l'autre avec le vouvoiement (il faut alors indiquer dans le tableau la façon dont on s'adresse à la personne : tu ou vous) **[19](#note)** . Le message doit être le plus court possible tout en restant clair et complet (il doit tenir dans maximum un écran habituel d'ordinateur) et la fin du message doit être signée par une ou deux personnes avec éventuellement leur titre plutôt que de façon plus anonyme par un groupe ou une organisation. Une telle approche des invitations individuelles, lorsque elles est bien réalisée et que l'on connaît au moins un peu les personnes invitées (il peut être utile de faire signer le message par des personnes qui connaissent le destinataire) permet un très bon taux de retour (jusqu'à entre 80 et 90%).
+Pour la partie individuelle, il faut tout d'abord constituer une liste des personnes que l'on souhaiterait avoir dans le groupe. Cela peut être fait par exemple avec un tableur où on trouve pour chaque personne à inviter une champ au format "Prénom Nom" <adresse_mail> (format qui permet un envoi facile avec non seulement le mail mais aussi le nom). D'autres colonnes peuvent comprendre l'organisation, un champ commentaire montrant l'intérêt d'avoir la personne dans le groupe ou encore des champ avec la date d'envoi, la réponse, la date éventuelle de première et de deuxième relance, etc. Ce tableau (ou une application qui ferait cela de façon plus efficace) permet de suivre les invitations individuelles **[18](#note)** . Si la personne, au bout d'une semaine environ n'a pas répondu, il est possible de faire une relance puis éventuellement une deuxième relance une semaine encore après. Il ne faut pas aller plus loin, on peut considérer qu'une personne qui ne répond pas deux ou trois fois ne souhaite pas être dans le groupe. Les messages d'invitation et de relance doivent être personnalisés avec le nom et/ou le prénom au moins au début du message, même si le reste est un message type. Il peut être également utile de prévoir deux types de messages : l'un avec le tutoiement et l'autre avec le vouvoiement (il faut alors indiquer dans le tableau la façon dont on s'adresse à la personne : tu ou vous) **[19](#note)** . Le message doit être le plus court possible tout en restant clair et complet (il doit tenir dans maximum un écran habituel d'ordinateur) et la fin du message doit être signée par une ou deux personnes avec éventuellement leur titre plutôt que de façon plus anonyme par un groupe ou une organisation. Une telle approche des invitations individuelles, lorsque elles est bien réalisée et que l'on connaît au moins un peu les personnes invitées (il peut être utile de faire signer le message par des personnes qui connaissent le destinataire) permet un très bon taux de retour (jusqu'à entre 80 et 90%).
 
-Il peut être judicieux également de montrer dans l'invitation qu'il n'est pas nécessaire de contribuer pour participer au groupe (entre 60 et 90% des membres d'un groupe sont observateurs voire totalement inactifs **[20](#note)** ), que le nombre de messages restera raisonnable (par exemple seuls les synthèses et une sélection groupée de contributions seront envoyées avec au maximum cinq messages par semaine, le détail restant disponible sur une page *web*), et qu'il est possible de se desinscrire à tout moment **[21](#note)** .
+Il peut être judicieux également de montrer dans l'invitation qu'il n'est pas nécessaire de contribuer pour participer au groupe (entre 60 et 90% des membres d'un groupe sont observateurs voire totalement inactifs **[20](#note)** ), que le nombre de messages restera raisonnable (par exemple seuls les synthèses et une sélection groupée de contributions seront envoyées avec au maximum cinq messages par semaine, le détail restant disponible sur une page web), et qu'il est possible de se desinscrire à tout moment **[21](#note)** .
 
 
 #####Pour en savoir plus : exemple de messages d'invitation individuel personnalisé
@@ -205,9 +203,9 @@ Jean-Michel Cornu
 
 **Exemple de message de relance** (pour un homme et utilisant le tutoiement)
 
-Cher <prénom>,
+Cher "prénom",
 
-Les premiers échanges commencent ces jours-ci dans le groupe Innovation Monétaire. Si tu souhaites suivre ce qui va se dire sur une redéfinitions des fonctions de la monnaie et de ce qu'elles rendent possible (voir à y contribuer si tu en as le temps), je te propose de cliquer sur le lien suivant : <lien vers l'inscription> ou si tu le préfères, de répondre à ce *mail* et je m'occuperai moi-même de ton inscription.
+Les premiers échanges commencent ces jours-ci dans le groupe Innovation Monétaire. Si tu souhaites suivre ce qui va se dire sur une redéfinitions des fonctions de la monnaie et de ce qu'elles rendent possible (voir à y contribuer si tu en as le temps), je te propose de cliquer sur le lien suivant : "lien vers l'inscription" ou si tu le préfères, de répondre à ce mail et je m'occuperai moi-même de ton inscription.
 
 Bien amicalement
 
@@ -219,12 +217,12 @@ Jean-Michel Cornu
 #####Le premier tour d'échanges
 Une fois que le nombre des participants se rapproche de la centaine, la première chose à faire est de proposer à chacun de se présenter brièvement en une ou deux lignes en y ajoutant ce qu'elle attend du groupe et éventuellement ce qu'elle peut y apporter. Ce premier "tour de table" peut sembler inutile en particulier dans les réseaux sociaux où chacun dispose d'un profil, mais il a avant tout pour fonction de faire parler le maximum de personnes une première fois avec une question très simple à laquelle il est possible de répondre immédiatement. Ceux qui ont déjà posté un message ont beaucoup plus de chance de contribuer par la suite, permettant un nombre plus important de contributeurs (outre ceux qui ont tendance à contribuer systématiquement...). Il permet de montrer aux membres du groupe qu'ils sont nombreux et que beaucoup d'autres personnes contribuent, ce qui est également un facteur pour faciliter la participation. Pour lancer ce premier tour de table, il peut être nécessaire de faire appel à des "complices" qui vont répondre très rapidement pour se présenter et ainsi monter une première activité qui incitera les autres participants à se présenter également. Ce type de tour de table peut permettre jusqu'à 40% de participation sur les grands groupes.
 
-Ce premier *mail* d'invitation à se présenter est également l'occasion de proposer des règles simples et courtes pour le fonctionnement du groupe qui sont facilement acceptables par tous et qui permettront ensuite d'être légitime à faire des remarques à des contributeurs qui ne les respecteraient pas. 
+Ce premier mail d'invitation à se présenter est également l'occasion de proposer des règles simples et courtes pour le fonctionnement du groupe qui sont facilement acceptables par tous et qui permettront ensuite d'être légitime à faire des remarques à des contributeurs qui ne les respecteraient pas. 
 
 
 #####Pour en savoir plus : exemple de trois règles courtes de fonctionnement
 Petit rappel des règles pour nos échanges:
-* Soyez court : un *mail* égal au plus un écran (sauf pour les synthèses...).
+* Soyez court : un mail égal au plus un écran (sauf pour les synthèses...).
 * Soyez constructif : personne n'a toute les solutions, chaque contribution enrichie le débat.
 * Osez contribuer et accueillez les nouveaux contributeurs : il n'y a pas d'idées inutiles.
 
