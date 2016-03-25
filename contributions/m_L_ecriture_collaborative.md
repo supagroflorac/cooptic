@@ -74,7 +74,7 @@ Le témoignage des stagiaires sur cette expérience (méthode employée, étapes
 
 Lowry Paul, Curtis Aaron, Lowry Michelle, « A taxonomy of collaborative writing to improve empirical research, writing practice, and tool development », Journal of Business Communication (JBC) 41 (2004/1), p. 66-99., (consulté le 4 février 2014).
 
-*Crédits illustrations sous licence Creative Commons : by [bgblogging](http://www.flickr.com/photos/bg/), by [Yves Guillou] (http://fr.wikipedia.org/wiki/Fichier:6_chapeaux.jpg).*
+
 
 ##Pour aller plus loin
 [![EcritureCollaborative](https://framapic.org/JSaowez9Cs6G/rSN22raphkPl)](http://www.pearltrees.com/t/ecriture-collaborative/id3018487)
