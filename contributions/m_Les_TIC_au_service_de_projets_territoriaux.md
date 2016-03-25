@@ -143,7 +143,7 @@ Les TIC et Internet abolissent d'une certaine façon les distances, accroissant 
 Les TIC sont ainsi largement appropriés par les migrants (notion de "[migrants connectés](http://sites.radiofrance.fr/chaines/france-culture2/emissions/place_toile/fiche.php?diffusion_id=82532)").
 
 ##Cartographie des outils correspondants
-<object width="560" height="420" id="pt-embed-4225829-725-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp"><param name="flashvars" value="lang=fr_FR&embedId=pt-embed-4225829-725&treeId=4225829&pearlId=33887084&treeTitle=Outils%20au%20service%20de%20projets%20territoriaux&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/emilielf/service-projets-territoriaux/id4225829" alt="Outils au service de projets territoriaux" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">Outils au service de projets territoriaux</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans  (emilielf)</span></a></object>
+[![TICetTerrioire01](https://framapic.org/eQ5PtiKEJE6q/fL6iPI8ZvWeb)](http://www.pearltrees.com/numerique/service-projets-territoriaux/id4225829)
 
 ##Ressources
 * Une mine de ressources sur le thème ! « La Fonderie - Agence Numérique d'ïle de France » [en ligne], disponible sur <http://www.lafonderie-idf.fr/>, (consulté le 4 février 2014).
