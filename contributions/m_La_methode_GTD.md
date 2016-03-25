@@ -38,14 +38,15 @@ Quand on la traite, on en prend chaque élément un par un en lui faisant passer
 ####Non : pas d'action opérationnelle
 1. C'est quelque chose pour un projet futur : je l'ajoute dans ma liste "Un jour peut-être".
 2. C'est un document dont j'aurai besoin plus tard.
-    * etc...).
-    
+    * C'est un document de référence dont j'aurai besoin, je le classe tout de suite dans mes dossiers de référence (ex. catalogue, règlement, etc...).
+    * C'est un document d'accompagnement pour un projet en cours : je le range dans le dossier projet en cours correspondant (ex. formulaire de demande de subvention, article qui servira dans une formation que l'on est en train de construire). Souvent cela s'accompagne d'une tâche à faire. Ainsi je note dans ma liste de tâche "Rechercher une copie de la déclaration de l'association en Préfecture pour la demande de subvention" et je classe le formulaire dans le dossier "En cours : demandes de subventions". 
 3. Ce n'est rien de tout cela : **poubelle**. C'est là le cas de la majorité des documents et *e-mail* que l'on reçoit !
 
 Attention à la tentation de tout garder "au cas où", il faut vraiment réfléchir en se demandant si on en aura vraiment besoin un jour. (Quand j'ai mis en place la méthode GTD, j'ai jeté toutes les factures d'électricité de mes anciens appartements, certaines dataient de plus de 15 ans) 
 
 Attention : rien ne doit revenir dans la boite d'entrée, tout doit être traité, dans l'ordre où les documents sont. Sinon on repart dans le cercle de la culpabilité avec le document qu'on ne veut pas traiter et qui reste au fond de la boite d'entrée.
 Quand la boite d'entrée et vide ou qu'il n'y a plus aucun *mail* non lu dans la boite : ouf, ça fait du bien !
+
 ### L'agenda
 Dans la méthode GTD, l'agenda est sacralisé et ne doit servir que pour ce qui a effectivement et réellement une date et un horaire : une réunion, un train. Il ne doit pas servir de liste de tâche bis. En effet, la décision de se lancer dans une tâche ne dépends pas d'un moment donné, prévu en amont : "Mercredi, je m'attaque au bilan moral" mais du contexte. Il est fort à parier que le mercredi prévu, votre collègue restera en fait à la maison car son fils est malade et que cela soit vous qui deviez répondre au téléphone toute la journée. Le seul résultat étant que le mercredi soir, la seule chose que vous reteniez, plutôt que la satisfaction d'une journée bien remplie, c'est "Et m...., je n'ai pas écrit le rapport moral". Après rien ne vous interdit de créer le contexte favorable à l'exécution des tâches prioritaires et de vous réserver des journées où vous refusez toutes les réunions afin d'avoir du temps pour faire des actions demandant de la concentration. 
 
