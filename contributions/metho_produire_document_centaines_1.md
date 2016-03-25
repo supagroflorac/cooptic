@@ -45,7 +45,9 @@ Dans un échange à plusieurs, et plus encore dans un conflit, chacun à tendanc
 **Le deuxième mode de pensée est basée sur la cartographie**. Il consiste à disposer toutes les idées en fonction de leur proximité sur une même carte mentale, sans chercher à les sélectionner a priori pour obtenir une vision la plus complète des idées et des chemins possibles. Les schémas heuristique (*mind mapping* en anglais) co-construits et projetés à la vue de tous lors de séances sont très performants pour donner une vision globale aux membres du groupe et ainsi permettre de chercher de nouvelles idées et de nouveaux points de vue plutôt que chacun ne se focalise que sur une ou quelques idées déjà proposées.
 
 **Pour aller plus loin**, deux approches sont possibles :
+
 **L'art de la mémoire** : Lors de rencontres synchrones (en ligne ou en présentiel), il est possible de coupler la carte d'idée avec une autre carte souvent territoriale que chacun peut conserver plus facilement dans sa mémoire à long terme. Il peut s'agir d'un lieu connu de tous (leur cathédrale pour les moines du Moyen Âge) ou à défaut d'un lieu co-construit (il est plus facile de mémoriser à long terme un territoire que des idées) ;
+
 **Les cartes textuelles** : dans les échanges asynchrones en ligne, les personnes qui adoptent une attitude réactive (dix fois plus nombreux que les proactifs) et les "observateurs" (encore plus nombreux) utilisent des outils qui gèrent mal le mode graphique (mail, Facebook, Twitter). Proposer une carte dessinée nécessite alors de fournir un lien vers une page web qui contient la carte. Mais dans ce cas, une moitié seulement environ des participants vont voir la carte. Il est cependant possible d'utiliser les possibilités de présentation des textes pour permettre une carte textuelle qui ne nécessite pas d'être lue en entier comme un texte mais peut être parcourue comme une carte : listes à points et à sous points, formulation courte des idées tenant sur maximum une ligne, gras, soulignés, italique pour mettre en valeur certains mots clés ;
 ####Appliquer ces principes pour produire de l'intelligence collective#
 A partir des principes présentés dans les parties précédentes, nous pouvons commencer à poser quelques règles pour permettre de produire des idées et des contenus avec plusieurs centaines de personnes. Nous traiterons ici plus particulièrement d'échanges en ligne asynchrones qui peuvent être enrichis ponctuellement par des rencontres synchrones en présentiel ou en ligne.
@@ -308,6 +310,9 @@ Une fois la rédaction terminée et validée par le groupe, il reste encore un t
 
 Une fois le travail entièrement terminé, il reste encore à diffuser largement le résultat en ligne et/ou sous la forme d'un livre imprimé. L'utilisation d'une licence Creative commons CC -BY-SA 3.0 **[37](#note)** permet de faciliter sa diffusion et son appropriation par une large communauté.
 
+***
+
+
 * **(1)** Parabole du Jaïnisme, rendue célèbre par le poète américain John Godfrey Saxe au milieu du XIXe siècle. Source, Gérard Huet, The Sanskrit Heritage Dictionary http://sanskrit.inria.fr/DICO/index.html cité par Wikipédia http://fr.wikipedia.org/wiki/Anekantavada 
 * **(2)** L'expression équivalente en anglais pourrait être "bar-room politics" ou mieux "armchair philosophy" pour renvoyer à des personnes cultivées mais désœuvrées, parlant beaucoup mais agissant peu (plutôt qu'à des personnes ayant trop bu et ne sachant plus ce qu'elles disent) : http://forum.wordreference.com/showthread.php?t=70335&highlight=comptoir 
 * **(3)** Un paradoxe qui aurait été inventé par Eubulide de Millet (IVe siècle) à partir du paradoxe du crétois de Epiménide. Source Wikipédia : http://fr.wikipedia.org/wiki/Paradoxe_du_menteur 
@@ -350,13 +355,6 @@ Une fois le travail entièrement terminé, il reste encore à diffuser largement
 * **(35)** « Co-ment | Text annotation and collaborative writing » [en ligne], disponible sur <http://www.co-ment.com/>, (consulté le 4 février 2014).
 * **(36)**  Connectez-vous pour accéder à Google Drive. [en ligne], disponible sur <https://drive.google.com/>, (consulté le 4 février 2014).
 * **(37)** « Creative Commons - Attribution - Partage dans les Mêmes Conditions 3.0 France - CC BY-SA 3.0 FR » [en ligne], disponible sur <http://creativecommons.org/licenses/by-sa/3.0/fr/>, (consulté le 29 janvier 2014).
-
-*Crédits photo : AJC1 sur Flickr - CC-By-SA*
-
-### Auteurs :
-Jean-Michel Cornu
-### Licence :
-Creatives Commons By-Sa
 
 *Dessin : Éric Grelet - CC By-Sa*
 
