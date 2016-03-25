@@ -1,5 +1,7 @@
 # Les TIC au service de projets territoriaux
-!["Carte ProjetTerritoire 2"](http://ebook.coop-tic.eu/francais/files/Carte ProjetTerritoire 2.gif) L'inscription des technologies de l'information et de la communication (TIC) dans les territoires pose un certain nombre de questions, résumées ainsi par les différents contributeurs de l'ouvrage [Des TIC et des territoires. Quelles conséquences des technologies de l'information et de la communications sur la vie urbaine, les territoires et la mobilité ?](http://portail.documentation.developpement-durable.gouv.fr/dri/document.xsp?id=Drast-OUV00001521) (2005) : 
+!["Carte ProjetTerritoire 2"](http://ebook.coop-tic.eu/francais/files/LesTicAuServiceDeProjetsTerritoriaux_Carte_ProjetTerritoire_2_20130423153135_20130423153149.gif) 
+
+L'inscription des technologies de l'information et de la communication (TIC) dans les territoires pose un certain nombre de questions, résumées ainsi par les différents contributeurs de l'ouvrage [Des TIC et des territoires. Quelles conséquences des technologies de l'information et de la communications sur la vie urbaine, les territoires et la mobilité ?](http://portail.documentation.developpement-durable.gouv.fr/dri/document.xsp?id=Drast-OUV00001521) (2005) : 
 * L'émergence du virtuel signifie-t-elle la fin des distances et des territoires ?
 * Dans quelle mesure les TIC peuvent-elles contribuer au développement des territoires, et éventuellement à la réduction des inégalités spatiales ?
 * Les nouveaux outils peuvent-ils accompagner utilement les processus de concertation et de débat public et la construction d'une démocratie en réseau ?
@@ -89,14 +91,13 @@ Des projets en devenir ?
 
 * [Territoires sonores](http://www.territoires-sonores.net) : un site dédié à la valorisation du territoire du Cap de la Chèvre en utilisant le média sonore.
 * [Web mobile à Rennes](http://www.rennes.fr/no-cache/accueil/a-la-une/actualites/les-actualites-de-la-ville-de-rennes/detail-actualite/actualites_detail*1095.html) : l'information municipale disponible "*On the air*" via un téléphone portable [mobile.rennes.fr](Voir [http://mobile.rennes.fr/)).
-* 
+
 ###4. Permettre la participation, l'expression citoyenne
 ***Forums***
 
 *Forums* de villes, de quartier, sur les sites institutionnels ou associatifs : ces dispositifs sont nombreux sur Internet et font partie des premiers outils mis en place dans le cadre de projets territoriaux. 
 
-***Blog* de quartier**
-
+**Blog de quartier**
 * [Bondyblog](http://yahoo.bondyblog.fr/) de la ville de Bondy, en région parisienne, l'un des plus connus, et ses émules : [Lausanne](http://www.lausannebondyblog.ch/), [Dakar](http://yahoo.dakar.bondyblog.fr/)...
 
 **TV participative** 
@@ -137,13 +138,20 @@ Dans cette optique, sont mis en avant :
 Les TIC et Internet abolissent d'une certaine façon les distances, accroissant ainsi les possibilités d'interconnecter des territoires distants.
 * [Projet "Interculturel" sur Correspondant.org](http://interculturel.correspondants.org/) (réseau de correspondants francophones - FING) : mise en commun et co-rédaction de texte sur les cultures en francophonie.
 * [Fragments du monde](http://fragmentsdumonde.org/), projet mettant en relation des jeunes dans différents pays du monde (VECAM).
+
 Les TIC sont ainsi largement appropriés par les migrants (notion de "[migrants connectés](http://sites.radiofrance.fr/chaines/france-culture2/emissions/place_toile/fiche.php?diffusion_id=82532)").
+
 ##Cartographie des outils correspondants
 <object width="560" height="420" id="pt-embed-4225829-725-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp"><param name="flashvars" value="lang=fr_FR&embedId=pt-embed-4225829-725&treeId=4225829&pearlId=33887084&treeTitle=Outils%20au%20service%20de%20projets%20territoriaux&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/emilielf/service-projets-territoriaux/id4225829" alt="Outils au service de projets territoriaux" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">Outils au service de projets territoriaux</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans  (emilielf)</span></a></object>
+
 ##Ressources
- Une mine de ressources sur le thème ! « La Fonderie - Agence Numérique d'ïle de France » [en ligne], disponible sur <http://www.lafonderie-idf.fr/>, (consulté le 4 février 2014).
- Ministère de l'écologie du Développement durable et de l'Énergie, « TIC (des) et des territoires. Quelles conséquences des technologies de l'information et de la communications sur la vie urbaine, les territoires et la mobilité ? », Techniques, territoires et sociétés (2005/37), p. 355., [en ligne], disponible sur <http://www.lafonderie-idf.fr/>,(consulté le 4 février 2014).
- Labélisation de territoires innovants : « Les interconnectés - technologies et innovations pour les territoires » [en ligne], disponible sur <http://www.interconnectes.com/fr/>, (consulté le 4 février 2014). 
+* Une mine de ressources sur le thème ! « La Fonderie - Agence Numérique d'ïle de France » [en ligne], disponible sur <http://www.lafonderie-idf.fr/>, (consulté le 4 février 2014).
+* Ministère de l'écologie du Développement durable et de l'Énergie, « TIC (des) et des territoires. Quelles conséquences des technologies de l'information et de la communications sur la vie urbaine, les territoires et la mobilité ? », Techniques, territoires et sociétés (2005/37), p. 355., [en ligne], disponible sur <http://www.lafonderie-idf.fr/>,(consulté le 4 février 2014).
+* Labelisation de territoires innovants : « Les interconnectés - technologies et innovations pour les territoires » [en ligne], disponible sur <http://www.interconnectes.com/fr/>, (consulté le 4 février 2014). 
+
+*Illustration : Carte de Piri Reis - Domaine Public - Wikimedia Commons*
+
+
 ### Auteurs :
 Outils-réseaux
 ### Licence :
