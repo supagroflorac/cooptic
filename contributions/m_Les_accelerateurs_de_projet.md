@@ -43,7 +43,7 @@ Pour fermer correctement la rencontre, il convient de faire un retour sur ce qui
 
 Adapté de : Payette Adrien, Champagne Claude, *Le groupe de codéveloppement professionnel*, 1 vol., Québec, Canada, Presses de l'université du Québec, 1997.
 
-Vous pouvez télécharger une fiche simplifiée, adaptée par Laurent Tézenas Vous pouvez télécharger une fiche simplifiée, adaptée par Laurent Tézenas ![Télécharger le fichier Accelerateur_de_projet.pdf](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LesAccelerateursDeProjet/download&file=Accelerateur_de_projet.pdf)
+Vous pouvez télécharger une fiche simplifiée, adaptée par Laurent Tézenas Vous pouvez télécharger une fiche simplifiée, adaptée par Laurent Tézenas [Télécharger le fichier au format pdf](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LesAccelerateursDeProjet/download&file=Accelerateur_de_projet.pdf)
 
 
 ### Auteurs :
