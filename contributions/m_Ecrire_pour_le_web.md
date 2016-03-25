@@ -27,7 +27,7 @@ La règle des "5 W + H" est un moyen mémo technique pour ne pas oublier les inf
 - **Comment :** leur manière d'être. 
 - 
 ###Le principe de la pyramide inversée
-!["Pyramide inversee"](http://ebook.coop-tic.eu/francais/files/Pyramideinversee.png)
+!["Pyramide inversee"](http://ebook.coop-tic.eu/francais/files/EcrirePourLeWeb_Pyramideinversee_20140114111408_20140114111431.png)
 
 Récurrent dans le journalisme papier, le principe de la [pyramide inversée](http://www.contentme.fr/ecriture-en-ligne/principes-redaction/pyramide-inversee) repose sur le développement des faits par ordre d'importance décroissante. On commence par les informations générales pour aller aux spécifiques. Les informations capitales se trouvent au début suivant le postulat que le lecteur décroche au fur-et-à-mesure. Cette technique amène naturellement à hiérarchiser et structurer les informations. Très utilisée dans le monde de la rédaction web, elle n'est cependant pas, comme on le prétend souvent, incontournable. Le web permet en effet d'utiliser les liens hypertextes pour aller vers le plus spécifique et avoir différents niveaux de lecture.
 
@@ -62,14 +62,15 @@ Ce qui caractérise l'écriture web de l'écriture journalistique papier est san
 
 Cette interaction avec l'internaute peut être impulsée puis alimentée par la mise en oeuvre de différentes actions :
 
-####S'assurer que le message perçu est bien celui que l'on veut transmettre#### 
+####S'assurer que le message perçu est bien celui que l'on veut transmettre
 
-!["nuage"](http://ebook.coop-tic.eu/francais/files/nuage.png) L'interaction avec l'autre suppose une proximité. Celle-ci ne peut exister si les propos développés dans les écrits du rédacteur ne sont pas en adéquation avec ce qu'il veut vraiment signifier et la ligne éditoriale qui a été annoncée. Il peut ainsi être nécessaire de contrôler la cohérence de ses propos en utilisant par exemple les **nuages de mots-clés** (*tag cloud* en anglais) qui permettent, au travers d'une représentation visuelle, de faire ressortir les mots les plus utilisés sur un site ou une page web. Généralement, ceux-ci s'affichent dans des polices de caractères d'autant plus grandes qu'ils sont utilisés ou populaires. Ces outils sont ainsi utiles pour prendre de la distance vis-à-vis de ses écrits en ayant une vue globale des concepts les plus traités et en rectifiant au besoin le tir pour faire coller ses propos au plus près de l'idée de départ. 
+L'interaction avec l'autre suppose une proximité. Celle-ci ne peut exister si les propos développés dans les écrits du rédacteur ne sont pas en adéquation avec ce qu'il veut vraiment signifier et la ligne éditoriale qui a été annoncée. Il peut ainsi être nécessaire de contrôler la cohérence de ses propos en utilisant par exemple les **nuages de mots-clés** (*tag cloud* en anglais) qui permettent, au travers d'une représentation visuelle, de faire ressortir les mots les plus utilisés sur un site ou une page web. Généralement, ceux-ci s'affichent dans des polices de caractères d'autant plus grandes qu'ils sont utilisés ou populaires. Ces outils sont ainsi utiles pour prendre de la distance vis-à-vis de ses écrits en ayant une vue globale des concepts les plus traités et en rectifiant au besoin le tir pour faire coller ses propos au plus près de l'idée de départ. 
 
 Parmi les générateurs de mots-clés, se distinguent :
 
-[Tagcrowd](http://outils-reseaux.org/FicheOutilTagcrowd)
-[Wordle](http://outils-reseaux.org/FicheOutilWordle)
+* [Tagcrowd](http://outils-reseaux.org/FicheOutilTagcrowd)
+* [Wordle](http://outils-reseaux.org/FicheOutilWordle)
+
 ####Permettre à l'internaute d'approfondir sa lecture
 L'utilisation des [hypertextes](http://fr.wikipedia.org/wiki/Hyperlien liens) (dirigés vers l'extérieur) permet de relier ses écrits à d'autres pages qui portent sur le même sujet. Cela offre à l'internaute la possibilité d'approfondir les propos énoncés en ayant accès à des ressources complémentaires et instaure un nouveau dialogue entre les auteurs et les lecteurs. Internet a changé radicalement notre rapport à l'information : celle-ci n'est désormais plus isolée, elle s'insère dans un champ vaste de connaissances ! Faire des liens hypertextes offre ainsi de nombreux avantages :
 * contextualiser le propos et le doter ainsi de plus de matière,
@@ -97,9 +98,9 @@ Parallèlement à cette écriture de l'instantané, le numérique permet une éc
 ###Enrichir l'information en ligne
 Le numérique permet également d'enrichir son article de contenus variés et de mélanger les formats au profit d'un parcours plus riche pour le lecteur ! Loic Hay, spécialiste des services et usages des technologies de l'information, passe en revue quelques widgets (= applications) qui permettent d'enrichir l'information en ligne : création et personnalisation d'un album photos, intégration de modèles 3D, intégration de vidéos etc. Ces extraits vidéos proviennent de l'Explorcamp organisé par la Mitic (Mission des Technologies de l'Information pour la Corse) les 26 et 27 juin 2008 et ayant pour sujet le Web 2.0 :
 
-<iframe frameborder="0" width="480" height="360" src="http://www.dailymotion.com/embed/video/x6pacy_explorcamp-enrichir-contenu_tech"></iframe><br /><a href="http://www.dailymotion.com/video/x6pacy_explorcamp-enrichir-contenu_tech" target="_blank">explorcamp - enrichir contenu</a> <i>par <a href="http://www.dailymotion.com/mitic20" target="_blank">mitic20</a></i>
+[![EcritureWeb01](https://framapic.org/trioRVQA1mEC/SpI1tH9F0Owb)](http://www.dailymotion.com/video/x6pacy_explorcamp-enrichir-contenu_tech)
 
-<iframe frameborder="0" width="480" height="360" src="http://www.dailymotion.com/embed/video/x6pahb_explorcamp-enrichir-contenu-multime_tech"></iframe><br /><a href="http://www.dailymotion.com/video/x6pahb_explorcamp-enrichir-contenu-multime_tech" target="_blank">explorcamp - enrichir contenu multimedia 2</a> <i>par <a href="http://www.dailymotion.com/mitic20" target="_blank">mitic20</a></i>
+[![EcritureWeb02](https://framapic.org/gAEgRgcKTosF/p95R4oyWgYfD)](http://www.dailymotion.com/video/x6pahb_explorcamp-enrichir-contenu-multime_tech)
 
 ##Rédiger pour le web : halte aux idées reçues !
 Enfin, en matière de rédaction web, les idées reçues sont légion et tenaces : il faudrait rédiger des phrases de moins de 15 mots, simplifier le message au maximum, éviter l'emploi de la négation et de la voix passive, favoriser une structure sujet-verbe-complément, écrire en mode scan... En réalité, comme pour le support papier, la rédaction doit s'adapter au plus près à l'auditoire, aux propos servis, au contexte particulier dans lequel elle s'inscrit. Un texte destiné à une revue de sciences humaines ou un site consacré à la philosophie ne peuvent en aucun cas suivre les mêmes règles qu'un document conçu pour mettre en valeur une entreprise ou des produits commerciaux. 
