@@ -3,6 +3,7 @@ Conçu comme un support à la construction d'un savoir collectif, le [Web 2.0](h
 
 ##Co-écrire, un processus difficile
 La réalisation d'un écrit collaboratif est le fruit d'un processus souvent jugé complexe et difficile. Dans l'article *[A Taxonomy of Collaborative Writing to Improve Empirical Research, Writing Practice, and Tool Development](http://edutechwiki.unige.ch/fr/%C3%89criture_collaborative#A_Taxonomy_of_Collaborative_Writing_to_Improve_Empirical_Research.2C_Writing_Practice.2C_and_Tool_Development)*, paru en 2004, Lowry P.B., Curtis A. et Lowry M.R. expliquent cette difficulté par le fait qu'à la démarche d'écriture individuelle (qui a pour fondement, selon eux, la planification, la traduction et la révision), l'écriture collective ajoutent trois niveaux de complexité supplémentaire : 
+
 1. Intellectuelle
 2. Sociale
 3. Procédurale
@@ -54,7 +55,7 @@ Une variante à cette coopération consiste à ce que chaque membre, selon ses c
 Chaque groupe peut trouver sa propre méthode, celle qui lui correspond. Cependant, pour avoir quelques points de repère, voici quelques trucs et astuces pour initier une écriture participative :
 ###1. **Faire vivre "une expérience irréversible de coopération"**
 Rien de mieux pour préparer un groupe à la réalisation d'un écrit collectif que de commencer déjà par lui faire vivre une "Petite Expérience Irréversible de Coopération" (PEIC). Ceci afin de résoudre des points de blocage éventuels, faire naître les premiers échanges et donner du sens à la démarche collaborative. L'une des grandes astuces consiste à utiliser Etherpad, un service en ligne qui permet de prendre des notes à plusieurs personnes simultanément, sur lequel est mis du contenu imparfait, à corriger ou comportant de nombreuses fautes d'orthographe. Ce simple fait va pousser instinctivement les personnes, malgré les barrières qu'elles pourraient avoir, à corriger les fautes. Cette astuce est encore plus efficace quand la faute porte sur le nom d'une personne : au souci de l'orthographe irréprochable, s'ajoute l'ego... Le mal est fait : la personne vit sa première expérience de collaboration !
-###2. **Le *brainstorming***
+###2. **Le brainstorming**
 Ce premier pas réalisé, une deuxième étape peut être franchie par l'organisation d'un *brainstorming* collectif c'est-à-dire d'une réunion de collecte d'idées qui permet de rassembler tous les points de vue et les propositions d'écriture du groupe. Cette technique incite les membres à verbaliser les idées, à les confronter entre eux et à les reformuler. Elle stimule en outre la créativité. L'utilisation d'une [carte heuristique](http://outils-reseaux.org/FicheFamilleOutilsCarteHeuristique) s'avère très efficace pour recueillir toutes ces données, les hiérarchiser entre elles et offrir une vue d'ensemble. Le principe est simple : l'animateur fabrique une carte mentale qui reprend les points énoncés par chaque membre et les classe par thèmes et sous-thèmes. Projetée à l'écran, celle-ci permet à chacun de voir s'il manque une donnée et d'intervenir ainsi plus facilement. Cela permet de rapidement faire fuser les idées et de prendre en compte chaque point de vue !
 De nombreux outils de carte heuristique existent, parmi eux se distingue Freeplane par sa facilité d'utilisation.
 ###3. **La rédaction**
