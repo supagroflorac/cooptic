@@ -3,7 +3,7 @@ Il existe de nombreux outils pour fonctionner en réseau, **les outils collabora
 ##Vie d'un Réseau
 #####La création des réseaux : 5 processus fondamentaux
 
-!["image Etapes réseau"](http://ebook.coop-tic.eu/francais/files/EtapeReseau.png)
+!["image Etapes réseau"](http://ebook.coop-tic.eu/francais/files/QuelsOutilsPourQuoiFaireselonL039ev_EtapeReseau_20140114184717_20150624095059.png)
 
 ***Ces processus sont simultanés. Ils guident le cheminement des nouveaux arrivants.***
 
