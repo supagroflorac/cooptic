@@ -119,7 +119,7 @@ La trame est une organisation des séquences dans le temps. Elle permet d'avoir 
    
 ####Règles
 La conception d'une trame doit prendre en compte plusieurs paramètres : les contraintes liées au contexte, les besoins des publics, les principes pédagogiques...
-Pour aller plus loin : [ReglesDuPedagogue [voir quelques principes pédagogiques qui aident à séquencer la formation](m_Regles_du_pedagogue.md)
+Pour aller plus loin : [voir quelques principes pédagogiques qui aident à séquencer la formation](m_Regles_du_pedagogue.md)
 
 ###4. Conducteur de stage
 A ne pas confondre avec un ruban pédagogique !
