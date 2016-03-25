@@ -34,13 +34,16 @@ C'est un savoir-agir résultant de la mobilisation et de l'utilisation efficace 
   - entretien avec le commanditaire 
   - observation sur le terrain
   - analyse de l'évolution du contexte professionnel (quel sera le futur contexte professionnel du stagiaire ?) ...
+ 
 ####Identifier le contexte
-Quel est l'origine du projet de formation ? En quoi est-ce un enjeu qui relève de la formation ? Pourquoi maintenant ? Quelles sont les ressources et moyens déjà disponibles ? Quels sont les freins? Quelles peuvent être les conséquences de la formation sur l'environnement des stagiaires ? *(quels impacts aura la formation sur l'environnement des stagiaires ?)*...
+Quel est l'origine du projet de formation ? En quoi est-ce un enjeu qui relève de la formation ? Pourquoi maintenant ? Quelles sont les ressources et moyens déjà disponibles ? Quels sont les freins? Quelles peuvent être les conséquences de la formation sur l'environnement des stagiaires ? *(quels impacts aura la formation sur l'environnement des stagiaires ?)*..
+
 ####Choisir une idée mobilisatrice
 Pour faire naître et soutenir l'intérêt autour du projet, il est utile de cristalliser les attentes autour d'une idée forte, d'un thème porteur qui accompagnera le projet tout au long de son évolution. Cette idée servira bien souvent de fil rouge, de guide tout au long de la conception.
 
 ###2. Analyse des informations
 Il s'agit d'être force de proposition en formulant les besoins identifiés en objectifs de formation, déclinés en contenus (connaissances) à transmettre et la manière de le faire (méthodes).
+
 ####Choix d'objectifs
 Pour démarrer la conception d'une formation correctement, il faut s'assurer de disposer d'un objectif de formation précis et correctement formulé.
 
@@ -50,9 +53,9 @@ L'objectif est important car il est :
 
 Pour commencer il faut clarifier les objectifs généraux de la formation (stage). On peut les formuler à l'aide de la phrase : "A la fin de la formation, le stagiaire devra être capable de ...."  
 Ensuite, il convient de diviser cet objectif en sous-objectifs associables aux différentes séquences du stage...(trois champs doivent être couverts : les savoirs, savoir-faire, savoir-être)
-Dernière étape consiste à hiérarchiser ces sous-objectifs en précisant ceux qui peuvent éventuellement être supprimés si on ne dispose pas d'assez de temps.
+La dernière étape consiste à hiérarchiser ces sous-objectifs en précisant ceux qui peuvent éventuellement être supprimés si on ne dispose pas d'assez de temps.
 
-**A savoir ** : 
+**A savoir** : 
 Les objectifs s'expriment en verbe. 
 La grille SMART permet de s'assurer rapidement de la qualité des objectifs. Un bon objectif est : 
    - Spécifique
@@ -98,7 +101,7 @@ ex :
 
 |séquence/module (nom/code)|objectif|contenus|technique|technique|durée|
 |-------------------------------|-------------|------------|--------------|-------------|---------|
-|M : 1| objectif|connaître les concepts liés à la coopération|cours 12 facettes de la coopération|exposée|3 h|
+|M : 1| objectif|connaître les concepts liés à la coopération|cours 12 facettes de la coopération|exposé|3 h|
 |M : 2|  |    |    |   |    |
 |M : 3|  |    |    |   |    |
 
@@ -133,7 +136,7 @@ Quelques généralités :
    - Donner une information suffisante. Il est utopique de penser que l'information peut être exhaustive. Il faut donc se cantonner à donner suffisamment d'éléments pour que l'apprenant acquiert une autonomie et une capacité à aller chercher l'information complémentaire si cela lui semble nécessaire.
    - Soigner la forme : "la forme est un fond qui surgit à la surface".
    - Préparer des supports qui intéressent et motivent.
-   - 
+   
 ###6. Finaliser
 [Boite à outils du formateur](http://outils-reseaux.org/ListeDu)
 
