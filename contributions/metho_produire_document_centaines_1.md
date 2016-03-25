@@ -176,8 +176,139 @@ Assembl tente de ne pas répéter ce que nous percevons comme des faiblesses des
 * Ne "déconnecte" pas les représentations cartographiques des discussions qui y ont donné naissance. Les réactions à la discussion sont accessibles à partir de la représentation synthétique et vice-versa.
 * N'impose pas une structure de discussion (de nombreux systèmes sont centrée sur un débats polarisé pour/contre) et impose beaucoup moins de contraintes aux méthodes d'animation.
 
+####Constitution du groupe
+#####Invitation à participer
+Pour constituer un groupe il faut commencer par y inviter des personnes. Cela peut se faire de façon collective et de façon individuelle. Les deux sont complémentaires. Une invitation n'est pas une inscription, il faut demander l'autorisation à une personne pour l'inscrire au groupe. Par contre, si celle-ci est intéressée, son inscription doit être la plus simple possible : cliquer sur un simple lien dans un *mail* en n'ayant à remplir qu'un minimum d'information (en général le prénom et le nom, parfois l'organisation. Le *mail* peut souvent être détecté directement). Il est possible de proposer en plus de cette première méthode, de répondre simplement au *mail* envoyé afin d'abaisser encore le seuil de passage à l'acte **[17](#note)** . La réponse peut être traitée soit manuellement, soit mieux de façon automatique avec une adresse de retour qui pointe vers un robot qui permette d'inscrire directement la personne (en détectant dans l'adresse d'envoi son *mail* ou son compte sur le réseau social, ainsi que son nom).
 
-La suite de ce texte est disponible ici : http://ebook.coop-tic.eu/francais/wakka.php?wiki=CommentProduireUnDocumentAPlusieursCentai2
+Pour l'invitation collective, il faut tout d'abord choisir les créneaux de diffusion de l'information : listes *mails* de discussion ou de diffusion, réseaux sociaux, *newsletters*... Il faut prendre garde de ne pas *spammer* des groupes où une telle cette invitation ne ferait pas partie de l'objet. Des endroits naturels où une telle invitation peut être envoyée seraient la liste des membres, les *newsletters* et les réseaux sociaux de la ou des organisations qui animent le nouveau groupe. Avec un CRM (*Customer Relationship Management*, système de gestion des profils et des envois dans une organisation), il est même possible de personnaliser le message d'invitation avec en particulier le prénom et/ou le nom de la personne.
+#####Pour ceux que l'on souhaite particulièrement avoir dans le groupe
+Pour la partie individuelle, il faut tout d'abord constituer une liste des personnes que l'on souhaiterait avoir dans le groupe. Cela peut être fait par exemple avec un tableur où on trouve pour chaque personne à inviter une champ au format "Prénom Nom" <adresse_mail> (format qui permet un envoi facile avec non seulement le *mail* mais aussi le nom). D'autres colonnes peuvent comprendre l'organisation, un champ commentaire montrant l'intérêt d'avoir la personne dans le groupe ou encore des champ avec la date d'envoi, la réponse, la date éventuelle de première et de deuxième relance, etc. Ce tableau (ou une application qui ferait cela de façon plus efficace) permet de suivre les invitations individuelles **[18](#note)** . Si la personne, au bout d'une semaine environ n'a pas répondu, il est possible de faire une relance puis éventuellement une deuxième relance une semaine encore après. Il ne faut pas aller plus loin, on peut considérer qu'une personne qui ne répond pas deux ou trois fois ne souhaite pas être dans le groupe. Les messages d'invitation et de relance doivent être personnalisés avec le nom et/ou le prénom au moins au début du message, même si le reste est un message type. Il peut être également utile de prévoir deux types de messages : l'un avec le tutoiement et l'autre avec le vouvoiement (il faut alors indiquer dans le tableau la façon dont on s'adresse à la personne : tu ou vous) **[19](#note)** . Le message doit être le plus court possible tout en restant clair et complet (il doit tenir dans maximum un écran habituel d'ordinateur) et la fin du message doit être signée par une ou deux personnes avec éventuellement leur titre plutôt que de façon plus anonyme par un groupe ou une organisation. Une telle approche des invitations individuelles, lorsque elles est bien réalisée et que l'on connaît au moins un peu les personnes invitées (il peut être utile de faire signer le message par des personnes qui connaissent le destinataire) permet un très bon taux de retour (jusqu'à entre 80 et 90%).
+
+Il peut être judicieux également de montrer dans l'invitation qu'il n'est pas nécessaire de contribuer pour participer au groupe (entre 60 et 90% des membres d'un groupe sont observateurs voire totalement inactifs **[20](#note)** ), que le nombre de messages restera raisonnable (par exemple seuls les synthèses et une sélection groupée de contributions seront envoyées avec au maximum cinq messages par semaine, le détail restant disponible sur une page *web*), et qu'il est possible de se desinscrire à tout moment **[21](#note)** .
+
+
+#####Pour en savoir plus : exemple de messages d'invitation individuel personnalisé
+**Exemple de message d'invitation individuel** (pour un homme et utilisant le tutoiement)
+Sujet : démarrage d'un travail sur l'innovation monétaire
+
+Cher <prénom>,
+
+Je lance au sein de la Fondation Internet Nouvelle Génération (Fing) une "expédition" (un travail collectif de quelques mois) sur l'"**Innovation monétaire**" : Plus de 5000 "monnaies complémentaires" existent aujourd'hui dans le monde. La crise, la recherche de nouveaux modes de développement, l'internet et le mobile enfin, en accélèrent le développement. Et si les mêmes facteurs contribuaient aussi à **réinventer les fonctions même de ces monnaies, et ce qu'elles rendent possible ?**
+
+Tous les résultats de l'expédition seront publics et librement réutilisables. L'objectif est d'ouvrir des opportunités nouvelles et d'inviter à l'action. Au regard de tes connaissances sur les monnaies, **je te propose de nous rejoindre pour participer à cette réflexion**. Si tu en es d'accord, il te suffit de cliquer sur le lien suivant : <lien vers l'inscription> ou si tu le préfères, tu peux me répondre et je m'occuperai moi-même de ton inscription.
+
+En attendant d'avoir le plaisir d'échanger avec toi.
+
+Amicalement.
+
+Jean-Michel Cornu
+
+**Exemple de message de relance** (pour un homme et utilisant le tutoiement)
+
+Cher <prénom>,
+
+Les premiers échanges commencent ces jours-ci dans le groupe Innovation Monétaire. Si tu souhaites suivre ce qui va se dire sur une redéfinitions des fonctions de la monnaie et de ce qu'elles rendent possible (voir à y contribuer si tu en as le temps), je te propose de cliquer sur le lien suivant : <lien vers l'inscription> ou si tu le préfères, de répondre à ce *mail* et je m'occuperai moi-même de ton inscription.
+
+Bien amicalement
+
+Jean-Michel Cornu
+***
+[copie du mail précédent d'invitation]
+
+
+#####Le premier tour d'échanges
+Une fois que le nombre des participants se rapproche de la centaine, la première chose à faire est de proposer à chacun de se présenter brièvement en une ou deux lignes en y ajoutant ce qu'elle attend du groupe et éventuellement ce qu'elle peut y apporter. Ce premier "tour de table" peut sembler inutile en particulier dans les réseaux sociaux où chacun dispose d'un profil, mais il a avant tout pour fonction de faire parler le maximum de personnes une première fois avec une question très simple à laquelle il est possible de répondre immédiatement. Ceux qui ont déjà posté un message ont beaucoup plus de chance de contribuer par la suite, permettant un nombre plus important de contributeurs (outre ceux qui ont tendance à contribuer systématiquement...). Il permet de montrer aux membres du groupe qu'ils sont nombreux et que beaucoup d'autres personnes contribuent, ce qui est également un facteur pour faciliter la participation. Pour lancer ce premier tour de table, il peut être nécessaire de faire appel à des "complices" qui vont répondre très rapidement pour se présenter et ainsi monter une première activité qui incitera les autres participants à se présenter également. Ce type de tour de table peut permettre jusqu'à 40% de participation sur les grands groupes.
+
+Ce premier *mail* d'invitation à se présenter est également l'occasion de proposer des règles simples et courtes pour le fonctionnement du groupe qui sont facilement acceptables par tous et qui permettront ensuite d'être légitime à faire des remarques à des contributeurs qui ne les respecteraient pas. 
+
+
+#####Pour en savoir plus : exemple de trois règles courtes de fonctionnement
+Petit rappel des règles pour nos échanges:
+* Soyez court : un *mail* égal au plus un écran (sauf pour les synthèses...).
+* Soyez constructif : personne n'a toute les solutions, chaque contribution enrichie le débat.
+* Osez contribuer et accueillez les nouveaux contributeurs : il n'y a pas d'idées inutiles.
+
+
+Si la constitution du groupe prend beaucoup de temps (au-delà de quinze jours), il peut être nécessaire avant le tour de table, d'envoyer un premier message d'attente indiquant que d'autres personnes s'inscrivent en ce moment et que les discussions vont bientôt commencer. Par contre, il n'est pas nécessaire d'attendre que la totalité des personnes soient inscrites pour commencer le tour de table (il peut rester après quinze jours d'invitation quelques relances individuelles).
+
+Une fois dépassé la centaine de participants et le premier tour de table ayant permis au maximum de personnes de parler, le groupe est maintenant prêt pour faire un travail d'intelligence collective. Souvent le cycle de présentation se continue alors que la première question thématique est posée. Cela est normal, au fur et à mesure que les participants voient que de plus en plus de personnes se présentent et contribuent, il y a une certaine pression qui les incitent à se présenter à leur tour. D'autres ne se présenteront pas. Il est important alors dans les messages d'animation de faire comprendre que l'on ne doit pas se sentir coupable de ne pas avoir participé (dans un grand groupe, la non participation est la norme), mais que ceux qui veulent apporter une idée, même simple et à n'importe quel moment, sont les bienvenus, qu'ils aient contribué auparavant ou non.
+Par ailleurs, dans le groupe, identifiez un ensemble de "complices" : des personnes que vous connaissez bien et que vous pourrez contacter individuellement pour leur demander de contribuer afin "d'amorcer la pompe" et ainsi créer un effet d'entraînement pour les réactifs du groupe.
+####Veille, compréhension commune et idéation : une cartographie itérative
+Cette phase comporte une alternance de périodes de contributions puis de synthèses sous la forme d'une carte textuelle donnant une vision d'ensemble de la compréhension du problème à un instant donné. Elle peut se décomposer en 3 grandes fonctions : la veille, la construction d'une compréhension commune et l'identification de nouvelles idées. Il peut être intéressant de les introduire l'une après l'autre mais elles continuent ensuite souvent en parallèle. Ainsi, une compréhension plus fine de certaines ramifications de la question initiale va pousser certains à citer des sources de veille et de nouvelles idées vont souvent obliger à réorganiser le savoir antérieur avec une classification améliorée.
+#####La question initiale
+La phase commence par l'énoncé de la question ou mieux, lorsqu'un travail préparatoire à été fait, par une première cartographie. Le débat est d'autant plus motivant pour les contributeurs qu'il est déjà suffisamment avancé tout en laissant de nombreux domaines à explorer. A partir de cette question ou de cette carte textuelle, il s'agit maintenant de demander aux membres du groupe les notions qui leur semble manquer et dans un premier temps de citer des sources pertinentes de travaux dans ces différents domaines (veille).
+
+Comme à chaque *mail* étape, les règles peuvent être rappelées brièvement (voir plus haut "exemple de trois règles courtes de fonctionnement").
+#####Les contributions : des "complices" aux "réactifs"
+Pour susciter les premières contributions qui vont ensuite déclencher les suivantes, il est possible de faire appel à des "complices" : contactez directement en dehors des messages collectifs quelques personnes du groupe que vous connaissez bien en leur demandant de réagir à votre message le plus rapidement possible pour "amorcer la pompe". Bien sûr, vous ferez cela juste avant d'envoyer le *mail* initial ou les cartographies intermédiaires. Même si tous vos complices ne réagiront pas, le fait de les contacter en direct augmente très significativement le pourcentage de ceux qui enverront une contribution. En contactant ainsi entre 6 et 10 personnes, vous vous assurerez environ 3 à 5 premières contributions qui permettront de faire réagir les autres participants. 
+
+Laissez également un peu de temps (en général une semaine ou un peu moins si il y a beaucoup de contributions) pour que ceux qui le souhaitent puissent réagir. Dans les groupes où tout le monde voit toutes les contributions (liste de discussion par exemple), les réponses des autres a un effet d'entraînement. Pour les groupes ou seuls certains messages sont reçus par tous, il peut être utile de construire rapidement un message contenant une sélection de contributions reçus juste après votre envoi (un ou deux jours après la question initiale ou la carte intermédiaire). Ces contributions contiendront bien sûr celles de vos "complices", mais aussi peut être d'autres contributions plus spontanées.
+
+Il est possible également de relancer en indiquant des domaines moins bien couvert. Vous pouvez aussi proposer d'identifier des éléments de veille (avec des références ou des URL), d'améliorer les différenciations entre deux concepts proches (et portant parfois le même nom) pour aboutir à une meilleure compréhension commune ou encore de proposer de développer des idées nouvelles non encore identifiées. Souvent les participants se concentrent sur certaines approches en continuant les discussions dans le même sens. Socrate, dans les écrits de Platon, appelait la maïeutique **[22](#note)** "l'art de faire accoucher les esprits" en posant des questions. En proposant au groupe de développer plus particulièrement telle partie ou telle approche, vous améliorerez la qualité du résultat final.
+
+
+#####Pour en savoir plus : la méthode des 6 chapeaux
+La méthode des 6 chapeaux d'Edward de Bono **[23](#note)**  permet d'identifier les angles des différentes contributions. Il devient ainsi possible de relancer le groupe vers des approches insuffisamment développées : 
+* chapeau blanc : quelles idées peut-on proposer d'un point de vue rationnel ?
+* chapeau rouge : que peut-on y ajouter d'un point de vue émotionnel et intuitif ?
+* chapeau noir : quels problèmes cela pose d'un point de vue négatif ?
+* chapeau jaune : quelles opportunité nouvelles d'un point de vue positif ?
+* chapeau vert : reprenons l'ensemble d'un point de vue créatif 
+* chapeau bleu : quelle organisation pour développer le contrôle du processus ?
+
+
+Des méthodes plus complètes permette d'identifier les domaines mal couverts dans un débat afin d'en assurer une qualité optimale **[24](#note)** .
+Cette partie de l'itération peut aussi se faire lors de séances en ligne ou en présentiel, en complément des échanges en ligne asynchrone. Nous avons ainsi soumis la carte en cours sur le sujet de l'innovation monétaire **[25](#note)** dans deux ateliers de travail à Marseille et Paris dans le cadre des rencontres Lift en demandant aux participants ce qui leur semblait manquer. Bien que l'assistance comprenne à la fois des participants au groupe et des personnes qui découvraient le travail, la présentation de chaque partie de la carte a permis à chaque fois une discussion avec des pistes nouvelles et des nouveaux concepts distingués. Ces rencontres  ont permis à chaque fois de mettre à jour la carte qui a ensuite été resoumise au groupe en ligne. Une troisième rencontre a été organisée au lieu du *design* à Paris en y invitant trois intervenants de disciplines différentes (anthropologie, économie et philosophie) à réagir à la carte résultant des travaux collectifs. Dans un autre groupe, une phase de contribution a été testée lors d'une séance en ligne portant sur la stigmergie **[26](#note)** (un mécanisme de coordination indirecte entre les acteurs qui permet un mode d'auto-organisation distribuée) en y ajoutant des éléments de la méthode SECI d'animation de séance proposée par Nonaka et Takeushi **[27](#note)** . Il est ainsi possible de mixer des itérations lors d'échanges asynchrones en ligne (d'une durée d'une demi semaine à une semaine) et des séances en ligne ou en présentiel (d'une durée comprise entre 1h30 et 3h), afin d'avoir un maximum de diversité parmi les contributeurs. Même parmi ceux qui assisteraient à la fois aux séances et aux échanges en ligne, certains sont plus à l'aise avec des contributions écrites ou orales.
+#####La cartographie textuelle
+Une fois par semaine, ou deux fois si les contributions sont nombreuses, améliorez la carte qui synthétise les différents éléments de veille, de compréhension et d'idées nouvelles proposés par le groupe. 
+La première étape consiste à attraper les éléments de contribution dans les différents messages du groupe. Un message peut comprendre deux ou plusieurs contributions. Pour faciliter leur utilisation, il est possible de les caractériser par une phrase reformulée, tenant sur une ligne maximum. Gardez également le nom du contributeur afin de faciliter les mécanismes d'estime dans le groupe **[28](#note)** .
+L'étape suivante consiste à compléter la carte textuelle du débat (ou la créer si c'est la première fois) en y insérant les nouvelles contributions aux endroits judicieux. Cette opération nécessite souvent de réorganiser la carte en ajoutant des niveaux pour distinguer des concepts qui étaient confondus auparavant.
+La carte a pour but de donner une vision d'ensemble des échanges. Elle se présente sous la forme d'une liste à point structurée contenant différents niveaux. Les contributions sont exprimées à raison d'une idée par ligne afin de conserver la carte la plus courte possible et éviter au maximum l'utilisation des ascenseurs pour la dérouler sur l'écran. A la fin de chaque ligne peut être ajouté le prénom du contributeur. L'objectif est de permettre de circuler sur la carte textuelle comme on déplace notre regard sur une carte graphique : plutôt que de nécessiter la lecture complète de la carte, nous devons pouvoir identifier rapidement les éléments clés et ensuite regarder plus en détail uniquement les parties qui nous intéressent. Pour cela, l'utilisation des gras, soulignés, italiques ainsi que les parties à la fois en gras et souligné permettent de faire ressortir certains mots ou groupes de mots importants. Il est également possible d'utiliser des couleurs telles que le rouge pour indiquer des éléments particuliers.
+
+
+#####Pour en savoir plus : exemple d'une carte sur la façon de présenter la coopération
+**Quelle coopération vendre ? **
+* 1) Défendre l'intérêt général en oubliant l'intérêt particulier à court terme. (altruisme) (Mathieu)
+    * vertes...).
+* 2) Faire converger sur le long terme l'intérêt collectif et particulier .(Michel)
+    * (Jean-Michel)
+    * (Gatien)
+    * ?
+** Comment faire converger l'intérêt individuel et l'intérêt collectif**.
+* Donner une **vision à long terme**. (Mathieu)
+    * (Gatien)
+* Développer l'**abondance** plutôt que la rareté. (Jean-Michel)
+* Favoriser des mécanismes d'**estime**.
+* Participer à une **oeuvre collective** et la mettre en commun. (Michel)
+* Transformer les **mécanismes de soutien** aux projets. (Michel)
+** La coopération peut nous faire gagner du temps... ou en perdre...**
+* Par **les contacts** qu'elle apporte. (mise en réseau)
+* Appartenir à une communauté créée de la **confiance** et de la **légitimité**. (Richard)
+* **La production du groupe** peut nous faire gagner du temps (mutualisation). (Philippe Olivier)
+* **Mais il faut savoir rendre la coopération moins consommatrice en temps**.
+    * (Jean-Michel)
+    * (Michel)
+**La coopération peut nous faire gagner de l 'argent... ou en perdre**. (C'est cet aspect que j'aimerais voir étoffer)
+* **Mieux vivre collectivement : **rediriger des fleuves pour irriguer des terres. (Mathieu)
+* Des **modèles économiques innovants** (cf. libre, web 2, musique...). (Jean-Michel)
+
+La carte n'est pas simplement une synthèse de la discussion. En effet, en la réorganisant, l'animateur voit souvent le premier des distinctions supplémentaires qui "sautent aux yeux". Il ne doit pas se priver de les ajouter sur la carte, car la prochaine itération de commentaires pourra éventuellement invalider son choix ou le compléter. 
+#####La fin de la phase 
+Au bout d'un certain nombre d'itérations, les contributions se tarissent et les participants n'ajoutent plus de nouvelles idées. Cela peut arriver dès la première itération (mais dans ce cas, les idées des contributeurs ne se sont pas croisées) mais on observe des échanges qui comprennent jusqu'à sept itération **[29](#note)** . Si par ailleurs, l'animateur estime que suffisamment d'angles sont couverts (voir par exemple la méthode des six chapeaux plus haut), alors une carte finale peut être diffusée au groupe. Il s'agit alors de faire éventuellement des choix et surtout de présenter les résultats sous une forme qui soit accessible à des personnes qui ne connaissent pas le sujet.
+####Choix : le consensus approximatif
+Pas toutes les discussions nécessitent de faire des choix ensuite. Il est parfois plus utile de tout conserver pour montrer un maximum d'approches par exemple lorsque l'on souhaite produire un guide sur comment mettre en place un projet **[30](#note)** . Dans d'autres cas au contraire, il faut choisir collectivement parmi la diversité des idées proposées, les actions qui seront mises en oeuvre par le groupe ou les propositions qui seront retenues. La méthode utilisée pour la phase précédente permet d'atténuer le problème posé par la tendance de chacun à d'abord défendre son point de vue en opposition de celui des autres. Les idées les plus intéressantes sont souvent celles qui émergent au bout de plusieurs itérations. Même si elles sont proposées par un des participants, elles sont le fruit de nombreux croisements et ne peuvent plus être attribuées à une personne unique (même si on met en général le prénom de la personne qui a fait la proposition dans la carte textuelle). Il est plus facile de faire choisir à des personnes parmi des idées collectives que parmi les idées de ces mêmes personnes.
+Une approche qui a montré son efficacité est celle du *rough consensus*. Il ne s'agit ni d'un consensus (difficile voir impossible à atteindre) ni d'un vote qui par définition laisse de coté les choix d'une partie des participants. Dans le *rough consensus* (consensus approximatif), la question posée est "quelqu'un a-t-il une objection majeure au choix proposé". Tout comme dans les grands groupes où la participation est l'exception et la non contribution la majorité, le *rough consensus* ne demande la réaction que de ceux qui auraient une véritable difficulté avec le choix proposé. Il est ainsi possible d'arriver à une situation où les choix faits, même s'ils ne sont pas ceux qu'auraient fait chacun des membres du groupe, sont suffisamment acceptables pour tous.
+Le *rough consensus* est une des bases de l'IETF, *Internet Engineering Task Force*, la communauté qui depuis 1986, défini les standards de l'Internet. Malgré les enjeux importants que représentent le choix d'un standard plutôt qu'un autre pour beaucoup d'acteurs industriels, les méthodes de l'IETF ont permis de développer des standards acceptés par tous   **[31](#note)** .
+####Rédaction du texte : relecture collective
+Une fois toutes les éléments de référence, les concepts et les idées identifiés par le groupe - et une fois éventuellement des choix opérés dans ces idées - il reste à transformer le tout en un document lisible par une personne extérieure au groupe ne connaissant pas le sujet. Cette phase se fait de façon plus traditionnelle avec un ou quelques "scribes" qui font la rédaction et l'ensemble du groupe qui relit et commente.
+
+La relecture par le groupe est nécessaire car même avec la meilleure volonté du monde, personne ne comprend l'ensemble des subtilités inscrites dans la cartographie finale, pas même l'animateur qui l'a réalisée ! Ainsi, en rédigeant l'ensemble sous une forme plus littéraire, il n'est pas rare d'utiliser ce que l'on peut prendre comme des synonymes pour alléger le style. Mais un des contributeurs pourra faire remarquer que si le terme utilisé dans la cartographie est juste, cela n'est plus le cas dans le texte proposé. Il reste donc beaucoup d'éléments implicites dans la cartographie finale. Si celle-ci est acceptée par tous les membres du groupe, une formulation légèrement différente qui pourrait ne pas prêter à conséquence pour la majorité des personnes, peut ne s'avérer plus acceptable par certains.
+
+La cartographie réalisée par le groupe peut engendrer un texte d'une ou deux pages ou bien un document important. Ainsi, dans le cas du groupe sur l'innovation monétaire, les six semaines de débat en ligne et les trois séances de travail ont permis 7 versions de la cartographie et ont abouti à un livre de 160 pages **[32](#note)** . La méthodologie *Book sprint* **[33](#note)** utilisée par Floss Manuals **[34](#note)** pour réaliser des livres collectifs en une semaine peut être utile. Un ensemble de personnes est réuni pendant cinq jours pour rédiger chacun des parties du livre. Dans notre cas, il ne s'agit pas tant d'experts d'un domaine qui vont apporter leur connaissance que de personnes ayant participé aux échanges et qui vont chercher à transcrire le plus fidèlement possible la cartographie finale sous une forme accessible. Le sommaire est réparti entre les différents participants (suffisamment nombreux pour pouvoir rédiger leur partie en quelques jours) et chaque partie rédigée est mise en ligne et soumise aux commentaires du groupe. Des outils qui permettent de commenter en ligne tels que Co-ment **[35](#note)** ou Google Drive **[36](#note)** sont utiles à cette étape.
+
+Une fois la rédaction terminée et validée par le groupe, il reste encore un travail d'édition pour traquer les fautes, améliorer le style et homogénéiser le tout. A ce stade, il est important d'éviter d'ajouter des erreurs. Aussi, il est intéressant d'avoir le texte final proposé avec les modifications apparentes par rapport au texte proposé par les rédacteurs (texte ajouté souligné et texte retiré barré), afin de permettre une dernière relecture plus aisée par le groupe en se concentrant uniquement sur les changements.
+
+Une fois le travail entièrement terminé, il reste encore à diffuser largement le résultat en ligne et/ou sous la forme d'un livre imprimé. L'utilisation d'une licence Creative commons CC -BY-SA 3.0 **[37](#note)** permet de faciliter sa diffusion et son appropriation par une large communauté.
 
 * **(1)** Parabole du Jaïnisme, rendue célèbre par le poète américain John Godfrey Saxe au milieu du XIXe siècle. Source, Gérard Huet, The Sanskrit Heritage Dictionary http://sanskrit.inria.fr/DICO/index.html cité par Wikipédia http://fr.wikipedia.org/wiki/Anekantavada 
 * **(2)** L'expression équivalente en anglais pourrait être "bar-room politics" ou mieux "armchair philosophy" pour renvoyer à des personnes cultivées mais désœuvrées, parlant beaucoup mais agissant peu (plutôt qu'à des personnes ayant trop bu et ne sachant plus ce qu'elles disent) : http://forum.wordreference.com/showthread.php?t=70335&highlight=comptoir 
@@ -195,7 +326,39 @@ La suite de ce texte est disponible ici : http://ebook.coop-tic.eu/francais/wakk
 * **(14)** L'animation d'une discussion doit pouvoir être faite par des bénévoles mais aussi par des personnes professionnelles qui vont trouver un intérêt à être au cœur de la discussion pour mieux en saisir toutes les idées et les subtilités, sans que ce travail d'animation soit pris en compte officiellement dans leur temps de travail
 * **(15)** Cette partie a été écrite par Benoît Grégoire de Imagination for People
 * **(16)** Voir la partie "La taille des groupes et les rôles des membres" sur la différence entre participant proactif et participant réactif : http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTailleDesGroupesEtLesRolesDesMembres
+* **(17)** Voir Cornu Jean-Michel, « Abaisser le seuil de passage à l'acte » [en ligne], in La coopération, nouvelles approches : Version 1.2 du 24 décembre 2004, 2004, p. 123, disponible sur <http://www.cornu.eu.org/files/cooperation1_2.pdf>, (consulté le 16 octobre 2013).
+* **(18)** Exemple de tableau d'invitation : https://docs.google.com/spreadsheet/ccc?key=0AqmJIce3mNagdExENGN4bmhxYWVQX2U1Q2pGOUk4LVE&usp=sharing 
+* **(19)** Pour les groupes anglophones, il n'y a pas de distinction entre le tutoiement et le vouvoiement. Mais cette différenciation peut alors s'appliquer à l'utilisation du prénom seul ou du nom complet.
+* **(20)** Voir ["La taille des groupes et les rôles des membres"](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LaTailleDesGroupesEtLesRolesDesMembres)
+* **(21)** Cornu Jean-Michel, « Abaisser le seuil de passage à l'acte » [en ligne], in La coopération, nouvelles approches : Version 1.2 du 24 décembre 2004, 2004, p. 123, disponible sur <http://www.cornu.eu.org/files/cooperation1_2.pdf>, (consulté le 16 octobre 2013).
+* **(22)** « Maïeutique (philosophie) » [en ligne], Wikipédia, disponible sur <http://fr.wikipedia.org/wiki/Ma%C3%AFeutique_(philosophie)>, (consulté le 4 février 2014).
+* **(23)** Bono Edward De, Six thinking hats, Boston, Little, Brown, 1985.
+ Bono Edward De, Six chapeaux pour penser, trad. Sauvalle Michèle, 1 vol., Paris, France, InterEditions, 1987.
+ Bono Edward De, Les six chapeaux de la réflexion: la méthode de référence mondiale, trad. Sauvalle Michèle, 1 vol., Paris, France, Eyrolles, 2006.
+* **(24)** Voir par exemple la méthode initié par Jean Sallantin« Jeux de Débat » [en ligne], jeux2debat, disponible sur <http://www.jeux2debat.net/>, (consulté le 4 février 2014).
+* **(25)** « Innovation monétaire » [en ligne], Réseau social de la Fing, disponible sur <http://www.reseaufing.org/pg/groups/62215/innovation-montaire/>, (consulté le 4 février 2014).
+* **(26)** « Réunion Anim-fr du 6 mars 2013 sur la stigmergie » [en ligne], splitR.it, disponible sur <http://splitr.it/?a=http%3A%2F%2Ffm-openlearn.open.ac.uk%2Ffm%2Fflashmeeting.php%3Fpwd%3D85c067-20520&b=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1sjVA77Qdt_rJGmj7WZbrseUiVnPE1hPr35kAz_Zh_Eg%2F&configuration=Verticale>, (consulté le 4 février 2014).
+* **(27)** « Capter L'information Implicite : modèle du SECI » [en ligne], 12manage : the executive fast track, disponible sur <http://www.12manage.com/forum.asp?TB=nonaka_seci&S=27>, (consulté le 4 février 2014).
+ Nonaka Ikujiro, Takeuchi Hirotaka, The knowledge-creating company: how japanese companies create the dynamics of innovation, 1 vol., New York, Etats-Unis, Royaume-Uni,1995.
+* **(28)** Cornu Jean-Michel, « L'évaluation par l'estime » [en ligne], in La coopération, nouvelles approches : Version 1.2 du 24 décembre 2004, 2004, p. 123, disponible sur <http://www.cornu.eu.org/news/2-3-l-evaluation-par-l-estime>, (consulté le 16 octobre 2013).
+* **(29)** Les 4 synthèses intermédiaires de l'échange en ligne sur l'innovation monétaire : « Réseau social de la Fing: Où en est-on ? » [en ligne], disponible sur <http://www.reseaufing.org/pg/pages/view/68978>, (consulté le 4 février 2014).
+ La "synthèse des synthèses" : « Synthèse des échanges du 1 juin au 8 juillet » [en ligne], Réseau social de la Fing, disponible sur <http://www.reseaufing.org/pg/pages/view/72928/>, (consulté le 4 février 2014).
+* **(30)** Voir en particulier : « Des recettes libres pour documenter nos savoir-faire » [en ligne], Imagination For People, disponible sur <http://imaginationforpeople.org/wiki/workgroup/animfr/les-recettes-libres>, (consulté le 4 février 2014).
+* **(31)** L'une des "croyances fondatrices" est incarnée dans une citation sur l'IETF de David Clark : "Nous croyons en un consensus approximatif et un code qui fonctionne". Voir le : « Le Tao de l'IETF : Guide destiné aux nouveaux participants à l'Internet Engineering Task Force » [en ligne], IETF, disponible sur <http://www.ietf.org/tao-translated-fr.html>, (consulté le 4 février 2014).
+* **(32)** Cornu Jean-Michel, La monnaie, et après ? guides des nouveaux échanges pour le XXIe siècle, Limoges, FYP éd., 2012.
+ Texte disponible avec un sommaire différent sur « Innovation monétaire » [en ligne], Réseau social de la Fing, disponible sur <http://www.reseaufing.org/pg/groups/62215/innovation-montaire/>, (consulté le 4 février 2014).
+* **(33)** « What is a Book Sprint? | » [en ligne], booksprints, disponible sur <http://www.booksprints.net/about/>, (consulté le 4 février 2014).
+* **(34)** « Floss Manuals francophone - Lire des livres libres » [en ligne], disponible sur <http://fr.flossmanuals.net/>, (consulté le 4 février 2014).
+* **(35)** « Co-ment | Text annotation and collaborative writing » [en ligne], disponible sur <http://www.co-ment.com/>, (consulté le 4 février 2014).
+* **(36)**  Connectez-vous pour accéder à Google Drive. [en ligne], disponible sur <https://drive.google.com/>, (consulté le 4 février 2014).
+* **(37)** « Creative Commons - Attribution - Partage dans les Mêmes Conditions 3.0 France - CC BY-SA 3.0 FR » [en ligne], disponible sur <http://creativecommons.org/licenses/by-sa/3.0/fr/>, (consulté le 29 janvier 2014).
 
+*Crédits photo : AJC1 sur Flickr - CC-By-SA*
+
+### Auteurs :
+Jean-Michel Cornu
+### Licence :
+Creatives Commons By-Sa
 
 *Dessin : Éric Grelet - CC By-Sa*
 
