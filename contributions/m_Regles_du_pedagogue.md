@@ -24,6 +24,7 @@ En situation de formation , cette logique peut correspondre aux activités propo
 * L'adulte respecte le savoir, mais encore plus la relation humaine. 
 * L'adulte n'est pas "une boite à fiches"... et le savoir purement académique ne l'intéresse pas. 
 * L'adulte est ouvert à une approche pluridisciplinaire des problèmes. Il considère souvent une question comme "un problème à résoudre" concrètement. 
+
 ##Rythme de la journée
 Des nombreuse études montrent que le niveau de productivité et d'attention change au fur et à mesure de la journée. Sur la journée "normale" de travail (9h-18h), on observe les phénomènes suivants :
 * **matinée ** : est plus propice au travail intellectuel que l'après midi.
@@ -42,8 +43,7 @@ Alors on privilégie une activité démonstrative le matin et exercices d'applic
 - 90 % de ce que nous disons en faisant en étant impliqués. 
 
 ##Courants, démarches, méthodes, savoirs... De quoi parle-t-on ?
-Un mini guide pédagogique pour connaître les concepts de bases. 
-[Guide réalisé par www.foad-spirit.net](http://www.foad-spirit.net/pedagogie/mini1.pdf)
+Un mini guide pédagogique pour connaître les concepts de bases [réalisé par www.foad-spirit.net](http://www.foad-spirit.net/pedagogie/mini1.pdf)
 ##Pour aller plus loin
 Les cours en lien :
 [Courants pédagogiques et TIC](http://outils-reseaux.org/CourantspedagogiquesTIC)
