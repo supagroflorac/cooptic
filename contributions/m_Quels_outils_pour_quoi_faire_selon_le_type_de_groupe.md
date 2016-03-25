@@ -16,6 +16,7 @@ Cette famille d'outils regroupe tous ceux qui permettent de dialoguer en direct 
 * Les outils de chat ou de messagerie instantanée : on dialogue par écrit en temps quasi-synchrone.
 * Les outils de téléphonie par IP : on peut discuter à l'oral (transmission de la voix).
 * Les outils de visio-conférence : on peut dialoguer par oral et se voir (transmission du son et de l'image).
+
 ###GROUPE MOYEN : faciliter les échanges
 
 **Liste de discussion, de diffusion, forum**
