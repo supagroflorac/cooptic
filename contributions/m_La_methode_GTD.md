@@ -18,6 +18,7 @@ Je ne décide de faire une tâche que si effectivement je peux la faire.
 Ces principes posés, comment ça marche en pratique ?
 ###La boite d'entrée
 C'est le premier outil de la méthode GTD, une boite d'entrée qui regroupe tout ce qui arrive : les courriers à traiter, l'idée géniale qu'on a eu sous la douche, les documents, les choses à faire noter à l'issue d'une réunion. Pour l'idée géniale qu'on a eu sous la douche ou la chose à ne pas oublier et à laquelle on repense en s'endormant (et pour éviter de se la répéter dans la tête en espérant de ne pas l'oublier au réveil, ce qui n'est pas très favorable à une bonne nuit de sommeil réparatrice), il suffit de la noter immédiatement puis de l'intégrer dès que possible dans sa boite d'entrée pour la traiter plus tard. Cela implique d'avoir près de son lit (ou de sa douche !) un petit carnet et un crayon, un *smartphone*, un dictaphone, peu importe le moyen technique mais il faut s'organiser pour avoir toujours à proximité de quoi noter : la chose à faire, à acheter ou l'idée géniale. 
+
 Tout doit arriver dans la boite d'entrée. Pour ma part j'en ai deux : une pour le papier (une bannette en plastique) et une pour l'électronique (ma boite mail). Ensuite, il convient très régulièrement de traiter sa (ses) boite(s) d'entrée selon un protocole défini. Pour ma part, je le fais une fois par jour.
 ###Traitement de la boîte d'entrée
 Dans la boite d'entrée, on entasse au fur et à mesure tout ce qui arrive : l'idée géniale qu'on a eu sous la douche, le compte-rendu de la dernière AG, le ticket de restaurant qu'il faudra se faire rembourser, les factures et même les piles qu'il faut recharger.
@@ -26,13 +27,13 @@ Quand on la traite, on en prend chaque élément un par un en lui faisant passer
 **Est-ce que l'élément entraîne une action opérationnelle ?**
 ####Oui : action opérationnelle
 1. Est-ce que je peux traiter l'action en moins de deux minutes ? 
-* Si **oui** : on le fait *(et hop, les piles sont dans le chargeur*. 
-* Si **non** : 
+   * Si **oui** : on le fait *(et hop, les piles sont dans le chargeur*. 
+   * Si **non** : 
 2. Est-ce à moi de le faire ?
-* Si **oui** : quelle première action opérationnelle dois-je faire pour traiter l'action ?
+   * Si **oui** : quelle première action opérationnelle dois-je faire pour traiter l'action ?
     * priorité).
     * loin).
-* si **non** :  je délègue.
+   * si **non** :  je délègue.
 
 ####Non : pas d'action opérationnelle
 1. C'est quelque chose pour un projet futur : je l'ajoute dans ma liste "Un jour peut-être".
