@@ -27,10 +27,10 @@ En situation de formation , cette logique peut correspondre aux activités propo
 
 ##Rythme de la journée
 Des nombreuse études montrent que le niveau de productivité et d'attention change au fur et à mesure de la journée. Sur la journée "normale" de travail (9h-18h), on observe les phénomènes suivants :
-* **matinée ** : est plus propice au travail intellectuel que l'après midi.
+* **matinée** : est plus propice au travail intellectuel que l'après midi.
 Alors on privilégie une activité démonstrative le matin et exercices d'application l'après midi.
 * **les périodes d'hypoglycémie** : 11H30-12H30 et 17h00-18h00 environ : possible fatigue et irritabilité. A éviter les activités d'incompétence consciente, privilégier les travaux en petits groupe ou binôme.
-* **la période de digestion forte ** : 14H-15h30 environ : passivité, l'endormissement et dissipation. Les exercices d'application, de découverte sont à privilégier.
+* **la période de digestion forte** : 14H-15h30 environ : passivité, l'endormissement et dissipation. Les exercices d'application, de découverte sont à privilégier.
 * **la durée optimale d'une journée de formation** : 7h L'effort de concentration est difficilement soutenu plus longtemps. 
 
 ##Comment retient-on l'information ?
