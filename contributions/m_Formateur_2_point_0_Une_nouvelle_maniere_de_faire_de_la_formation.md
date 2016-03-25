@@ -18,12 +18,12 @@ Ce qui implique :
 
 ![nouvelformation](https://framapic.org/IQjBI4pBofc6/HQMVJ9zo)
 
-Notion annexe : 
+Notion annexe à lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [Web 2.0](http://ebook.coop-tic.eu/francais/wakka.php?wiki=LeWeb)
 
 ##Les opportunités et les défis de TIC pour la formation 
 Les formateurs du Réseau d'enseignement francophone à distance du Canada [REFAD](http://www.refad.ca/) ont identifié de manière très exhaustive les opportunités et les défis liés aux outils du Web 2.0 : 
-###Les opportunités : ### 
+###Les opportunités
  * La **mobilité et la portabilité** et donc une flexibilité accrue pour les usagers, qui y ont accès de partout en tout temps.
  * Une **motivation accrue** d'au moins une partie des apprenants, particulièrement les plus jeunes, pouvant mener à une plus grande persévérance.
  * L'**étudiant comme producteur de contenus d'apprentissage**, et donc un apprentissage plus visible menant à une amélioration de son appropriation de la matière, de son autonomie et de sa responsabilisation.
@@ -36,7 +36,7 @@ Les formateurs du Réseau d'enseignement francophone à distance du Canada [REFA
  * Une occasion d'**apprentissage de l'utilisation des médias et outils tic** et **de la littératie numérique**, transférable dans d'autres contextes.
  * Une **opportunité d'innovation en enseignement**, d'ouverture à de nouvelles façons de faire et d'innovation organisationnelle, entre autres d'apprentissages plus personnalisés et plus contextualisés.
 
-###Les défis : ### 
+###Les défis 
  * Le besoin pour les enseignants et les institutions de **partager leur pouvoir et leur contrôle**. Une évolution de l'autorité vers la transparence, de l'expert vers le facilitateur, de la présentation vers la participation.
  * Le **soutien à la motivation et à la participation** nécessaire à l'évolution du rôle de l'apprenant d'auditeur passif à intervenant actif et créatif.
  * Un besoin d'**apprentissage de littératies multiples** : usage des technologies, compétences informationnelles, gestion de l'identité numérique, etc.
@@ -58,9 +58,8 @@ Les médias sociaux jouent un rôle motivateur dans la plupart des expériences 
 
 Deux éléments liés à la motivation des stagiaires sont souvent indiqués : 
  * l'évaluation de la participation : c'est plus un choix forcé de la participation que délibéré. C'est aussi un risque d'une participation minimale ne visant que l'atteinte des critères d'évaluation. Contrairement aux idées reçues selon lesquelles les élèves ne feront que les travaux qui seront formellement évalués, l'absence de contraintes rigides (relatives au *blog* par ex.) incite les élèves à *bloguer* encore plus. Le dosage entre la contrainte et la liberté est à trouver.
-
  * la diffusion large des contributions : l'ouverture donne de la visibilité, de la fierté et permet la réutilisation. Elle est donc généralement vue comme un facteur de motivation. Cette pratique est systématiquement utilisée dans les formations [Animacoop](http://animacoop.net/wakka.php?wiki=PagePrincipale). Les stagiaires produisent des contenus diffusables. C'est un travail plus contraignant mais plus apprécié également (voir : [exemples de production](http://animacoop.net/wakka.php?wiki=ContenusProduits)).
- * 
+
 ###Des cheminements individuels, collaboratifs ou coopératifs
 La multiplicité des outils de communication utilisables et les besoins différents mènent à une offre diversifiée de cheminements. La bonne posture pédagogique serait alors de varier pour donner aux apprenants aux styles d'apprentissages différents les possibilités d'un cheminement plus adapté.
 
@@ -94,7 +93,7 @@ Un autre défi que présentent ces outils pour les pédagogues est l'évolution 
  * L'utilisation du *blog* : permet de laisser des traces de ses apprentissages et est excellent dans les pratiques d'évaluations formatives. 
  * Le *wiki* montre les contributions de chacun à un travail collaboratif. 
  * La vidéo et la vidéoconférence permettent d'évaluer l'expression orale ou l'appropriation des contenus. On peut aussi construire à partir des contenus existants; par exemple évaluer ou compléter un article d'un *wiki*.
- * 
+
 ###L'utilisation de l'outil approprié
 Placé devant une abondance de types d'outils, le formateur doit pouvoir choisir ceux qui sont les plus pertinents en regard de l'apprentissage souhaité. Souvent, si son institution ne l'a pas fait pour lui, il doit aussi sélectionner les logiciels pour les supporter. Les discussions entre enseignants sur des *forums*spécialisés montrent bien leur perplexité devant la multiplicité des outils offerts et la difficulté d'établir lequel est le plus approprié à leur activité pédagogique.
 Plus loin nous vous proposons une petite sélection d' outils classés selon leurs usages. 
@@ -105,7 +104,7 @@ Pour dépasser le niveau du simple commentaire ou de la mise en forme, pour prog
 L'encadrement de cheminements interactifs comme ceux que permet le Web 2.0 demande donc non seulement plus de temps, mais aussi une disponibilité plus continue. Pour faire face à ce besoin accru de temps et de disponibilité, plusieurs solutions sont avancées. 
 * Le besoin d'établir, dès le départ, des plages de disponibilité. de temps de "micro mentors".
 * Le travail collaboratif. L'encadrement était assumé en équipe de quatre professeurs : "Cette façon de faire avantage autant les étudiants, qui reçoivent une réponse dans un délai très court, que les professeurs, qui se partagent la tâche de répondre aux courriels".
-* 
+
 ##Les outils##
 
 <object width="560" height="420" id="pt-embed-4453255-156-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp">
@@ -122,7 +121,7 @@ L'encadrement de cheminements interactifs comme ceux que permet le Web 2.0 deman
 Ressource complémentaire : 
 * [Construire un module de formation en ligne](http://www.mindmeister.com/fr/86572579/sc-nariser-et-produire-un-module-de-formation-en-ligne)
 
-À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du colelctif Coop-tic : 
+À lire sur le site *Faire ensemble ! Manuel à l'usage des animateurs de réseaux collaboratifs* du collectif Coop-tic : 
 * [Règles du pédagogue](http://ebook.coop-tic.eu/francais/wakka.php?wiki=ReglesDuPedagogue)
 
 ##Auteurs :
