@@ -94,9 +94,9 @@ Des projets en devenir ?
 * [Web mobile à Rennes](http://www.rennes.fr/no-cache/accueil/a-la-une/actualites/les-actualites-de-la-ville-de-rennes/detail-actualite/actualites_detail*1095.html) : l'information municipale disponible "*On the air*" via un téléphone portable [mobile.rennes.fr](Voir [http://mobile.rennes.fr/)).
 
 ###4. Permettre la participation, l'expression citoyenne
-***Forums***
+**Forums**
 
-*Forums* de villes, de quartier, sur les sites institutionnels ou associatifs : ces dispositifs sont nombreux sur Internet et font partie des premiers outils mis en place dans le cadre de projets territoriaux. 
+Forums de villes, de quartier, sur les sites institutionnels ou associatifs : ces dispositifs sont nombreux sur Internet et font partie des premiers outils mis en place dans le cadre de projets territoriaux. 
 
 **Blog de quartier**
 * [Bondyblog](http://yahoo.bondyblog.fr/) de la ville de Bondy, en région parisienne, l'un des plus connus, et ses émules : [Lausanne](http://www.lausannebondyblog.ch/), [Dakar](http://yahoo.dakar.bondyblog.fr/)...
@@ -146,7 +146,8 @@ Les TIC sont ainsi largement appropriés par les migrants (notion de "[migrants 
 [![TICetTerrioire01](https://framapic.org/eQ5PtiKEJE6q/fL6iPI8ZvWeb)](http://www.pearltrees.com/numerique/service-projets-territoriaux/id4225829)
 
 ##Ressources
-* Une mine de ressources sur le thème ! « La Fonderie - Agence Numérique d'ïle de France » [en ligne], disponible sur <http://www.lafonderie-idf.fr/>, (consulté le 4 février 2014).
+Une mine de ressources sur le thème ! 
+* « La Fonderie - Agence Numérique d'ïle de France » [en ligne], disponible sur <http://www.lafonderie-idf.fr/>, (consulté le 4 février 2014).
 * Ministère de l'écologie du Développement durable et de l'Énergie, « TIC (des) et des territoires. Quelles conséquences des technologies de l'information et de la communications sur la vie urbaine, les territoires et la mobilité ? », Techniques, territoires et sociétés (2005/37), p. 355., [en ligne], disponible sur <http://www.lafonderie-idf.fr/>,(consulté le 4 février 2014).
 * Labelisation de territoires innovants : « Les interconnectés - technologies et innovations pour les territoires » [en ligne], disponible sur <http://www.interconnectes.com/fr/>, (consulté le 4 février 2014). 
 
