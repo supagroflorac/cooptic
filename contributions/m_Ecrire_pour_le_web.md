@@ -1,5 +1,5 @@
 # Écrire pour le web
-##La rédaction *web* : une écriture journalistique potentialisée par le numérique
+##La rédaction web : une écriture journalistique potentialisée par le numérique
 Contrairement à une idée encore trop largement répandue, écrire pour le web ne s'improvise pas. En dehors d'une capacité à structurer l'information et à la retranscrire, commune à tous les journalistes, cet exercice nécessite une bonne connaissance des enjeux du Net et une méthodologie propre à cet outil, prenant notamment en compte le fait que la lecture de l'internaute est différente que sur un support papier. Il faut veiller à capter son attention, guider sa visite, lui permettre d'aller et venir facilement dans les différentes strates du site au travers de liens et lui fournir directement ce qu'il est venu chercher : une donnée claire, structurée et actualisée.
 
 ##Des règles d'écriture journalistiques transposées au web
