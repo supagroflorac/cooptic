@@ -7,13 +7,13 @@ Quand on met en place la méthode GTD la première chose est de faire une liste 
 ##Définir ses priorités en fonction de ce que l'on peut faire
 Un des principes de base de cette méthode est de trier et sélectionner les choses à faire en ce demandant : "Quelle action puis-je faire, là maintenant ?". En effet, pour David Allen, ce qui oriente le choix d'une tâche ce sont ses conditions intrinsèques de réalisation, avant toute idée de priorité *a priori*. Aussi chaque tâche est accompagnée de critères qui permettent de choisir celle que l'on va effectuée, là maintenant, tout de suite :
 
-1. Le contexte : lieu (je ne peux effectuer cette tâche qu'au bureau) ou personne (je ne peux effectuer cette tâche qu'avec Stéphane) ou outil (je ne peux effectuer cette tâche que si j'ai un ordinateur relié à internet).
+1. Le **contexte** : lieu (je ne peux effectuer cette tâche qu'au bureau) ou personne (je ne peux effectuer cette tâche qu'avec Stéphane) ou outil (je ne peux effectuer cette tâche que si j'ai un ordinateur relié à internet).
 
-2. Le temps disponible : j'ai besoin de tant de temps pour effectuer cette tâche.
+2. Le **temps disponible** : j'ai besoin de tant de temps pour effectuer cette tâche.
 
-3. Énergie disponible : pour effectuer cette tâche je dois absolument être en forme, ou concentré ou bien je peux effectuer cette tâche même si je n'ai plus que 2 neurones de vaillants
+3. **Énergie disponible** : pour effectuer cette tâche je dois absolument être en forme, ou concentré ou bien je peux effectuer cette tâche même si je n'ai plus que 2 neurones de vaillants
 
-4. Priorité : priorité du projet ou de la tâche. 
+4. **Priorité** : priorité du projet ou de la tâche. 
 
 Mais la priorité n'arrive qu'à la fin, ce n'est pas elle qui détermine la tâche mais c'est elle qui parmi les tâches possibles correspondant au contexte, au temps et à l'énergie disponible, va déterminer laquelle finalement je choisis.
 Je ne décide de faire une tâche que si effectivement je peux la faire.
@@ -65,7 +65,6 @@ Régulièrement, il faut relire sa liste de projet pour faire le point sur les p
 Allen David, *Getting things done: the art of stress-free productivity*, 1 vol., New York, Penguin Books, 2001.
 
 
-*Crédit Photos : [carlescv sur Flickr - CC By-SA](http://www.flickr.com/photos/carlescv/8364394934/sizes/o/in/photostream/) *
 ### Auteurs :
 Hélène Laxenaire
 ### Licence :
