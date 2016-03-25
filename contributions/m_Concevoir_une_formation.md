@@ -18,7 +18,7 @@ Qui sont-ils ? Quel est leurs métiers et comment évoluent-t-ils ? Ont-ils de l
 Premier critère de qualité d'une formation : elle doit répondre aux besoins des participants. 
 Dans ce contexte, le besoin se définit comme un écart entre les compétences constatées et les compétences attendues. 
 
-{{attach file="besoin2.jpg" desc="besoin2.fpg" size="original" class="center original whiteborder lightshadow" }}
+![besoin](http://ebook.coop-tic.eu/francais/files/ConcevoirUneFormation_besoin2_20140106204140_20140113161826.jpg)
 
 
 **Que signifie le mot  "compétence" ?**
@@ -73,11 +73,11 @@ Savoir choisir des méthodes pédagogiques adaptées c'est savoir faire preuve d
 
 La méthode définit le mode de transmission par le formateur et le mode d'acquisition par l'apprenant. Il existe 4 grandes méthodes pédagogiques :
 
-{{attach file="methode1.png" desc="methode1" size="original" class="center original whiteborder lightshadow"}}
+![Méthodes](http://ebook.coop-tic.eu/francais/files/ConcevoirUneFormation_methode1_20140113162118_20140113162137.png)
 
 **Les avantages et inconvénients des différentes méthodes pédagogiques**
 
-{{attach file="methavant1.png" desc="methavant1" size="original" class="center original whiteborder lightshadow"}}
+![Avantage](http://ebook.coop-tic.eu/francais/files/ConcevoirUneFormation_methavant1_20140113162118_20140113162154.png)
 
 ####Indicateurs d'évaluation
 *Ce dernier points de l'analyse pédagogique des informations*. Il s'agit d'identifier les critères qui permettent d'affirmer qu'un objectif est atteint.
