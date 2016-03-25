@@ -108,9 +108,7 @@ Les [Creatives Commons](http://creativecommons.fr/licences/les-6-licences licenc
 ###S'entourer de bon "suiveurs"
 "Il est commun de dire que c'est de la qualité de l'animation que dépend la vie d'une communauté. C'est bien entendu en partie vraie. Mais dans cette courte vidéo récréative, il est expliqué avec talent que le *leadership* est indispensable pour initier la chose, mais que sans suiveurs eux-aussi impliqués dans l'action, il n'en serait rien."
 
-<object width="640" height="385">
-	<param name="movie" value="http://www.youtube.com/v/fW8amMCVAJQ&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/fW8amMCVAJQ&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="385"></embed>
-</object>
+[![TrucAstuces](https://framapic.org/NygDZaChzILO/dKh4Shi7EpUT)](https://www.youtube.com/watch?v=fW8amMCVAJQ)
 
 (article repris du blog [362point0.org](http://www.362point0.org/comment-demarrer-une-communaute/))
 
