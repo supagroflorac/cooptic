@@ -44,7 +44,8 @@ Dans beaucoup d'autres types de projets, le renforcement des liens entre les hab
 * En éducation à l'environnement : Coopere 34 (Hérault), APLRE.
 
 ###2. Inventorier les ressources et créer du bien commun
-Inventaires participatifs.
+
+**Inventaires participatifs**
 * **Inventaires naturalistes** :
     * [L'ONEM](http://www.onem-france.org/saga/wakka.php?wiki=PagePrincipale) : inventaire d'espèces protégées en région méditerranéenne.
 * **Wikis territoriaux** : "Un *wiki* territorial est un *wiki* hébergeant une base de connaissances liée à un espace géographique : territoire, commune, région. Initiés tantôt par une collectivité territoriale, une association ou des bénévoles il vise à développer une écriture collaborative sur un territoire." *(Wikipedia)*
@@ -53,7 +54,7 @@ Inventaires participatifs.
     * [Picardia](http://www.encyclopedie.picardie.fr/index.php/Accueil)
     * [wiki-Toulouse](http://www.wikitoulouse.haisoft.fr/wiki/index.php?title=Accueil)
     * [WikiPompignan](http://www.gard-nature.com/pompignan/wakka.php?wiki=PagePrincipale) (Languedoc-Roussillon)
-* ***Carto party*** : réaliser collectivement une carte du territoire avec Openstreetmap (application permettant de réaliser un fonds de carte libre de droits) et Chimere (pour ajouter une couche avec des données propres au territoire : patrimoine, ressources, points d'intérêt..., sans surcharger Openstreetmap) :
+* **Carto party** : réaliser collectivement une carte du territoire avec Openstreetmap (application permettant de réaliser un fonds de carte libre de droits) et Chimere (pour ajouter une couche avec des données propres au territoire : patrimoine, ressources, points d'intérêt..., sans surcharger Openstreetmap) :
     * [Carto party de Plouarzel](http://wiki.openstreetmap.org/wiki/Plouarzel_prepa_mapping_party) : la première commune française a être intégralement cartographiée dans Open Street Map.
 
 **Libération des données publiques**
