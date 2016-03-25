@@ -9,6 +9,7 @@ La réalisation d'un écrit collaboratif est le fruit d'un processus souvent jug
 3. Procédurale
  
 Ceux-ci correspondent à trois questions que pose l'écriture collaborative :
+
 1. Comment mutualiser et harmoniser des connaissances individuelles pour produire un savoir collectif ?
 2. Comment coordonner les membres et leurs différents avis pour mener à bien ce projet ? Comment dépasser les conflits socio-affectifs générés par cet exercice collectif ?
 3. Comment mettre en place une planification et une finalisation commune ?
@@ -76,7 +77,9 @@ Lowry Paul, Curtis Aaron, Lowry Michelle, « A taxonomy of collaborative writing
 *Crédits illustrations sous licence Creative Commons : by [bgblogging](http://www.flickr.com/photos/bg/), by [Yves Guillou] (http://fr.wikipedia.org/wiki/Fichier:6_chapeaux.jpg).*
 
 ##Pour aller plus loin
-<object width="560" height="420" id="pt-embed-3018487-468-object" type="application/x-shockwave-flash" data="http://cdn.pearltrees.com/s/embed/getApp"><param name="flashvars" value="lang=fr_FR&embedId=pt-embed-3018487-468&treeId=3018487&pearlId=22258145&treeTitle=ECRITURE%20COLLABORATIVE&site=www.pearltrees.com%2F" /><param name="movie" value="http://cdn.pearltrees.com/s/embed/getApp" /><param name="wmode" value="opaque" /><param name="allowscriptaccess" value="always" /><a href="http://www.pearltrees.com/t/tice/ecriture-collaborative/id3018487" alt="ECRITURE COLLABORATIVE" style="text-decoration:underline;"><span style="font-size:14pt;color:black;font-weight:bold">ECRITURE COLLABORATIVE</span><span style="font-size:10pt;color:#999999;font-weight:normal"> dans TRAVAIL COLLABORATIF / ACTIVITES TICE / denisreynaud (denisreynaud)</span></a></object>
+[![EcritureCollaborative](https://framapic.org/JSaowez9Cs6G/rSN22raphkPl)](http://www.pearltrees.com/t/ecriture-collaborative/id3018487)
+
+
 ### Auteurs :
 Outils-réseaux
 ### Licence :
