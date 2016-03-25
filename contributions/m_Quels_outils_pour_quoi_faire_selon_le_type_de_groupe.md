@@ -2,10 +2,11 @@
 #Grille de décision
 ###Quel type de groupe ?
 
-TAILLE : gérer la parole | PETIT GROUPE : échanges immédiats | GROUPE MOYEN : faciliter les échanges | GRAND GROUPE : gérer la quantité d'échanges
-ETENDUE : renforcer les liens | GROUPE LOCAL : se synchroniser | GROUPE NATIONAL : retrouver le local | GROUPE MONDIAL : retrouver le national
-VOCATION : adapter les outils aux objectifs | CONVIVIALITE : maîtriser l'informel | PRODUCTION : maîtriser les tâches critiques pour Co-construire | DIFFUSION : publier et se faire connaître 
-MATURITÉ : vers l'autonomie | ENFANT : initier le premier pas | ADOLESCENT : gérer les conflits | ADULTE : rester ouvert et jeune 
+|TAILLE : gérer la parole | PETIT GROUPE : échanges immédiats | GROUPE MOYEN : faciliter les échanges | GRAND GROUPE : gérer la quantité d'échanges|
+|------|------|------|------|
+|ETENDUE : renforcer les liens | GROUPE LOCAL : se synchroniser | GROUPE NATIONAL : retrouver le local | GROUPE MONDIAL : retrouver le national|
+|VOCATION : adapter les outils aux objectifs | CONVIVIALITE : maîtriser l'informel | PRODUCTION : maîtriser les tâches critiques pour Co-construire | DIFFUSION : publier et se faire connaître|
+|MATURITÉ : vers l'autonomie | ENFANT : initier le premier pas | ADOLESCENT : gérer les conflits | ADULTE : rester ouvert et jeune|
 
 ###PETIT GROUPE : Échanges immédiats
 
