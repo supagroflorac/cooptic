@@ -4,19 +4,20 @@
 ####1.1 Définitions#
 "Savoir pour prévoir afin de pouvoir", détection des signaux faibles.
 
-**Les différentes phases de la veille : **
+**Les différentes phases de la veille :**
 
 * Collecter l'information .
 * Trier, traiter l'information. 
 * Diffuser à un public donné. 
 * Décider en fonction de l'information récoltée. 
-* 
+
 Mais en fonction du type de veille, toutes les phases ne sont pas forcément réalisées (la diffusion, par exemple dans le cadre d'une veille purement personnelle) ou formalisées (la prise de décision le plus souvent).
 Il existe différents types de veille qui varient en fonction de l'objet (juridique, informative,...) et de l'objectif (veille stratégique où l'on surveille la concurrence afin de pouvoir positionner son entreprise et ses produits en fonction, veille créative surveillant les travaux des *designers* afin de détecter les prochaines tendances,...)
 
 Dans tous les cas, la veille est un **processus itératif et continu**
 * Itératif : allers et retours réguliers entre les résultats et les sources (et outils) afin d'améliorer les résultats de la veille par rapport à ses objectifs. Cet aller-retour permet également de faire évoluer sa veille en fonction de l'évolution des objectifs ou de l'évolution propre au sujet que l'on surveille (émergence de nouvelles thématiques dans son champ de veille par exemple).
 * Continu : une veille n'est pas un état des lieux à un moment donné ou un état de l'art mais un processus continu suivant l'actualité et l'évolution des objets de la veille.
+
 ####1.2 Une veille informative... et collaborative
 Dans le cadre de ce cours, nous nous intéresserons à la veille dite "informative".
 
@@ -44,6 +45,7 @@ Le point le plus important est la diffusion : on se met d'accord ensemble avec l
 C'est la différence entre une veille partagée et une veille collaborative :
 * veille partagée : je fais ma veille, selon mes propres critères et je la partage.
 * veille collaborative : le groupe se met d'accord ensemble sur l'objet de la veille et approvisionne la veille collaborative uniquement sur cet objet.
+
 ###2. La veille sur internet, ça change quoi ?
 **La veille c'est le traitement du flux**
 
