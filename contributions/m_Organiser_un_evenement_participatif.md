@@ -1,5 +1,5 @@
-#Organiser un événement participatif
-##Des animations pour mieux faire vivre la participation et la coopération en présence
+# Organiser un événement participatif
+## Des animations pour mieux faire vivre la participation et la coopération en présence
 
 ![cornu](https://framapic.org/iJiYuUTIjNFq/4WXynb55)
 
@@ -10,10 +10,10 @@ L'objectif de cette initiation est aussi de ne pas limiter la DP aux étapes pr�
 Accepter de prendre le temps et l'énergie à toutes ses étapes et procédure du débat collectif, n'équivaut pas à "perdre son temps" mais à en gagner pour la réflexion collective.
 Enfin, trop souvent nous utilisons ces démarches participatives pour nous confronter à des sujets "bouillants" alors que nous n'en avons pas fait l'apprentissage. **La participation et la coopération demandent une éducation spécifique qu'il conviendra de disjoindre de son utilisation opérationnelle** au risque d'entendre "Je vous avais bien dit que la participation ça ne fonctionnait pas"...
 
-##1. Avant même de nous réunir...
+## 1. Avant même de nous réunir...
 Il est judicieux de commencer cette "éducation" à la DP par une simple initiation, d'une façon pas trop "engageante" - dérangeante. Juste un coup, pour voir... Une bonne façon de goûter au bonheur et aux exigences de la DP, et de ne plus vouloir s'en passer et revenir en arrière, à des pratiques sans grande démocratie. Nous allons travailler à faire vivre de **"petites expériences irréversibles".**
 
-###Ex.1 Les gouttes d'eau font les grands fleuves
+### Ex.1 Les gouttes d'eau font les grands fleuves
 Imaginons le cadre d'un séminaire d'une journée sur "la préservation de la biodiversité dans les pratiques agricoles", pour lequel chaque participant potentiel pourra se référer à un site *web *présentant l'organisme organisateur de la réunion, les objectifs globaux de cette réunion, ses dates et lieux, etc.
 
 On peut commencer cette initiation à la DP en demandant à chaque personne s'inscrivant quelques questions supplémentaires à ses coordonnées. Du genre :
@@ -26,7 +26,7 @@ Ce petit questionnaire personnalisé sera proposé à chaque nouvel inscrit, que
 En cas d'absence de site internet dédié à ce séminaire, on peut tout à fait initier cette DP en faisant un tour de table en commençant ce séminaire avec ces mêmes questions. Cela constituera ainsi une présentation à la fois plus originale que "je m'appelle M . XX, et je fais ci ou ça dans la vie...". Et surtout, cette présentation permet d'emblée de rentrer dans le vif du sujet avec une implication de chacun.
 Cela permet aussi, par ce référentiel collectif en cours d'élaboration, ou par cette bibliographie, que l'on peut créer du bien collectif, utile à tous et libre d'accès.
 
-###Ex.2 Vous êtes fichés
+### Ex.2 Vous êtes fichés
 
 * Il est particulièrement intéressant, pour mieux impliquer les participants à une réunion que **chacun puisse aussi se géoréférencer,** et découvrir alors des lieux communs, des amis ou connaissances communs, etc. Surtout lorsqu'on est sur un séminaire avec plusieurs dizaines de personnes et que les gens se connaissent peu.
 
@@ -50,14 +50,14 @@ Un petit dispositif astucieux de fiche internet (déclinable très simplement su
 
 **Il serait de bon aloi de demander à chaque auteur d'un "avis de recherches" de restituer au groupe, sous forme de synthèse en direct en fin de séminaire ou via internet quelques jours plus tard, les réponses obtenues.**
 
-###Ex. 3 De l'usage des outils coopératifs
+### Ex. 3 De l'usage des outils coopératifs
 On peut insérer, dans le cadre d'un réseau internet organisant des réunions et des échanges d'infos, une **série d'outils très simples et bien utiles**, comme un agenda partagé qui permet à chacun de visualiser les activités et réunion du groupe, permet de proposer une initiative dans un créneau disponible, éviter de faire se chevaucher plusieurs RV et d'exclure certains de la possibilité d'y participer.
 Quel que soit le contenu de ces cartes et tableaux, les organisateurs du séminaire prendront soin de reporter sur la carte ou tableau, physique, qui sera accroché à l'entrée de la réunion, les points de localisation, de géothématisation, les avis de recherche, etc. déjà entrés sur internet par certains.
 Ces outils en ligne (questionnaires, agenda, etc.) sont modulables dans leur fonctionnement, et notamment dans leur gestion et les accès aux paramètres permettant de les formater et de les modifier. **Une discussion préalable sur ces accès est donc nécessaire collectivement.**
 
 Donc, c'est clair : d'entrée de jeu, il faut prévoir le temps et l'espace pour que se noue ce dialogue entre les participants, et lui permettre de se poursuivre au-delà de la réunion.
 
-##2. Au cours de la réunion...
+## 2. Au cours de la réunion...
 Les préliminaires décrits, entrons dans le vif de la DP ! 
 
 L'animateur de la réunion aura tout intérêt à **se saisir du "matériel" de commentaires et questions** obtenus dans cette phase préparatoire pour nourrir, engager les travaux et la discussion du groupe, éviter d'ouvrir les discussions face à une grand tableau vide, ne pas hésiter à **placer ne serait-ce que quelques mots clés, même provocants... Excellent pour susciter les prises de paroles !**
@@ -93,7 +93,7 @@ On peut aussi imaginer que cette personne donne ses réponses à l'animateur qui
 
 **Le développement de jeux de rôles.** Nous les mentionnons juste ici, mais ils devraient faire l'objet de bien plus longs développements ultérieurement. Ces jeux peuvent être un excellent moyen pour faire sortir certaines idées, réflexions, comportements, et dépasser des conflits, exposer des non-dits, etc. Un grand nombre de techniques et de jeux de rôle existent à cet effet. Ils ont beaucoup de vertu à la condition qu'ils soient réellement maîtrisés et coordonnés par l'animateur, qui devra ensuite en faire une analyse et une synthèse publique dans la foulée.
 
-##3. Après la réunion, les discussions continuent !
+## 3. Après la réunion, les discussions continuent !
 L'une des premières discussions que l'animateur aura avec les organisateurs dudit séminaire - et ceux-ci avec les intervenants - concerne le **statut des documents et des présentations** (PP ou autres) des intervenants invités. Et plus exactement leur niveau de diffusion avant et après le séminaire. Ce point, très important, fait référence à la **question de l'accès et de la diffusion des informations et des données contenues dans ces présentations.**
 
 Aujourd'hui, une large réflexion s'est engagée dans différents milieux sur l'accès libre à l'information sous toutes ses formes. Et la définition de différents statuts d'accès (licence) est proposée sous le concept de Creative Commons auquel nous adhérons. Ces différentes licences font d'une information un bien commun, un bien privé, un bien privé mais collectif, un bien commun sous conditions (être cité, utilisable seulement en lecture, utilisable en lecture et modifiable, utilisable commercialement mais sans appropriation possible, etc.). Pour plus d'information, consultez le site http://fr.creativecommons.org/
@@ -108,7 +108,7 @@ Quoi qu'il en soit, cette mise en ligne des documents et des présentations doiv
 *Auteurs : Association Outils-Réseaux, Vincent Tardieu*
 
 *Crédits illustrations sous licence creativecommons : by Moustic 2011 - by Ultimcodex - by Moustic 2011 - by Outils-Réseaux - by Zerojay*
-##Auteurs :
+## Auteurs :
 Outils-réseaux Vincent Tardieu
-##Licence :
+## Licence :
 Creatives Commons By-Sa

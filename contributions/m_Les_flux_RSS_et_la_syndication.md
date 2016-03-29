@@ -1,19 +1,19 @@
-#Les flux RSS et la syndication
+# Les flux RSS et la syndication
 ![logo RSS par ejk sur Flick - CC-BY-SA](http://ebook.coop-tic.eu/francais/cache/vignette_bf_imageFlux_rss.jpg)
 
 **Que signifient ce symbole mystérieux et ce sigle barbare ?...**
 
-##Qu'est ce qu'un flux RSS ?
+## Qu'est ce qu'un flux RSS ?
 Qu'on l'appelle "flux RSS" ("*Rich Site Summary*" ou "*Really Simple Syndication*"), "canal RSS", "fil RSS", "fil d'info", le principe est le même : il s'agit d'**un format de données utilisé pour diffuser les mises à jour de sites dont le contenu change fréquemment** (sites d'information, *blogs*...).
 
 **Un flux RSS fournit un résumé des nouveautés d'un site** : généralement un titre, une description synthétique et un lien vers la page d'origine de l'information.
 
 Le fichier RSS est maintenu à jour en permanence : il contient les dernières informations publiées. 
-##A quoi ça sert ?
+## A quoi ça sert ?
 Il existe deux façons d'utiliser un flux RSS :
 * **pour son information personnelle** : pour s'abonner et consulter en un seul endroit les dernières actualités de sites *web*, sans avoir à les visiter. Indispensable pour faire de la veille, pour suivre l'activité de dispositifs coopératifs ouverts et ainsi assurer une modération "*a posteriori*"...
 * **pour un *webmaster* afin de syndiquer du contenu**, c'est-à-dire publier automatiquement sur un site Internet des informations provenant d'autres sites Internet. Indispensable pour faire se croiser les réseaux, pour éviter de saisir plusieurs fois la même information, pour dynamiser son site sans trop se fatiguer ;-)
-##Les lecteurs de flux RSS
+## Les lecteurs de flux RSS
 Pour s'abonner à des flux RSS individuellement, il est nécessaire de disposer d'un outil spécifique, appelé "lecteur RSS" ou encore "agrégateur RSS".
 Il en existe de 2 types :
 
@@ -38,14 +38,14 @@ Il en existe de 2 types :
 * http://netvibes.com : service en ligne pour se constituer une page d'accueil aux flux RSS personnalisés
 * [Fin de Google Reader ? Quelle alternative pour les professionnels](http://fr.slideshare.net/serge.courrier/fin-de-google-reader-quelle-alternative-pour-les-professionnels )
 
-##Syndication
+## Syndication
 On parle en général de "syndication de contenu" pour désigner la possibilité de republier sur un site *web* - en principe de façon automatisée - du contenu provenant d'un autre site *web*.
 **Exemples :**
 * [Tela Botanica](http://tela-botanica.org/actu) , page actualité
 * [Educ-envir.org](http://educ-envir.org) , page actualité
 
 **Attention aux droits d'auteurs !**
-##En savoir plus##
+## En savoir plus## 
 
 [![Mettre en place sa veille avec les flux RSS](https://framapic.org/tIjk9zEJMpxW/s9szb4nOMo95)](https://prezi.com/80vahj9zfays/mettre-en-place-sa-veille-avec-les-flux-rss/)
 
@@ -56,7 +56,7 @@ On parle en général de "syndication de contenu" pour désigner la possibilité
 * http://www.apprendre2point0.org/les-tags-expliques-aux-enfants/ : flus RSS expliqués aux enfants
 
 *Crédits photo : ejk sur Flick - CC-BY-SA*
-##Auteurs :
+## Auteurs :
 Outils-réseaux
-##Licence :
+## Licence :
 Creatives Commons By-Sa

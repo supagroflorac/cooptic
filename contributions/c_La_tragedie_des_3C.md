@@ -17,7 +17,7 @@ Dans toutes nos réflexions sur la gouvernance et les différents modes de régu
 
 Texte originel : Cornu Jean-Michel, « Annexe 5 du rapport Vox Internet 2005 : Une régulation complète et cohérente : la théorie des 3 C » [en ligne], Vox Internet, disponible sur <http://www.csi.ensmp.fr/voxinternet/www.voxinternet.org/article72ac.html?id_article=11&lang=fr>, (consulté le 30 janvier 2014).
 
-### Auteurs :
+###  Auteurs :
 Jean-Michel Cornu
-### Licence : 
+###  Licence : 
 Creatives Commons By-Sa

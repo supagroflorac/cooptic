@@ -1,6 +1,6 @@
-#Quels outils pour quoi faire ? (selon le type de groupe)
-#Grille de décision
-###Quel type de groupe ?
+# Quels outils pour quoi faire ? (selon le type de groupe)
+## Grille de décision
+### Quel type de groupe ?
 
 |TAILLE : gérer la parole | PETIT GROUPE : échanges immédiats | GROUPE MOYEN : faciliter les échanges | GRAND GROUPE : gérer la quantité d'échanges|
 |------|------|------|------|
@@ -8,7 +8,7 @@
 |VOCATION : adapter les outils aux objectifs | CONVIVIALITE : maîtriser l'informel | PRODUCTION : maîtriser les tâches critiques pour Co-construire | DIFFUSION : publier et se faire connaître|
 |MATURITÉ : vers l'autonomie | ENFANT : initier le premier pas | ADOLESCENT : gérer les conflits | ADULTE : rester ouvert et jeune|
 
-###PETIT GROUPE : Échanges immédiats
+### PETIT GROUPE : Échanges immédiats
 
 * Courrier électronique.
 * Outils de communication synchrone.
@@ -17,7 +17,7 @@ Cette famille d'outils regroupe tous ceux qui permettent de dialoguer en direct 
 * Les outils de téléphonie par IP : on peut discuter à l'oral (transmission de la voix).
 * Les outils de visio-conférence : on peut dialoguer par oral et se voir (transmission du son et de l'image).
 
-###GROUPE MOYEN : faciliter les échanges
+### GROUPE MOYEN : faciliter les échanges
 
 **Liste de discussion, de diffusion, forum**
 
@@ -26,7 +26,7 @@ Description : Une liste de discussion ou liste de diffusion est une utilisation 
 * Liste de diffusion : liste en lecture seule, par courrier électronique, pour diffuser par exemple une lettre information ou "newsletter". La lettre est diffusée à tout le monde mais aucun des destinataires ne peut intervenir dessus ou communiquer vers les autres inscrits à la liste de diffusion (1 vers n).
 * Forum Web : liste de discussion "en ligne" : on consulte, on crée un message et on répond via son navigateur Web. Les messages sont classés par fils de discussion.
 
-###GRAND GROUPE : Gérer la quantité d'échanges
+### GRAND GROUPE : Gérer la quantité d'échanges
 
 **Nuage de mots clés**
 
@@ -35,13 +35,13 @@ Le nuage de mots-clefs (*tag cloud* en anglais) est une représentation visuelle
 Voir la définition de [Wikipedia](http://fr.wikipedia.org/wiki/Nuage_de_mots_clefs)
 Synthèses : voir l'exemple de [l'utilisation des listes à Tela Botanica](http://ebook.coop-tic.eu/francais/wakka.php?wiki=UtilisationDesListesATelaBotanica) 
 
-###GROUPE LOCAL : Se synchroniser
+### GROUPE LOCAL : Se synchroniser
 
 **Agenda partagé**
 
 Des agendas visibles sur Internet et que l'on peut compléter à plusieurs.
 
-###GROUPE NATIONAL : Retrouver le local##
+### GROUPE NATIONAL : Retrouver le local## 
 **Annuaires**
 
 Il n'existe pas d'outils clés en main pour réaliser des annuaires. Mais c'est un outil qui est souvent présent dans d'autre systèmes :
@@ -52,8 +52,8 @@ Il n'existe pas d'outils clés en main pour réaliser des annuaires. Mais c'est 
 
 Des systèmes pour installer des cartographies interactives sur un site Internet. On peut s'en servir pour cartographier une communauté, un réseau en création : indispensable pour initier de la coopération !
 
-###GROUPE MONDIAL : Retrouver le national
-###CONVIVIALITÉ : Maîtriser l'informel
+### GROUPE MONDIAL : Retrouver le national
+### CONVIVIALITÉ : Maîtriser l'informel
 **Trombinoscope**
 
 **Réseaux sociaux et micro-blogging**
@@ -68,7 +68,7 @@ Une présentation sur [les réseaux sociaux](http://prezi.com/2l-vovq6flde/)
 
 C'est un dérivé concis du blog, qui permet de publier un court article, plus court que dans les blogs classiques, les articles pouvant être de type texte court, mais peuvent également contenir une image ou même une vidéo embarquée, Les flux d'agrégation sont plus légers que dans les blogs traditionnels et peuvent contenir tout le message. La diffusion peut également être restreinte par l'éditeur à un cercle de personnes désirées. ([article issu de Wikipedia](http://fr.wikipedia.org/wiki/Microblog)
 
-###PRODUCTION : Maîtriser les tâches critiques pour Co-construire
+### PRODUCTION : Maîtriser les tâches critiques pour Co-construire
 **Wiki**
 
 **Partage de documents :**
@@ -92,7 +92,7 @@ Références :
  * [Les cartes mentales comme outil éducatif](http://edutechwiki.unige.ch/fr/Carte_conceptuelle)
  * [Pétillant : un des sites de références sur les cartes heuristiques](http://www.petillant.com/)
  
-###DIFFUSION : Publier et se faire connaître
+### DIFFUSION : Publier et se faire connaître
 
 **Lettre d'actualité et liste de diffusion.**
 
@@ -111,24 +111,24 @@ Il existe deux façons d'utiliser RSS :
 De "*Web-log*" : au départ, sortes de journaux intimes en ligne, ils se sont imposés sur la toile, pour devenir les supports d'une expression publique diverse : opinion, parole citoyenne, militante, témoignages, récit...
 Il en existe différents types : services clés en main fournis (plate-formes de *blog*) ou logiciels libres à installer sur un serveur. Leur point commun : ils permettent à un non-technicien d'écrire et publier des articles qui seront ensuite triés par dates.
 
-###ENFANT : Initier le premier pas
-####Outils simples
-####Rencontres 
-####Modes d'emploi
+### ENFANT : Initier le premier pas
+#### Outils simples
+#### Rencontres 
+#### Modes d'emploi
 Voir : [Mode d'emploi du wiki "stages courts"](http://outils-reseaux.org/wikini/stagescourts/wakka.php?wiki=PremiersPas)
-###ADOLESCENT : Gérer les conflits
-####Règles de fonctionnement
+### ADOLESCENT : Gérer les conflits
+#### Règles de fonctionnement
 
 * Sondages et formulaires.
 
 Description : des outils pour réaliser des questionnaires en ligne. Certains traitent les réponses statistiquement (réalisation de graphiques, pourcentages).
 
-###ADULTE : Rester ouvert et jeune
-####Accueil des nouveaux, entrées dans le contenu par public #
+### ADULTE : Rester ouvert et jeune
+#### Accueil des nouveaux, entrées dans le contenu par public #
 Voir [le portail de l'ONEM](http://www.onem-france.org/)
 
 
-##Auteurs :
+## Auteurs :
 Outils-réseaux
-##Licence :
+## Licence :
 Creatives Commons By-Sa

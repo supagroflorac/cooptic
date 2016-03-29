@@ -1,5 +1,5 @@
 # Les réseaux qui durent sont sous licence CC BY SA
-##Introduction : Un monde à la dérive
+## Introduction : Un monde à la dérive
 
 Un peu de fiction pour débuter...
 
@@ -28,7 +28,7 @@ Un peu de fiction pour débuter...
 
 Les DRM ont pour objectif de contrôler l'utilisation qui est faite des œuvres numériques. Ces dispositifs peuvent s'appliquer à tous types de supports numériques physiques (disques, DVD, Blu-ray, logiciels, etc.) ou de transmission (télédiffusion, services Internet, etc.) grâce à un système d'accès conditionnel.
 Limiter la copie n'est qu'une raison superficielle à l'ajout de DRM à une technologie. Les DRM échouent complètement lorsqu'il s'agit d'empêcher la copie, mais sont remarquablement efficaces pour éviter toute innovation. En effet les DRM sont couverts par les lois anti-contournement telles que la célèbre DMCA de 1998 (US Digital Millennium Copyright Act) et l'EUCD de 2002 (EU Copyright Directive) ; chacune d'elle fait du contournement de DRM un crime, même si vous n'enfreignez aucune autre loi.
-##Pourquoi en sommes-nous là ?
+## Pourquoi en sommes-nous là ?
 L'arrivée des licences ouvertes ou facilitant la diffusion, la virtualisation toujours plus facile et large des données et du savoir, et les imprimantes 3D qui permettent de réaliser à peu près tout, ont fortement raidi la position des gouvernements (sous la pression du lobbying des entreprises) en ce qui concerne le droit d'auteur et la propriété intellectuelle.
 
 Un mouvement de fond important est en marche pour restreindre la liberté...
@@ -43,7 +43,7 @@ La réaction s'organise, mais elle doit être soutenue car les opposants sont f�
 selon Wikipédia : *Revendication de *copyright* frauduleuse, comme par exemple prétendre avoir des droits sur des œuvres du domaine public.*
 
 On assiste de plus en plus à la pose de droit d'auteur sur des œuvres ou objets qui ne devraient pas en faire l'objet (par exemple la peinture de la Joconde non photographiable dans le musée). Ces droits sont illégaux mais non contestés car actuellement personne ne défend le domaine public (peu explicité dans le droit).
-##Et pourtant 
+## Et pourtant 
 !["mickey mic1.png"](http://ebook.coop-tic.eu/francais/files/LesReseauxQuiDurentSontSousLicenceCcBy_mic1_20140117143713_20140117134051.png)**Un cas concret : Protégeons Mickey**
 
 Le succès de Walt Disney ne repose-t-il pas dans une large mesure sur le fait d'avoir puisé librement dans le patrimoine des contes et des légendes, devenus entre temps des modèles littéraires du domaine public ? Disney a, parmi d'autres, redonné vie à des personnages emblématiques comme Blanche Neige, la petite Sirène ou la Belle et la bête. Il les a modifiés, "remixés", réincarnés. Le résultat lui a fait gagner de l'argent. Ce succès commercial repose donc lui aussi sur le recours à un héritage culturel commun.
@@ -52,14 +52,14 @@ Ou bien doit-il être possible de revendiquer des droits exclusifs d'exploitatio
 Disney devrait bien plutôt laisser Mickey Mouse et Donald Duck à la libre disposition du public, les investissements ayant déjà été plusieurs fois couverts.
 
 Une société doit pouvoir compter sur sa capacité créatrice illimitée de produire de nouvelles œuvres. Les créateurs doivent pouvoir puiser librement dans les richesses du patrimoine culturel. Notre culture est un réservoir inépuisable d'histoires, d'images, de musiques et de bien d'autres choses encore, pourvu que l'accès à ces biens ne soit pas entravé ou raréfié. La culture dépend de ce que chacun reverse au pot commun et ne cherche pas à se prévaloir de manière inéquitable "pour l'éternité moins un jour" de droits privés sur les biens culturels.
-##Les licences ouvertes : rappel succinct
+## Les licences ouvertes : rappel succinct
 Les licences libres ne sont que des outils construits par l'homme pour organiser un cadre de coopération. De ce fait, elles ont un impact sur nos pratiques autant que nous en avons sur elles et risquent donc d'empêcher - ou de favoriser - l'apparition de nouveaux usages.
 
 Ces licences libres fondent le support juridique d'un mouvement qu'on appelle "le libre".
 Il existe plusieurs types de licences, certaines plus ouvertes que d'autres, certaines plus spécifiques à des types d’œuvres que d'autres...
 
 On en compte près d'une centaine ! Certaines normes se sont néanmoins imposées grâce à des organisations comme la fondation Creative Commons ou l'Open Source Initiative
-####Deux licences importantes
+#### Deux licences importantes
 **La licence GNU GPL (General Public Licence)**
 C'est la première licence libre. Elle est apparue avec les premiers logiciels libres afin de faciliter l'accès aux codes sources. Historiquement réservée aux logiciels, elle est de mieux en mieux documentée et voit son champ d'action s'élargir !
 
@@ -95,7 +95,7 @@ Si l'on souhaite garder à l'esprit la réelle ouverture prônée par le licence
 * A placer ses oeuvres en CC BY SA,
 * à veiller à les rendre accessibles et modifiables *via* des programmes "ouverts" eux aussi (format open office ou autres).
 
-##Un exemple pour illustrer
+## Un exemple pour illustrer
 Sésamath le réseau l'enseignement actuel des Mathématiques : http://www.sesamath.net/
 Créée en 2001, Sésamath est une association reconnue d'intérêt général et à but non lucratif.
 Son but est de favoriser :
@@ -114,7 +114,7 @@ Dès le départ, Sésamath a fait le choix d'utiliser les licences
 Grâce à ce choix volontairement très ouvert, Sésamath a pu capitaliser sur les apports individuels des membres du réseau, produire des contenus plus élaborés (on parlera de richesse de niveau 2 voir plus bas) qui ont ensuite pu être valorisés financièrement. Cette valorisation ayant permis à l'association de pérenniser son activité sans perdre le sens premier de son action : proposer un espace de coopération et de mutualisation des compétences entre enseignants de mathématique.
 *A contrario*, un réseau de profs de français a voulu tenter l'expérience Sésamath et a échoué car les licences choisies (ou plutôt non choisies) au départ ne leur a pas permis de valoriser leurs productions collectives.
 
-##Pourquoi les licences non ouvertes empêchent la valorisation financière des productions du réseau ?
+## Pourquoi les licences non ouvertes empêchent la valorisation financière des productions du réseau ?
 Avant d'aller plus loin, il faut expliciter la notion de niveaux de richesse dans un réseau.
 **Les niveaux de richesse dans un réseau.**
 Dans la vie d'une réseau, on observe l'apparition de plusieurs niveaux de richesse :
@@ -124,7 +124,7 @@ Dans la vie d'une réseau, on observe l'apparition de plusieurs niveaux de riche
 
 A partir du niveau 2, les richesses produites sont en général de qualité suffisante que pour envisager une valorisation financière.
 
-##Organigramme de vie d'un réseau
+## Organigramme de vie d'un réseau
 **Richesse de niveau 1** : Le réseau s'organise et compile les apports individuels de ses membres
 
 Situation 1 | Situation 2 | Situation 3
@@ -140,7 +140,7 @@ Grâce à la licence ouverte, les productions collectives sont valorisables faci
 **VIE**|**MORT**|**DANGER.... MORT**
 
 
-##La force des licences ouverte *Share Alike*
+## La force des licences ouverte *Share Alike*
 Les réseaux ayant fait le choix des licences ouverte *Share Alike*(partage à l'identique) ont un effet de spirale important.
 
 Leurs productions étant souvent importantes et de qualité (car ils atteignent le niveau 2 de richesse plus facilement, voir Sésamath), ils sont régulièrement sollicités pour échanger des contenus avec d'autres réseaux proches ou similaires.
@@ -148,7 +148,7 @@ Si ces réseaux proches ont eux fait le choix d'une licence plus fermée (Non co
 * soit je profite des richesses du réseau ouvert (1) mais alors je dois quitter ma licence "moins ouverte" pour adopter la licence "plus ouverte" du réseau 1.
 * soit je ne veux pas quitter ma licence et je regarde avec envie et désespoir toutes les richesses que j'aurai pu partager et les richesses de niveau 3 (hautement valorisables celle-là) qu'on aurait pu faire ensemble ;-)
 
-##Les questions qui reviennent souvent
+## Les questions qui reviennent souvent
 **On va tout me piquer si je ne place la clause Non Commercial (NC)**
 
 Il semble pourtant que cette clause non commercial soit flou et difficilement interprétable.
@@ -196,7 +196,7 @@ Ce qui lui permet de faire face aux imprévus et c'est ce niveau de compétence 
 *Dessin : David John Goodger - CC-BY-NC-SA*
 
 
-### Auteurs :
+###  Auteurs :
 Gatien Bataille
-### Licence : 
+###  Licence : 
 Creatives Commons By-Sa

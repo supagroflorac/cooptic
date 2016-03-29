@@ -1,8 +1,8 @@
-#L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information
+# L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information
 Nombreuses sont encore les personnes qui négligent l'ergonomie éditoriale et concentrent tous leurs efforts sur les techniques d'écriture, pensant que celles-ci suffisent pour partager et publier un contenu de qualité sur Internet. Pourtant, la spécificité de la lecture sur l'écran amène à repenser la mise en valeur de l'information et la manière de la structurer pour la rendre accessible à l'internaute. C'est justement à cela que s'attache l'ergonomie éditoriale : à réfléchir à la meilleure tactique à emprunter pour s'adapter aux "contraintes" techniques du *web* et faciliter au maximum la navigation du lecteur en travaillant notamment sur l'organisation des contenus. En somme, à mettre en place une scénarisation du texte afin de pousser l'internaute à approfondir sa lecture.
-##Les enjeux de l'ergonomie éditoriale
+## Les enjeux de l'ergonomie éditoriale
 Eve Demange, auteur du *blog* [Plume interactive](http://plumeinteractive.canalblog.com/) et spécialiste de ce domaine en France, explique quelles sont les spécificités et les enjeux de l'ergonomie éditoriale : "L'ergonomie améliore l'utilisation des sites Internet en repensant un certain nombre d'éléments comme la structure de l'information, l'enchaînement des pages, le *design*. L'ergonomie éditoriale s'assure que les termes utilisés pour guider la navigation sont suffisamment clairs, suffisamment courts, qu'ils permettent aux visiteurs de trouver leur chemin facilement. Il ne s'agit pas de rédiger ou réécrire un texte en l'adaptant à la lecture *web* (même si cela améliore aussi l'ergonomie éditoriale), il s'agit de peser les mots. C'est un travail différent, spécifique au média *web*. Un bon rédacteur *web* peut faire ce travail, mais également un *designer* d'expérience ou un ergonome sensible à l'éditorial."*
-##Les spécificités de la lecture à l'écran
+## Les spécificités de la lecture à l'écran
 ![HeatMap City University Interaction Lab CC-By on Flick](https://framapic.org/hJ6scGA6YRaq/IAWheIxm8Bbt)
 
 
@@ -14,7 +14,7 @@ D'autres études ont montré que bien avant les illustrations, l'internaute rema
 
 
 
-##Quelques bonnes pratiques
+## Quelques bonnes pratiques
 Sans entrer dans les détails des diverses études menées sur ce sujet, il ressort quelques principes de base pour optimiser la navigation de l'internaute, favoriser sa lecture et l'inciter à revenir. Schématiquement, ils tiennent compte de deux aspects principaux : le confort visuel et l'accessibilité du contenu (c'est-à-dire la manière d'en faciliter la compréhension).
 
 En ce qui concerne **le confort visuel**, quatre pratiques sont recommandées :
@@ -32,14 +32,14 @@ Pour améliorer **l'accessibilité du contenu**, il est conseillé de :
 - Illustrer son article car une image accolée à un texte a le pouvoir d'améliorer sensiblement la mémorisation de l'information. Elle stimule l'apprentissage des données.
 - Varier les constructions de phrase pour mettre en valeur les mots porteurs de sens.
 
-##Pour aller plus loin
+## Pour aller plus loin
 
 [![Ergonomie01](https://framapic.org/kvTITjCEjKgq/f978CAwDMsF4)](http://www.pearltrees.com/numerique/ergonomie-editoriale/id5177273)
 
 
 
 *Crédits Photo : City University Interaction Lab - CC-By on Flickr*
-##Auteurs :
+## Auteurs :
 Outils-réseaux
-##Licence :
+## Licence :
 Creatives Commons By-Sa

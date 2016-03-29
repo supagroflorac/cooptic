@@ -1,12 +1,12 @@
-#Le Web 2.0
+# Le Web 2.0
 Le [web 2.0](http://fr.wikipedia.org/w/index.php?title=Web_2.0&oldid=21325642) est un terme inventé en 2004 par Dale Dougherty de la société O'Reilly Media et popularisé en 2005 par Tim O'Reilly. Dans un article intitulé [Qu'est-ce que le web 2.0 ?](http://www.eutech- sii.com/index.php?option=com_content&view=article&id=78), ce dernier redéfinit Internet non plus comme un simple média mais comme un support à l'intelligence collective. Véritable révolution qui place l'utilisateur au coeur du *web* et marque un retour aux fondamentaux pour certains, vaste escroquerie *marketing* pour d'autres, ce concept recouvre des sens et des réalités bien différents.
 
 Pour les utilisateurs, il est synonyme d'outils plus participatifs, que l'on peut s'approprier. Pour les développeurs, de formats, de standards, de technologies qui permettent de relier les systèmes. Dans la vision marketing, il recouvre la notion de services au sein desquels les utilisateurs créent le contenu ainsi que de modèle économique où la gratuité est la règle. 
-##Présentation
+## Présentation
 [![Web2_01](https://framapic.org/mQNUXvW5lIiX/X3RhXu1303SQ)](http://www.slideshare.net/atelierlorient/formation-web-20)
 
 *Présentation réalisée par Carnet de bord de l'@telier, [blog de l'Espace culture multimédia de la Médiathèque de Lorient](http://atelierlorient.wordpress.com/)*.
-##En résumé, les cinq traits caractéristiques du web 2.0
+## En résumé, les cinq traits caractéristiques du web 2.0
 Collaboration, interaction, échange et évolutions technologiques figurent parmi ses maîtres mots.
 
 **1. La participation renforcée des internautes ( *blogs*, *wiki*, *tags*,...)**
@@ -33,7 +33,7 @@ Les applications traditionnelles désertent bureau local (desktop) pour rejoindr
 Les sites et services se réclamant du web 2.0 ne cessent d'augmenter. Les services sont gratuits ou accessibles à des coûts très réduit. La grande majorité des entreprises proposant des services 2.0 ont ainsi moins de 24 mois...
 
 
-##Regards croisés : exemples d'usages du Web 2.0
+## Regards croisés : exemples d'usages du Web 2.0
 **Dans le domaine de l'Éducation**
 
 [![Web2_02](https://framapic.org/VOJCDwOcrfxh/kQQq1PZM42Da)](https://www.youtube.com/watch?v=HUX3DActAic)
@@ -42,11 +42,11 @@ Les sites et services se réclamant du web 2.0 ne cessent d'augmenter. Les servi
 
 [![Web2_03](https://framapic.org/9FQMbH0cknrc/tQyIiS6x1HG5)](http://www.dailymotion.com/video/xgmm8e_serge-courrier-quels-usages_tech)
 
-##Pour aller plus loin
+## Pour aller plus loin
 [![Web2_04](https://framapic.org/UGdEcmzDXA7A/neFWkcNGKWbd)](http://www.pearltrees.com/t/outils-reseaux-org/web-2-0/id4198969)
 
 
-### Auteurs :
+###  Auteurs :
 Outils-réseaux
-### Licence : 
+###  Licence : 
 Creatives Commons By-Sa
