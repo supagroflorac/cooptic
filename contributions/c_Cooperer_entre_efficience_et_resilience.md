@@ -3,7 +3,8 @@ Robert Ulanowicz est un écologiste empiriste connu pour ses recherches sur la m
 
 ![efficience_graphique](http://ebook.coop-tic.eu/francais/cache/image_bf_imageConcept_CoopererEntreEfficienceEtResilience_1sur1_fr.png)
 
-**C'est à ce point d'équilibre entre optimisation et adaptabilité, entre ordre et désordre [2](#note), qu'émergent de nouvelles possibilités : en un mot, que la possibilité d'innovation est maximale**. Ce résultat, sur les dangers de seulement optimiser sans développer l'adaptabilité, n'est pas seulement un constat sur les systèmes biologiques, mais plutôt une règle profonde de tous les systèmes complexes. **Il peut ainsi être appliqué au domaine de l'innovation, du fonctionnement en réseau, aux choix complexes et aux civilisations elles-mêmes** **[3](#note)** .
+**C'est à ce point d'équilibre entre optimisation et adaptabilité, entre ordre et désordre [2](#note), qu'émergent de nouvelles possibilités : en un mot, que la possibilité d'innovation est maximale**. Ce résultat, sur les dangers de seulement optimiser sans développer l'adaptabilité, n'est pas seulement un constat sur les systèmes biologiques, mais plutôt une règle profonde de tous les systèmes complexes. **Il peut ainsi être appliqué au domaine de l'innovation, du fonctionnement en réseau, aux choix complexes et aux civilisations elles-mêmes** **[3](#note)**
+
 
 <a id="note">
 * **(1)** Ulanowicz Robert E., A third window: natural life beyond Newton and Darwin, West Conshohocken, Pa., Templeton Foundation Press, 2009.
