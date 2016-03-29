@@ -21,6 +21,7 @@
 * [Outils conviviaux](c_Outils_conviviaux.md)
 * [Pourquoi ça ne va pas plus mal](c_Pourquoi_ca_ne_va_pas_plus_mal.md)
 * [Théorie du chaos et réseaux](c_Theorie_du_chaos_et_reseaux.md)
+
 ## Méthodes
 * [Animation de dispositifs collaboratifs : freins et facilitateurs](m_Animation_des_dispositifs_cooperatifs_freins_et_facilitateurs.md)
 * [Cartographier pour donner une vision d'ensemble](m_Cartographier pour_donner_une_vision_d_ensemble.md)
