@@ -22,23 +22,22 @@
 |Pourquoi ça ne va pas plus mal ?|Concept|oui|oui|c Pourquoi ca ne va pas plus mal|NC|NC|
 |Théorie du chaos et réseaux|Concept|oui|oui|c Theorie du chaos et reseaux|NC|NC|
 |Animation des dispositifs coopératifs : freins et facilitateurs|Méthode|oui|oui|m Animation des dispositifs cooperatifs freins et facilitateurs|oui|NC|
-|Cartographier pour donner une vision d'ensemble|Méthode| | | | |
-|Comment produire un document à plusieurs centaines de personnes ? (1ère partie)|Méthode| | | | |
-|Comment produire un document à plusieurs centaines de personnes ? (2ème partie)|Méthode| | | | |
+|Cartographier pour donner une vision d'ensemble|Méthode|oui|oui| |NC|NC|
+|Comment produire un document à plusieurs centaines de personnes ?|Méthode|oui|oui| |oui|NC||
 |Comprendre par vous-même ce qui se passe dans votre groupe|Méthode|oui|oui|m Comprendre par vous-meme ce qui se passe dans votre groupe|NC|NC|
-|Concevoir une formation|Méthode| | | | |
+|Concevoir une formation|Méthode|oui|oui| |oui|NC|
 |Coopération ou collaboration : quelles différences ?|Méthode|oui|oui|m Cooperation ou collaboration quelles differences|oui|NC|
-|Formateur 2.0 : une nouvelle manière de faire de la formation|Méthode| | | | |
+|Formateur 2.0 : une nouvelle manière de faire de la formation|Méthode|oui|oui| |oui|NC|
 |L'ergonomie éditoriale ou l'art de bâtir une architecture de l'information|Méthode|oui|oui|m L ergonomie editoriale ou l art de batir une architecture de l information|oui|oui|
-|L'écriture collaborative|Méthode| | | | |
-|La méthode GTD|Méthode| | | | |
-|La veille partagée et collaborative sur Internet|Méthode| | | | |
-|Les accélérateurs de projet|Méthode| | | | |
+|L'écriture collaborative|Méthode|oui|oui| |NC|oui|
+|La méthode GTD|Méthode|oui|oui| |oui|NC|
+|La veille partagée et collaborative sur Internet|Méthode|oui|oui| |oui|NC|
+|Les accélérateurs de projet|Méthode|oui|oui| |NC|NC|
 |Les flux RSS et la syndication|Méthode|oui|oui|m_Les flux RSS et la syndication|oui|oui|
-|Les TIC au service de projets territoriaux|Méthode| | | | |
-|Organiser un événement participatif|Méthode| | | | |
-|Quels outils pour quoi faire ? (selon l'évolution du réseau)|Méthode| | | | |
-|Quels outils pour quoi faire ? (selon le type de groupe)|Méthode| | | | |
-|Règles du pédagogue|Méthode| | | | |
-|Trucs et astuces pour démarrer un réseau coopératif|Méthode| | | | |
-|Écrire pour le web|Méthode| | | | |
+|Les TIC au service de projets territoriaux|Méthode|oui|oui| |oui|NC|
+|Organiser un événement participatif|Méthode|oui|oui| |oui|NC|
+|Quels outils pour quoi faire ? (selon l'évolution du réseau)|Méthode|oui|oui| |oui|NC|
+|Quels outils pour quoi faire ? (selon le type de groupe)|Méthode|oui|oui| |NC|NC|
+|Règles du pédagogue|Méthode|oui|oui| |oui|NC|
+|Trucs et astuces pour démarrer un réseau coopératif|Méthode|oui|oui| |oui|NC|
+|Écrire pour le web|Méthode|oui|oui| |oui|oui|
