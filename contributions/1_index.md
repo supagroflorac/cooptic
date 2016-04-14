@@ -28,7 +28,7 @@
 * [Comment produire un document à plusieurs centaines de personnes](m_Comment_produire_un_document_a_plusieurs_centaines_de_personnes.md)
 * [Comprendre par vous-même ce qui se passe dans votre groupe](m_Comprendre_par_vous-meme_ce_qui_se_passe_dans_votre_groupe.md)
 * [Concevoir une formation](m_Concevoir_une_formation.md)
-* [Coopération ou collaboration : quelle diféfrence ?](m_Cooperation_ou_collaboration_quelles_differences.md)
+* [Coopération ou collaboration : quelle différence ?](m_Cooperation_ou_collaboration_quelles_differences.md)
 * [Écrire pour le web](m_Ecrire_pour_le_web.md)
 * [Formateur 2.0 : une nouvelle manière de faire de la formation](m_Formateur_2_point_0_Une_nouvelle_maniere_de_faire_de_la_formation.md)
 * [La méthode GTD](m_La_methode_GTD.md)
